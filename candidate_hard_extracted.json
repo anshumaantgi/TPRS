@@ -1,0 +1,44 @@
+{
+    "hard_skills": [
+        {
+            "skill": "Financial forecasting",
+            "skill_explanation": "Managed end-to-end financial forecasting for the Long Range Financial Plan (LRFP) spanning from 2024 to 2028, managing sales figures totalling more than $4 billion."
+        },
+        {
+            "skill": "Data validation and cleaning",
+            "skill_explanation": "Implemented data validation and cleaning processes using Microsoft Excel, resulting in a 15% reduction in data errors."
+        },
+        {
+            "skill": "Design thinking methodologies",
+            "skill_explanation": "Utilised design thinking methodologies to develop a 90-second brand launch video for an in-house data analytics platform, enhancing brand engagement and visibility."
+        },
+        {
+            "skill": "Personal income tax returns preparation",
+            "skill_explanation": "Prepared and filed over 100 personal income tax returns using Microsoft Excel and internal tax software over the span of 5 months."
+        },
+        {
+            "skill": "Data visualization",
+            "skill_explanation": "Utilised dplyr and ggplot2 packages to generate 3 visualisations (line plot, bar graph, scatter plot) to analyse the evolution of Lego set colours from 1949 to 2022."
+        },
+        {
+            "skill": "Stock price prediction",
+            "skill_explanation": "Implemented various regression methods in Python to predict stock prices, achieving a minimal mean-squared error (MSE) of 3.07%."
+        },
+        {
+            "skill": "Programming and Database Languages",
+            "skill_explanation": "Proficient in Python, R, SQL and Java."
+        },
+        {
+            "skill": "Python Libraries",
+            "skill_explanation": "Proficient in NumPy, pandas (data manipulation), Matplotlib, seaborn (data visualization), scikit-learn, TensorFlow, PyTorch (machine learning), OpenCV (image processing)."
+        },
+        {
+            "skill": "R Libraries",
+            "skill_explanation": "Proficient in tidyverse, dplyr, ggplot2."
+        },
+        {
+            "skill": "Other Tools",
+            "skill_explanation": "Proficient in Jupyter Notebooks, Tableau, Microsoft Excel."
+        }
+    ]
+}

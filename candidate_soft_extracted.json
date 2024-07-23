@@ -1,0 +1,36 @@
+{
+    "soft_skills": [
+        {
+            "skill": "Collaboration",
+            "skill_justification": "As a workshop executive for the NUS Statistics and Data Science Society, Ng Jia Yin collaborates with team members to create engaging presentation slides and Python code for Data Cleaning, Statistical Testing, Image Processing and Machine Learning workshops. This demonstrates Ng Jia Yin's ability to work effectively with others and contribute to a shared goal."
+        },
+        {
+            "skill": "Communication",
+            "skill_justification": "As a workshop executive for the NUS Statistics and Data Science Society, Ng Jia Yin delivers insightful data science content to more than 150 NUS students, effectively conveying complex concepts and fostering a conducive learning environment. This demonstrates Ng Jia Yin's ability to communicate effectively and clearly."
+        },
+        {
+            "skill": "Data Analysis",
+            "skill_justification": "Ng Jia Yin implemented various regression methods in Python to predict stock prices, achieving a minimal mean-squared error (MSE) of 3.07%. This demonstrates Ng Jia Yin's ability to analyze and interpret data to make informed decisions."
+        },
+        {
+            "skill": "Data Cleaning",
+            "skill_justification": "Ng Jia Yin managed end-to-end financial forecasting for the Long Range Financial Plan (LRFP) spanning from 2024 to 2028, managing sales figures totalling more than $4 billion. Ng Jia Yin also prepared and filed over 100 personal income tax returns using Microsoft Excel and internal tax software over the span of 5 months. These experiences demonstrate Ng Jia Yin's ability to clean and preprocess data for further analysis."
+        },
+        {
+            "skill": "Data Visualization",
+            "skill_justification": "Ng Jia Yin utilized design thinking methodologies to develop a 90-second brand launch video for an in-house data analytics platform, enhancing brand engagement and visibility. Ng Jia Yin also utilized the dplyr and ggplot2 packages to generate 3 visualisations (line plot, bar graph, scatter plot) to analyse the evolution of Lego set colours from 1949 to 2022. These experiences demonstrate Ng Jia Yin's ability to effectively visualize data to communicate insights and findings."
+        },
+        {
+            "skill": "Machine Learning",
+            "skill_justification": "Ng Jia Yin implemented various regression methods in Python to predict stock prices, achieving a minimal mean-squared error (MSE) of 3.07%. Ng Jia Yin also utilized the scikit-learn and TensorFlow libraries for machine learning tasks. These experiences demonstrate Ng Jia Yin's ability to apply machine learning techniques to solve complex problems."
+        },
+        {
+            "skill": "Project Management",
+            "skill_justification": "Ng Jia Yin managed end-to-end financial forecasting for the Long Range Financial Plan (LRFP) spanning from 2024 to 2028, managing sales figures totalling more than $4 billion. Ng Jia Yin also prepared and filed over 100 personal income tax returns using Microsoft Excel and internal tax software over the span of 5 months. These experiences demonstrate Ng Jia Yin's ability to manage projects effectively and efficiently."
+        },
+        {
+            "skill": "Time Management",
+            "skill_justification": "Ng Jia Yin managed end-to-end financial forecasting for the Long Range Financial Plan (LRFP) spanning from 2024 to 2028, managing sales figures totalling more than $4 billion. Ng Jia Yin also prepared and filed over 100 personal income tax returns using Microsoft Excel and internal tax software over the span of 5 months. These experiences demonstrate Ng Jia Yin's ability to manage time effectively and efficiently."
+        }
+    ]
+}
