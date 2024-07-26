@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "993",
+        "Title": "Getting Started with Power BI Desktop",
+        "URL": "https://www.coursera.org/projects/power-bi-desktop",
+        "Short Intro": "In this 2-hour long project-based course, you will learn the basics of using Power BI Desktop software. We will do this by analyzing data on credit card defaults with Power BI Desktop. Power BI Desktop is a free Business Intelligence application from Microsoft that lets you load, transform, and visualize data. You can create interactive reports and dashboards quite easily, and quickly. We will learn some of the basics of Power BI by importing, transforming, and visualizing the data.\n\nThis course is aimed at learners who are looking to get started with the Power BI Desktop software. There are no hard prerequisites and any competent computer user should be able to complete the project successfully.\n\nNote: This course works best for learners who are based in the North America region. We\u2019re currently working on providing the same experience in other regions.",
+        "Category": "Business",
+        "Sub-Category": "Business Essentials",
+        "Course Type": "Project",
+        "Language": "English",
+        "Skills": "Business Analytics,Data Analysis,Data Visualization (DataViz),power bi,Business Intelligence,",
+        "Instructors": "Amit Yadav",
+        "Rating": "4.7",
+        "Number of viewers": "3,242",
+        "Duration": "2 hours",
+        "Site": "Coursera"
+    }
+}

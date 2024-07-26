@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2276",
+        "Title": "Introduction to Concurrent Programming with GPUs",
+        "URL": "https://www.coursera.org/learn/introduction-to-concurrent-programming?specialization=gpu-programming",
+        "Short Intro": "This course will help prepare students for developing code that can process large amounts of data in parallel. It will focus on foundational aspects of concurrent programming, such as CPU/GPU architectures, multithreaded programming in C and Python, and an introduction to CUDA software/hardware.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cuda,Python Programming,Thread (Computing),C++,",
+        "Instructors": "Chancellor Thomas Pascale",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

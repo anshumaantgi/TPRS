@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1713",
+        "Title": "DevOps on AWS: Release and Deploy",
+        "URL": "https://www.coursera.org/learn/devops-aws-release-deploy?specialization=aws-devops",
+        "Short Intro": "AWS provides a set of flexible services designed to enable companies to more rapidly and reliably build and deliver products using AWS and DevOps practices. These services simplify provisioning and managing infrastructure, deploying application code, automating software release processes, and monitoring your application and infrastructure performance. ",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "aws,Continuous Integration,Continuous Delivery,Devops,",
+        "Instructors": "Rafael Lopes",
+        "Rating": "4.7",
+        "Number of viewers": "74 ",
+        "Duration": "Approx. 3 hours to complete",
+        "Site": "Coursera"
+    }
+}

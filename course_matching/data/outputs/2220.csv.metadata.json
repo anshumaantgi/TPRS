@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2220",
+        "Title": "Mitigating Security Vulnerabilities on Google Cloud",
+        "URL": "https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp?specialization=security-google-cloud-platform",
+        "Short Intro": "In this self-paced training course, participants learn mitigations for attacks at many points in a Google Cloud-based infrastructure, including Distributed Denial-of-Service attacks, phishing attacks, and threats involving content classification and use. They also learn about the Security Command Center, cloud logging and audit logging, and using Forseti to view overall compliance with your organization's security policies.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.7",
+        "Number of viewers": "696 ",
+        "Duration": "Approx. 6 hours to complete",
+        "Site": "Coursera"
+    }
+}

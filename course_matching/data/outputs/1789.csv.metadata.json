@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1789",
+        "Title": "Reinforcement Learning in Finance",
+        "URL": "https://www.coursera.org/learn/reinforcement-learning-in-finance?specialization=machine-learning-reinforcement-finance",
+        "Short Intro": "This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option valuation, trading, and asset management. ",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "option pricing and risk management,simple model for market dynamics,Q-learning using financial problems,optimal trading,Portfolio Optimization,",
+        "Instructors": "Igor Halperin",
+        "Rating": "3.6",
+        "Number of viewers": "123 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

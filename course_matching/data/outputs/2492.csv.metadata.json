@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2492",
+        "Title": "Python Data Analysis",
+        "URL": "https://www.coursera.org/learn/python-analysis?specialization=introduction-scripting-in-python",
+        "Short Intro": "This course will continue the introduction to Python programming that started with Python Programming Essentials and Python Data Representations.  We'll learn about reading, storing, and processing tabular data, which are common tasks.  We will also teach you about CSV files and Python's support for reading and writing them.  CSV files are a generic, plain text file format that allows you to exchange tabular data between different programs. These concepts and skills will help you to further extend your Python programming knowledge and allow you to process more complex data.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Scott Rixner",
+        "Rating": "4.7",
+        "Number of viewers": "862 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

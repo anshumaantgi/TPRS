@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3001",
+        "Title": "How to Become a Data Engineer",
+        "URL": "https://www.udacity.com/course/data-engineer-nanodegree--nd027",
+        "Short Intro": "Understand the latest AWS features used by data engineers to design and build systems for collecting, storing, and analyzing data at scale.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Apache Airflow, AWS Glue, Apache Spark, Redshift, Amazon S3, Data Pipeline DAGs, Data Pipeline Creation, AWS Data Lakes, Data Transformation, Data Extraction, OLAP Cubes, Cloud Computing Fluency, ETL, Data Wrangling, Data Pipeline Maintenance, Data Warehouse Architecture, Data Lakes",
+        "Instructors": "",
+        "Rating": "4.6",
+        "Number of viewers": "",
+        "Duration": "Estimated 4 months to complete",
+        "Site": "Udacity"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1925",
+        "Title": "Applying Data Analytics in Accounting",
+        "URL": "https://www.coursera.org/learn/applying-data-analytics-accounting?specialization=analytics",
+        "Short Intro": "This course explores business analytic applications in accounting. First, it presents a survey of technology topics in accounting, including process mining, blockchain and applications in audit, tax, and assurance. Next, the course explores visualization and basic analytics in audit and control testing using R and Alteryx. Next, the course examines the uses of text analysis in accounting and conducts text analysis using R and RStudio. Finally, the course examines robot process automation in general using UiPath and its applications in accounting.",
+        "Category": "Business",
+        "Sub-Category": "Business Strategy",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Natural Language Processing,robotic process automation,Analytics,Data Analysis,Accounting Analytics,",
+        "Instructors": "Gies College of Business, University of Illinois",
+        "Rating": "4.9",
+        "Number of viewers": "19 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

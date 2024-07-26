@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2607",
+        "Title": "Web Applications and Command-Line Tools for Data Engineering",
+        "URL": "https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke",
+        "Short Intro": "In this fourth course of the Python, Bash and SQL Essentials for Data Engineering Specialization, you will build upon the data engineering concepts introduced in the first three courses to apply Python, Bash and SQL techniques in tackling real-world problems. First, we will dive deeper into leveraging Jupyter notebooks to create and deploy models for machine learning tasks. Then, we will explore how to use Python microservices to break up your data warehouse into small, portable solutions that can scale. Finally, you will build a powerful command-line tool to automate testing and quality control for publishing and sharing your tool with a data registry.",
+        "Category": "Information Technology",
+        "Sub-Category": "Data Management",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Web Application,Python Programming,Jupyter notebooks,Cloud-Hosted Notebooks,Command-Line Interface,",
+        "Instructors": "Noah Gift",
+        "Rating": "4.0",
+        "Number of viewers": "16 ",
+        "Duration": "Approx. 15 hours to complete",
+        "Site": "Coursera"
+    }
+}

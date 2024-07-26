@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1242",
+        "Title": "Building Resilient Streaming Analytics Systems on Google Cloud",
+        "URL": "https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-machine-learning",
+        "Short Intro": "Processing streaming data is becoming increasingly popular as streaming enables businesses to get real-time metrics on business operations. This course covers how to build streaming data pipelines on Google Cloud. Pub/Sub is described for handling incoming streaming data. The course also covers how to apply aggregations and transformations to streaming data using Dataflow, and how to store processed records to BigQuery or Cloud Bigtable for analysis. Learners will get hands-on experience building streaming data pipeline components on Google Cloud using QwikLabs.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.6",
+        "Number of viewers": "1,197 ",
+        "Duration": "Approx. 8 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1531",
+        "Title": "Cloud Virtualization, Containers and APIs",
+        "URL": "https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale",
+        "Short Intro": "Welcome to the second course in the Building Cloud Computing Solutions at Scale Specialization! In this course, you will learn to design Cloud-native systems with the fundamental building blocks of Cloud computing. These building blocks include virtual machines and containers. You will also learn how to build effective Microservices using technologies like Flask and Kubernetes. Finally, you will analyze successful patterns in Operations including: Effective alerts, load testing and Kaizen. ",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Noah Gift",
+        "Rating": "4.5",
+        "Number of viewers": "76 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

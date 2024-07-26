@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2073",
+        "Title": "Linux Kernel Programming and Introduction to Yocto Project",
+        "URL": "https://www.coursera.org/learn/linux-kernel-programming-yocto-project?specialization=advanced-embedded-linux-development",
+        "Short Intro": "This course provides an introduction to Kernel Driver development for the Linux operating system. The Yocto build system is introduced, which students use to build their own custom Embedded Linux system through programming assignments.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Shell Script,C Programming,Linux,Embedded Systems,",
+        "Instructors": "Daniel Walkes",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Approx. 40 hours to complete",
+        "Site": "Coursera"
+    }
+}

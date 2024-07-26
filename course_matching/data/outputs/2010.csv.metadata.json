@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2010",
+        "Title": "Introduction to Parallel Programming with CUDA",
+        "URL": "https://www.coursera.org/learn/introduction-to-parallel-programming-with-cuda?specialization=gpu-programming",
+        "Short Intro": "This course will help prepare students for developing code that can process large amounts of data in parallel on Graphics Processing Units (GPUs). It will learn on how to implement software that can solve complex problems with the leading consumer to enterprise-grade GPUs available using Nvidia CUDA. They will focus on the hardware and software capabilities, including the use of 100s to 1000s of threads and various forms of memory.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cuda,Algorithms,C/C++,GPU,Nvidia,",
+        "Instructors": "Chancellor Thomas Pascale",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Approx. 21 hours to complete",
+        "Site": "Coursera"
+    }
+}

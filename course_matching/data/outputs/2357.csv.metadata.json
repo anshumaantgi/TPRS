@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2357",
+        "Title": "Accounting Data Analytics with Python",
+        "URL": "https://www.coursera.org/learn/accounting-data-analytics-python?specialization=accounting-data-analytics",
+        "Short Intro": "This course focuses on developing Python skills for assembling business data. It will cover some of the same material from Introduction to Accounting Data Analytics and Visualization, but in a more general purpose programming environment (Jupyter Notebook for Python), rather than in Excel and the Visual Basic Editor. These concepts are taught within the context of one or more accounting data domains (e.g., financial statement data from EDGAR, stock data, loan data, point-of-sale data).",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Python Programming,Data Visualization (DataViz),Linear Regression,SQL,Data Preparation,",
+        "Instructors": "Ronald Guymon",
+        "Rating": "4.3",
+        "Number of viewers": "78 ",
+        "Duration": "Approx. 41 hours to complete",
+        "Site": "Coursera"
+    }
+}

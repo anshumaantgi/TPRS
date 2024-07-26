@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1424",
+        "Title": "Statistical Inference for Estimation in Data Science",
+        "URL": "https://www.coursera.org/learn/statistical-inference-for-estimation-in-data-science?specialization=statistical-inference-for-data-science-applications",
+        "Short Intro": "This course introduces statistical inference, sampling distributions,  and confidence intervals. Students will learn how to define and construct  good estimators, method of moments estimation, maximum likelihood estimation, and methods of constructing confidence intervals that will extend to more general settings.  ",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Jem Corcoran",
+        "Rating": "4.2",
+        "Number of viewers": "44 ",
+        "Duration": "Approx. 27 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3048",
+        "Title": "Become a Sensor Fusion Engineer",
+        "URL": "https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313",
+        "Short Intro": "Learn to fuse lidar point clouds, radar signatures, and camera images using Kalman Filters to perceive the environment and detect and track vehicles and pedestrians over time.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Point Cloud Data, Non-Linear Motion Tracking, Point Clouds, Object Tracking, Object Clustering, Digital Image Keypoint Descriptors, Sensor Fusion, Radar Clutter Thresholding, Object Motion Models, Autonomous Vehicle Fluency, Kalman Filters, RANSAC Algorithm, Extended Kalman Filters, Radar, LiDAR, Basic Trigonometry, Point Cloud Library",
+        "Instructors": "",
+        "Rating": "4.7",
+        "Number of viewers": "",
+        "Duration": "Estimated 4 Months",
+        "Site": "Udacity"
+    }
+}

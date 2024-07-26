@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3040",
+        "Title": "Become an AWS Cloud Architect",
+        "URL": "https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063",
+        "Short Intro": "Lead your organization's cloud computing strategy as an AWS Cloud Architect. Plan, design, and build secure, high availability cloud infrastructure.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " AWS Availability Zones, Cloud Security in AWS, AWS IAM, AWS Cost Explorer, AWS Autoscaling, Data Encryption in AWS, AWS Lambda, AWS Key Management Service, AWS CLI, Amazon VPC, Amazon CloudWatch, Terraform, Lucidchart, Cloud Performance Management, Cloud Availability, Cloud Computing Fluency, Infrastructure as Code, IAM Policies, Recovery Time Objective, Recovery Point Objective, Disaster Recovery Plans",
+        "Instructors": "",
+        "Rating": "4.6",
+        "Number of viewers": "",
+        "Duration": "3 months to complete",
+        "Site": "Udacity"
+    }
+}

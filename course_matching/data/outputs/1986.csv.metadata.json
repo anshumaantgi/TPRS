@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1986",
+        "Title": " Build, Train, and Deploy ML Pipelines using BERT",
+        "URL": "https://www.coursera.org/learn/ml-pipelines-bert?specialization=practical-data-science",
+        "Short Intro": "In the second course of the Practical Data Science Specialization, you will learn to automate a natural language processing task by building an end-to-end machine learning pipeline using Hugging Face\u2019s highly-optimized implementation of the state-of-the-art BERT algorithm with Amazon SageMaker Pipelines. Your pipeline will first transform the dataset into BERT-readable features and store the features in the Amazon SageMaker Feature Store. It will then fine-tune a text classification model to the dataset using a Hugging Face pre-trained model, which has learned to understand the human language from millions of Wikipedia documents. Finally, your pipeline will evaluate the model\u2019s accuracy and only deploy the model if the accuracy exceeds a given threshold.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "ML Pipelines and MLOps,Model Training and Deployment with BERT,Model Debugging and Evaluation,Feature engineering and feature store,Artifact and lineage tracking,",
+        "Instructors": "Antje Barth",
+        "Rating": "4.5",
+        "Number of viewers": "127 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

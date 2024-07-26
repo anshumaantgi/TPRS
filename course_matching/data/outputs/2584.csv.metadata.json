@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2584",
+        "Title": "Introduction to Accounting Data Analytics and Visualization",
+        "URL": "https://www.coursera.org/learn/intro-accounting-data-analytics-visual?specialization=accounting-data-analytics",
+        "Short Intro": "Accounting has always been about analytical thinking. From the earliest days of the profession, Luca Pacioli emphasized the importance of math and order for analyzing business transactions. The skillset that accountants have needed to perform math and to keep order has evolved from pencil and paper, to typewriters and calculators, then to spreadsheets and accounting software. A new skillset that is becoming more important for nearly every aspect of business is that of big data analytics: analyzing large amounts of data to find actionable insights. This course is designed to help accounting students develop an analytical mindset and prepare them to use data analytic programming languages like Python and R.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Analysis,Predictive Analytics,Data Visualization (DataViz),Data Architecture,Coding,",
+        "Instructors": "Ronald Guymon",
+        "Rating": "4.8",
+        "Number of viewers": "409 ",
+        "Duration": "Approx. 18 hours to complete",
+        "Site": "Coursera"
+    }
+}

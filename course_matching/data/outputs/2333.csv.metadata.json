@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2333",
+        "Title": "TensorFlow on Google Cloud",
+        "URL": "https://www.coursera.org/learn/intro-tensorflow?specialization=machine-learning-tensorflow-gcp",
+        "Short Intro": "This course covers designing and building a TensorFlow input data pipeline, building ML models with TensorFlow and Keras, improving the accuracy of ML models, writing ML models for scaled use, and writing specialized ML models.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Machine Learning,Python Programming,Build Input Data Pipeline,Tensorflow,keras,",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.4",
+        "Number of viewers": "2,716 ",
+        "Duration": "Approx. 15 hours to complete",
+        "Site": "Coursera"
+    }
+}

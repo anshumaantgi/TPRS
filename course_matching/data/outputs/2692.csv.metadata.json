@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2692",
+        "Title": "Pointers, Arrays, and Recursion",
+        "URL": "https://www.coursera.org/learn/pointers-arrays-recursion?specialization=c-programming",
+        "Short Intro": "The third course in the specialization Introduction to Programming in C introduces the programming constructs pointers, arrays, and recursion. Pointers provide control and flexibility when programming in C by giving you a way to refer to the location of other data. Arrays provide a way to bundle data by guaranteeing sequences of data are grouped together. Finally, recursive functions\u2014functions that call themselves\u2014provide an alternative to iteration that are very useful for implementing certain algorithms.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Andrew D. Hilton",
+        "Rating": "4.4",
+        "Number of viewers": "323 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

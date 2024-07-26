@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1214",
+        "Title": "Image Segmentation, Filtering, and Region Analysis",
+        "URL": "https://www.coursera.org/learn/image-segmentation?specialization=image-processing",
+        "Short Intro": "In this course, you will build on the skills learned in Introduction to Image Processing to work through common complications such as noise. You\u2019ll use spatial filters to deal with different types of artifacts. You\u2019ll learn new approaches to segmentation such as edge detection and clustering. You\u2019ll also analyze regions of interest and calculate properties such as size, orientation, and location. ",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Electrical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Image Processing,Image Segmentation,region analysis,image filtering,",
+        "Instructors": "Amanda  Wang",
+        "Rating": "4.9",
+        "Number of viewers": "21 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

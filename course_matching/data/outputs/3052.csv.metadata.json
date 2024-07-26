@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3052",
+        "Title": "Become a Java Programmer",
+        "URL": "https://www.udacity.com/course/java-programming-nanodegree--nd079",
+        "Short Intro": "Advance your career with Java techniques like syntax, conditional statements, functions, loops and collections. Exit the program with employable skills to solve real-world programming problems.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Java Data Types, Collections, Syntax, Inheritance, Reflection, Modules, Generics, Exception Handling, JRE, Java Stream API, Java Arrays, Mockito, Parallel Computing, Threading, Resource Leaks, Programming Paradigms, Design Pattern Fundamentals, Structural, Creational, Behavioral Design Patterns, Unit Testing, Integration Testing, Maven, IntelliJ, JDK, Wiremock, Data Serialization, Encoding, Deserialization",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Estimated 3 Months to complete",
+        "Site": "Udacity"
+    }
+}

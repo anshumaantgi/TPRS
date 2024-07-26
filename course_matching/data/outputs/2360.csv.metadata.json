@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2360",
+        "Title": "Cloud Machine Learning Engineering and MLOps",
+        "URL": "https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale",
+        "Short Intro": "Welcome to the fourth course in the Building Cloud Computing Solutions at Scale Specialization! In this course, you will build upon the Cloud computing and data engineering concepts introduced in the first three courses to apply Machine Learning Engineering to real-world projects. First, you will develop Machine Learning Engineering applications and use software development best practices to create Machine Learning Engineering applications. Then, you will learn to use AutoML to solve problems more efficiently than traditional machine learning approaches alone. Finally, you will dive into emerging topics in Machine Learning including MLOps, Edge Machine Learning and AI APIs. ",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Noah Gift",
+        "Rating": "4.5",
+        "Number of viewers": "57 ",
+        "Duration": "Approx. 12 hours to complete",
+        "Site": "Coursera"
+    }
+}

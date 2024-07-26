@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2062",
+        "Title": "Modern Robotics, Course 6:  Capstone Project, Mobile Manipulation",
+        "URL": "https://www.coursera.org/learn/modernrobotics-course6?specialization=modernrobotics",
+        "Short Intro": "The capstone project of the Modern Robotics specialization is on mobile manipulation: simultaneously controlling the motion of a wheeled mobile base and its robot arm to achieve a manipulation task.  This project integrates several topics from the specialization, including trajectory planning, odometry for mobile robots, and feedback control.  Beginning from the Modern Robotics software library provided to you (written in Python, Mathematica, and MATLAB), and software you have written for previous courses, you will develop software to plan and control the motion of a mobile manipulator to perform a pick and place task.  You will test your software on the KUKA youBot, a mobile manipulator consisting of an omnidirectional mecanum-wheel mobile base, a 5-joint robot arm, and a gripper.  The state-of-the-art, cross-platform V-REP robot simulator will be used to simulate the task.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Mechanical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Kevin Lynch",
+        "Rating": "4.9",
+        "Number of viewers": "50 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

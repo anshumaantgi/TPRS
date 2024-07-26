@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1772",
+        "Title": "GIS Data Acquisition and Map Design",
+        "URL": "https://www.coursera.org/learn/gis-data-acquisition-map-design?specialization=gis-mapping-spatial-analysis",
+        "Short Intro": "In this course, you will learn how to find GIS data for your own projects, and how to create a well-designed map that effectively communicates your message. The first section focuses on the basic building blocks of GIS data, so that you know what types of GIS files exist, and the implications of choosing one type over another. Next, we'll discuss metadata (which is information about a data set) so you know how to evaluate a data set before you decide to use it, as well as preparing data by merging and clipping files as needed. We'll then talk about how to take non-GIS data, such as a list of addresses, and convert it into \"mappable\" data using geocoding. Finally, you'll learn about how to take data that you have found and design a map using cartographic principles. In the course project, you will find your own data and create your own quantitative map.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Environmental Science and Sustainability",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Geographic Information System (GIS),Cartography,Esri,Mapping,Spatial Analysis,",
+        "Instructors": "Don Boyes",
+        "Rating": "4.9",
+        "Number of viewers": "609 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

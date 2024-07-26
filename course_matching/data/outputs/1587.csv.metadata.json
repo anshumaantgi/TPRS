@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1587",
+        "Title": "Response Surfaces, Mixtures, and Model Building",
+        "URL": "https://www.coursera.org/learn/response-surfaces-mixtures-model-building?specialization=design-experiments",
+        "Short Intro": "Factorial experiments are often used in factor screening.; that is, identify the subset of factors in a process or system that are of primary important to the response. Once the set of important factors are identified interest then usually turns to optimization; that is, what levels of the important factors produce the best values of the response.  This course provides design and optimization tools to answer that questions using the response surface framework.  Other related topics include design and analysis of computer experiments, experiments with mixtures, and experimental strategies to reduce the effect of uncontrollable factors on unwanted variability in the response.",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Douglas C. Montgomery",
+        "Rating": "4.6",
+        "Number of viewers": "52 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

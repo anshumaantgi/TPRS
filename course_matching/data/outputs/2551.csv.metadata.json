@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2551",
+        "Title": "Visual Analytics with Tableau",
+        "URL": "https://www.coursera.org/learn/dataviz-visual-analytics?specialization=data-visualization",
+        "Short Intro": "In this third course of the specialization, we\u2019ll drill deeper into the tools Tableau offers in the areas of charting, dates, table calculations and mapping. We\u2019ll explore the best choices for charts, based on the type of data you are using. We\u2019ll look at specific types of charts including scatter plots, Gantt charts, histograms, bullet charts and several others, and we\u2019ll address charting guidelines. We\u2019ll define discrete and continuous dates, and examine when to use each one to explain your data.  You\u2019ll learn how to create custom and quick table calculations and how to create parameters. We\u2019ll also introduce mapping and explore how Tableau can use different types of geographic data, how to connect to multiple data sources and how to create custom maps.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Visual Analytics,Map,Tableau Software,Data Visualization (DataViz),",
+        "Instructors": "Suk S. Brar, M.B.A.",
+        "Rating": "4.6",
+        "Number of viewers": "1,752 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

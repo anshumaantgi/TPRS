@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1126",
+        "Title": "Scripting with Python and SQL for Data Engineering",
+        "URL": "https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke",
+        "Short Intro": "In this third course of the Python, Bash and SQL Essentials for Data Engineering Specialization, you will explore techniques to work effectively with Python and SQL. We will go through useful data structures in Python scripting and connect to databases like MySQL. Additionally, you will learn how to use a modern text editor to connect and run SQL queries against a real database, performing operations to load and extract data. Finally, you will use extracted data from websites using scraping techniques. These skills will allow you to work effectively when data is not readily available, or when spatial queries are required to extract useful information from databases.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Database (DBMS),Python Programming,Web Scraping,MySQL,SQL,",
+        "Instructors": "Alfredo Deza",
+        "Rating": "4.5",
+        "Number of viewers": "51 ",
+        "Duration": "Approx. 18 hours to complete",
+        "Site": "Coursera"
+    }
+}

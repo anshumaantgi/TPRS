@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2359",
+        "Title": "Control Flow in RPA",
+        "URL": "https://www.coursera.org/learn/control-flow-in-rpa?specialization=roboticprocessautomation",
+        "Short Intro": "The Control Flow in RPA course provides a deep understanding of the automation flow. Control Flow is a concept that refers to the order in which actions are executed and \"control\" flows in an automation project with the help of sequences, decision making, loops, and flowcharts. This course also focuses on the error handling mechanism which is vital for an automation project.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Error Handling Approach & Activities,Control Flow Activities,Loops in Studio,Sequences,Flowcharts and Decision Making,",
+        "Instructors": "UiPath",
+        "Rating": "4.8",
+        "Number of viewers": "12 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

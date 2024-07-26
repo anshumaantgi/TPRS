@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2722",
+        "Title": "Building Batch Data Pipelines on Google Cloud",
+        "URL": "https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-machine-learning",
+        "Short Intro": "Data pipelines typically fall under one of the Extra-Load, Extract-Load-Transform or Extract-Transform-Load paradigms. This course describes which paradigm should be used and when for batch data. Furthermore, this course covers several technologies on Google Cloud for data transformation including BigQuery, executing Spark on Dataproc, pipeline graphs in Cloud Data Fusion and serverless data processing with Dataflow. Learners will get hands-on experience building data pipeline components on Google Cloud using Qwiklabs.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.5",
+        "Number of viewers": "1,608 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

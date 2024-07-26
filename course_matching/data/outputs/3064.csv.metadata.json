@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3064",
+        "Title": "Site Reliability Engineer",
+        "URL": "https://www.udacity.com/course/site-reliability-engineer-nanodegree--nd087",
+        "Short Intro": "Master the job-ready skills you need to be a successful site reliability engineer and start designing systems to automate responses to software site issues.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Toil Reduction, Site Reliability Engineering Business Context, Service Level Objectives, Cloud availability, Prometheus, Terraform, Data Recovery, Data Replication, Deployment Automation, Disaster Recovery plans, Grafana",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Estimated 4 months to complete",
+        "Site": "Udacity"
+    }
+}

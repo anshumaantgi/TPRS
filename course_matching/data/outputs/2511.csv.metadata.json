@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2511",
+        "Title": "Big Data Analysis with Scala and Spark",
+        "URL": "https://www.coursera.org/learn/scala-spark-big-data?specialization=scala",
+        "Short Intro": "Manipulating big data distributed over a cluster using functional concepts is rampant in industry, and is arguably one of the first widespread industrial uses of functional ideas. This is evidenced by the popularity of MapReduce and Hadoop, and most recently Apache Spark, a fast, in-memory distributed collections framework written in Scala. In this course, we'll see how the data parallel paradigm can be extended to the distributed case, using Spark throughout. We'll cover Spark's programming model in detail, being careful to understand how and when it differs from familiar programming models, like shared-memory parallel collections or sequential Scala collections. Through hands-on examples in Spark and Scala, we'll learn when important issues related to distribution like latency and network communication should be considered and how they can be addressed effectively for improved performance.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Scala Programming,Big Data,Apache Spark,SQL,",
+        "Instructors": "Prof. Heather Miller",
+        "Rating": "4.6",
+        "Number of viewers": "2,575 ",
+        "Duration": "Approx. 27 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2150",
+        "Title": "Number Theory and Cryptography",
+        "URL": "https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics",
+        "Short Intro": "A prominent expert in the number theory Godfrey Hardy described it in the beginning of 20th century as one of the most obviously useless branches of Pure Mathematics\u201d. Just 30 years after his death, an algorithm for encryption of secret messages was developed using achievements of number theory. It was called RSA after the names of its authors, and its implementation is probably the most frequently used computer program in the world nowadays. Without it, nobody would be able to make secure payments over the internet, or even log in securely to e-mail and other personal services. In this course we will start with the basics of the number theory and get to cryptographic protocols based on it. By the end, you will be able to apply the basics of the number theory to encrypt and decrypt messages, and to break the code if one applies RSA carelessly. You will even pass a cryptographic quest!",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Number Theory,Cryptography,Modular Exponentiation,",
+        "Instructors": "Michael Levin",
+        "Rating": "4.5",
+        "Number of viewers": "542 ",
+        "Duration": "Approx. 16 hours to complete",
+        "Site": "Coursera"
+    }
+}

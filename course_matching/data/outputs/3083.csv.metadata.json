@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3083",
+        "Title": "Introduction to Python",
+        "URL": "https://www.udacity.com/course/introduction-to-python--cd0024",
+        "Short Intro": "Every programmer needs to know Python, including those looking to work in rapidly-growing fields such as machine learning and A.I. During this course, you\u2019ll learn the fundamentals you need to take the next step in your career.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " NumPy, Pandas, Python Scripting, Python Methods, Python Function Definition, Built-In Python Functions, Python Syntax, Python Package Management, Python Operators, Python IDEs, Python Exception Handling, Python Data Types, Python Data Structures, Python Best Practices, List Comprehension, Anaconda, Control Flow, Variable Scope, User Input Handling, Iterators, Docstrings",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "1 month",
+        "Site": "Udacity"
+    }
+}

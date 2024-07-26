@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3030",
+        "Title": "Become a Natural Language Processing Expert",
+        "URL": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892",
+        "Short Intro": "Master the skills to get computers to understand, process, and manipulate human language. Build models on real data, and get hands-on experience with sentiment analysis, machine translation, and more.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Machine Translation, Word2Vec Text Summarization, Text Pre-processing, Speech Recognition, Part of Speech Tagging, NLP Models, Information Retrieval, Information Extraction, GloVe, FastText, Alexa Skill Creation, Voice User Interfaces, Question Answering Systems, Alexa Skill Deployment, Feature Extraction, Attention Mechanisms, Image Caption Generation, Viterbi Algorithm, Baum-Welch Algorithm, IBM Watson, Hidden Markov Models",
+        "Instructors": "",
+        "Rating": "4.5",
+        "Number of viewers": "",
+        "Duration": "3 Months to complete",
+        "Site": "Udacity"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2499",
+        "Title": "Financial Risk Management with R",
+        "URL": "https://www.coursera.org/learn/financial-risk-management-with-r?specialization=entrepreneurial-finance",
+        "Short Intro": "This course teaches you how to calculate the return of a portfolio of securities as well as quantify the market risk of that portfolio, an important skill for financial market analysts in banks, hedge funds, insurance companies, and other financial services and investment firms. Using the R programming language with Microsoft Open R and RStudio, you will use the two main tools for calculating the market risk of stock portfolios: Value-at-Risk (VaR) and Expected Shortfall (ES). You will need a beginner-level understanding of R programming to complete the assignments of this course.",
+        "Category": "Business",
+        "Sub-Category": "Finance",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Risk Analysis,R Programming,Risk Management,Financial Risk,Portfolio (Finance),",
+        "Instructors": "David Hsieh",
+        "Rating": "4.4",
+        "Number of viewers": "228 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2749",
+        "Title": "Android App Components - Services, Local IPC, and Content Providers",
+        "URL": "https://www.coursera.org/learn/androidapps-2?specialization=android-app-development",
+        "Short Intro": "This 4 week MOOC builds upon the core Android app components and concurrency frameworks covered in Course 2 by focusing on started and bound services, local inter-process communication (IPC), and content providers. Case study apps will be examined from multiple perspectives to learn how to program these app components using Android's material design paradigm. Students will work incrementally on a hands-on project involving a material design-based RSS reader app. Each week you will add additional capabilities to the project, based on material covered in the lecture videos. You'll spend roughly 4 hours per week watching video lectures, taking quizzes, and programming assignments with Java and Android.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Dr. Douglas C. Schmidt",
+        "Rating": "4.3",
+        "Number of viewers": "392 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

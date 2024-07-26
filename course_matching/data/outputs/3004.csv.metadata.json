@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3004",
+        "Title": "How to Become a Data Analyst",
+        "URL": "https://www.udacity.com/course/data-analyst-nanodegree--nd002",
+        "Short Intro": "Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Exploratory Data Analysis, Data Analysis Process, Pandas, NumPy, Data Preparation, Data Ingestion, Data Cleaning, Sample Testing, Conditional Probability, Linear Regression, Jupyter Notebooks, Quantitative Data Analysis, Data Limitations and Biases, Data Wrangling, Data Visualization Design, Data Storytelling, Standard Score, Probability Distribution, Normal Distribution, Anaconda",
+        "Instructors": "",
+        "Rating": "4.6",
+        "Number of viewers": "",
+        "Duration": "4 months to complete",
+        "Site": "Udacity"
+    }
+}

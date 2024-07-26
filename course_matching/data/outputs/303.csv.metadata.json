@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "303",
+        "Title": "Cloud-Native Development with OpenShift and Kubernetes Specialization",
+        "URL": "https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes",
+        "Short Intro": "Explore the world of containerized applications. Learn what a containerized application is, and then learn about Kubernetes and the Red Hat OpenShift Container Platform (RHOCP) as container orchestration platforms.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Kubernetes, Containers, RHOCP, Openshift, Cloud Computing, Cloud Platforms, Cloud Applications, ",
+        "Instructors": " Marek Czernek ,",
+        "Rating": "4.7",
+        "Number of viewers": "55 ",
+        "Duration": "Approximately 4 months to complete",
+        "Site": "Coursera"
+    }
+}

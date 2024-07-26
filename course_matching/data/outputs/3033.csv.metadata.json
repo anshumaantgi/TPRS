@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3033",
+        "Title": "Cloud Native Application Architecture",
+        "URL": "https://www.udacity.com/course/cloud-native-application-architecture-nanodegree--nd064",
+        "Short Intro": "Meet the growing demand for cloud native architects and learn to identify the best application architecture solutions for an organization\u2019s needs.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Microservices Security, Kubernetes Security, Docker Security, Refactoring from a Monolith, Cloud Architecture Model Types, Cloud Observability, Cloud Computing Fluency, Cloud Computing Fluency, Cloud Communication Protocols, Argo CD, Helm, Grafana, Message Passing, gRPC, Application Tracing, Grafana, Rest APIs, STRIDE Framework, CIS Benchmarks",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Estimated 4 months to complete",
+        "Site": "Udacity"
+    }
+}

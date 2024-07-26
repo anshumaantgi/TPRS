@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+"Dynamic Programming, Greedy Algorithms","This course covers basic algorithm design techniques such as divide and conquer, dynamic programming, and greedy algorithms. It concludes with a brief introduction to intractability (NP-completeness) and using linear/integer programming solvers for solving optimization problems. We will also cover some advanced topics in data structures.",Computer Science,Algorithms,Course,"Analysis of Algorithms,Algorithm Design,Python Programming,Data Structure Design,Intractability,"

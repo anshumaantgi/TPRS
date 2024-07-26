@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2002",
+        "Title": "Capstone: Retrieving, Processing, and Visualizing Data with Python",
+        "URL": "https://www.coursera.org/learn/python-data-visualization?specialization=python",
+        "Short Intro": "In the capstone, students will build a series of applications to retrieve, process and visualize data using Python.   The projects will involve all the elements of the specialization.  In the first part of the capstone, students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find.  Chapters 15 and 16 from the book \u201cPython for Everybody\u201d will serve as the backbone for the capstone. This course covers Python 3.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Analysis,Python Programming,Database (DBMS),Data Visualization (DataViz),",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.7",
+        "Number of viewers": "13,055 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

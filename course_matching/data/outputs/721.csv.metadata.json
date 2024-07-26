@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "721",
+        "Title": "Convolutional Neural Networks",
+        "URL": "https://www.coursera.org/learn/convolutional-neural-networks",
+        "Short Intro": "In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Deep Learning,Facial Recognition System,Convolutional Neural Network,Tensorflow,Object Detection and Segmentation,",
+        "Instructors": "Andrew Ng",
+        "Rating": "4.9",
+        "Number of viewers": "41,376 ",
+        "Duration": "Approx. 36 hours to complete",
+        "Site": "Coursera"
+    }
+}

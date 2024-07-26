@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2175",
+        "Title": "Database Architecture, Scale, and NoSQL with Elasticsearch",
+        "URL": "https://www.coursera.org/learn/database-architecture-scale-nosql-elasticsearch-postgresql?specialization=postgresql-for-everybody",
+        "Short Intro": "In this final course, you will explore database architecture, PostgreSQL, and various scalable deployment configurations. You will see how PostgreSQL implements basic CRUD operations and indexes, and review how transactions and the ACID (Atomicity, Consistency, Isolation, Durability) requirements are implemented. ",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.3",
+        "Number of viewers": "83 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

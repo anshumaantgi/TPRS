@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2502",
+        "Title": "Android App Components - Intents, Activities, and Broadcast Receivers",
+        "URL": "https://www.coursera.org/learn/androidapps?specialization=android-app-development",
+        "Short Intro": "This 4 week MOOC builds upon the overview of Java and Android covered in Course 1 by delving deeper into core Android app components, such as intents, activities, and broadcast receivers.  You will learn by example how to program these core Android components together with Android concurrency frameworks and basic Java file I/O classes (such as File and InputStream) and Android storage mechanisms (such as Shared Preferences). You'll also learn how to use the Git source code management system. Throughout this MOOC you'll work incrementally on a project involving downloading, storing, and display images from remote websites. Each week you will add additional capabilities to the project, based on material covered in the lecture videos. You'll spend roughly 4 hours per week watching video lectures, taking quizzes, and programming assignments with Java and Android.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Computer Programming,Android Studio,Android Software Development,Concurrent Computing,",
+        "Instructors": "Dr. Douglas C. Schmidt",
+        "Rating": "4.2",
+        "Number of viewers": "775 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

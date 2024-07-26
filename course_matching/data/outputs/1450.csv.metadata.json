@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1450",
+        "Title": "Functional Programming in Scala Capstone",
+        "URL": "https://www.coursera.org/learn/scala-capstone?specialization=scala",
+        "Short Intro": "In the final capstone project you will apply the skills you learned by building a large data-intensive application using real-world data.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Scala Programming,Parallel Computing,Apache Spark,Functional Programming,",
+        "Instructors": "Julien Richard-Foy",
+        "Rating": "4.4",
+        "Number of viewers": "540 ",
+        "Duration": "Approx. 32 hours to complete",
+        "Site": "Coursera"
+    }
+}

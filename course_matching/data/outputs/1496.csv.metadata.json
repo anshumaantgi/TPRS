@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1496",
+        "Title": "Smart Analytics, Machine Learning, and AI on Google Cloud",
+        "URL": "https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp?specialization=gcp-data-machine-learning",
+        "Short Intro": "Incorporating machine learning into data pipelines increases the ability of businesses to extract insights from their data. This course covers several ways machine learning can be included in data pipelines on Google Cloud depending on the level of customization required. For little to no customization, this course covers AutoML. For more tailored machine learning capabilities, this course introduces Notebooks and BigQuery machine learning (BigQuery ML). Also, this course covers how to productionalize machine learning solutions using Vertex AI. Learners will get hands-on experience building machine learning models on Google Cloud using QwikLabs.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.6",
+        "Number of viewers": "1,174 ",
+        "Duration": "Approx. 6 hours to complete",
+        "Site": "Coursera"
+    }
+}

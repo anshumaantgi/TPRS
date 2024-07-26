@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "629",
+        "Title": "Deep Neural Networks with PyTorch",
+        "URL": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch",
+        "Short Intro": "The course will teach you how to develop deep learning models using  Pytorch. The course will start with Pytorch's  tensors and Automatic differentiation package. Then each section will cover different models starting off with fundamentals such as Linear Regression, and logistic/softmax regression. Followed by  Feedforward deep neural networks, the role of different activation functions, normalization and dropout layers. Then Convolutional Neural Networks and Transfer learning will be covered. Finally, several other Deep learning methods will be covered.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Joseph Santarcangelo",
+        "Rating": "4.4",
+        "Number of viewers": "1,343 ",
+        "Duration": "Approx. 30 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1565",
+        "Title": "CUDA Advanced Libraries",
+        "URL": "https://www.coursera.org/learn/cuda-advanced-libraries?specialization=gpu-programming",
+        "Short Intro": "This course will complete the GPU specialization, focusing on the leading libraries distributed as part of the CUDA Toolkit. Students will learn how to use CuFFT, and linear algebra libraries to perform complex mathematical computations. The Thrust library\u2019s capabilities in representing common data structures and associated algorithms will be introduced. Using cuDNN and cuTensor they will be able to develop machine learning applications that help with object detection, human language translation and image classification.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Science,Artificial Neural Network,Machine Learning,C++,Linear Algebra,",
+        "Instructors": "Chancellor Thomas Pascale",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Approx. 25 hours to complete",
+        "Site": "Coursera"
+    }
+}

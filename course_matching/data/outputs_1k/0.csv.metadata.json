@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "0",
+        "Title": "Machine Learning Specialization",
+        "URL": "https://www.coursera.org/specializations/machine-learning-introduction",
+        "Short Intro": "#BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Decision Trees, Artificial Neural Network, Logistic Regression, Recommender Systems, Linear Regression, Regularization to Avoid Overfitting, Gradient Descent, Supervised Learning, Logistic Regression for Classification, Xgboost, Tensorflow, Tree Ensembles, ",
+        "Instructors": "Andrew Ng ,Eddy Shyu ,Aarti Bagul ,Geoff Ladwig ,",
+        "Rating": "4.9",
+        "Number of viewers": "10,438 ",
+        "Duration": "Approximately 3 months to complete",
+        "Site": "Coursera"
+    }
+}

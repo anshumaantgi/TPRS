@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1760",
+        "Title": "Machine Learning Modeling Pipelines in Production",
+        "URL": "https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production?specialization=machine-learning-engineering-for-production-mlops",
+        "Short Intro": "In the third course of Machine Learning Engineering for Production Specialization, you will build models for different serving environments; implement tools and techniques to effectively manage your modeling resources and best serve offline and online inference requests; and use analytics tools and performance metrics to address model fairness, explainability issues, and mitigate bottlenecks.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Explainable AI,Fairness Indicators,automl,Model Performance Analysis,Precomputing Predictions,",
+        "Instructors": "Robert Crowe",
+        "Rating": "4.4",
+        "Number of viewers": "325 ",
+        "Duration": "Approx. 23 hours to complete",
+        "Site": "Coursera"
+    }
+}

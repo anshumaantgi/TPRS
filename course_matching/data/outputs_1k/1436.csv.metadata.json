@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1436",
+        "Title": "Understanding and Visualizing Data with Python",
+        "URL": "https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python",
+        "Short Intro": "In this course, learners will be introduced to the field of statistics, including where data come from, study design, data management, and exploring and visualizing data. Learners will identify different types of data, and learn how to visualize, analyze, and interpret summaries for both univariate and multivariate data. Learners will also be introduced to the differences between probability and non-probability sampling from larger populations, the idea of how sample estimates vary, and how inferences can be made about larger populations based on probability sampling.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Statistics,Data Analysis,Python Programming,Data Visualization (DataViz),",
+        "Instructors": "Brenda Gunderson",
+        "Rating": "4.7",
+        "Number of viewers": "2,480 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

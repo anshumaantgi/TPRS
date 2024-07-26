@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1222",
+        "Title": "Multiple Regression Analysis in Public Health ",
+        "URL": "https://www.coursera.org/learn/multiple-regression-analysis-public-health?specialization=biostatistics-public-health",
+        "Short Intro": "Biostatistics is the application of statistical reasoning to the life sciences, and it's the key to unlocking the data gathered by researchers and the evidence presented in the scientific public health literature. In this course, you'll extend simple regression to the prediction of a single outcome of interest on the basis of multiple variables. Along the way, you'll be introduced to a variety of methods, and you'll practice interpreting data and performing calculations on real data from published studies.  Topics include multiple logistic regression, the Spline approach, confidence intervals, p-values, multiple Cox regression, adjustment, and effect modification.",
+        "Category": "Health",
+        "Sub-Category": "Health Informatics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "effect modifcation,Proportional Hazards Model,Regression Analysis,Spline approach,",
+        "Instructors": "John McGready, PhD, MS",
+        "Rating": "4.7",
+        "Number of viewers": "268 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

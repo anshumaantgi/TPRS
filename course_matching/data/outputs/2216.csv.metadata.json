@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2216",
+        "Title": "Introduction to Computer Programming ",
+        "URL": "https://www.coursera.org/learn/introduction-to-computer-programming?specialization=introduction-computer-science-programming",
+        "Short Intro": "This MOOC provides you with the foundational skill set required to write computer programs. If you are interested in learning how to write interactive, graphical programs from an introductory level in a real programming language, this is the course for you. You will begin by learning the basics of editing and running programs. Then you will learn how to create 2D graphics using shapes and coordinates. Finally, you will learn how to create interactive graphics that you can control with the mouse. You will even solve a set of interactive puzzles using your coding skills in the Sleuth game which has been created especially for this course. The course uses the Javascript language and the p5.js library.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Dr Edward Anstead",
+        "Rating": "4.1",
+        "Number of viewers": "789 ",
+        "Duration": "Approx. 21 hours to complete",
+        "Site": "Coursera"
+    }
+}

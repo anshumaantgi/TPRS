@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Building Resilient Streaming Analytics Systems on GCP 日本語版,ストリーミングによって企業が事業運営に関するリアルタイムの指標を取得できるようになり、ストリーミング データの処理を行う機会が増えてきました。このコースでは、Google Cloud でストリーミング データ パイプラインを構築する方法について学習します。受信ストリーミング データの処理のための Pub/Sub について説明します。また、このコースでは、Dataflow を使用してストリーミング データを集計または変換する方法、処理済みのレコードを分析用に BigQuery や Cloud Bigtable に保存する方法についても説明します。そして、Qwiklabs を使用して Google Cloud でストリーミング データ パイプラインのコンポーネントを構築する実践演習を行います。,Information Technology,Cloud Computing,Course,

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1961",
+        "Title": "Introduction to NoSQL Databases",
+        "URL": "https://www.coursera.org/learn/introduction-to-nosql-databases?specialization=nosql-big-data-and-spark-foundations",
+        "Short Intro": "This course will provide you with technical hands-on knowledge of NoSQL databases and Database-as-a-Service (DaaS) offerings. With the advent of Big Data and agile development methodologies, NoSQL databases have gained a lot of relevance in the database landscape. Their main advantage is the ability to effectively handle scalability and flexibility issues raised by modern applications. ",
+        "Category": "Information Technology",
+        "Sub-Category": "Data Management",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Mongodb,NoSQL,Cloud Database,Cloudant,Cassandra,",
+        "Instructors": "Rav Ahuja",
+        "Rating": "4.6",
+        "Number of viewers": "161 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

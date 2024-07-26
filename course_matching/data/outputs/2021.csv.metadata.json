@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2021",
+        "Title": "Machine Learning in the Enterprise",
+        "URL": "https://www.coursera.org/learn/art-science-ml?specialization=machine-learning-tensorflow-gcp",
+        "Short Intro": "This course takes a real-world approach to the ML Workflow through a case study. An ML team faces several ML business requirements and use cases. The team must understand the tools required for data management and governance and consider the best approach for data preprocessing.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Tensorflow,Machine Learning,Cloud Computing,",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.6",
+        "Number of viewers": "1,432 ",
+        "Duration": "Approx. 23 hours to complete",
+        "Site": "Coursera"
+    }
+}

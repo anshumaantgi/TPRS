@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Unsupervised Machine Learning,"Learn how to distill messy data into meaningful groups with unsupervised machine learning! By the end of this course, you’ll know how to perform cluster analyses and dimensionality reduction using Python’s powerful machine-learning package, scikit-learn.",,,," Independent Component Analysis, Gaussian Mixture Models, Principal Component Analysis, Dimensionality Reduction, Single Linkage Clustering, K-Means Clustering, DBSCAN, Cluster Models, Market Segmentation"

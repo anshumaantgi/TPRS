@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1651",
+        "Title": "Features and Boundaries",
+        "URL": "https://www.coursera.org/learn/features-and-boundaries?specialization=firstprinciplesofcomputervision",
+        "Short Intro": "This course focuses on the detection of features and boundaries in images. Feature and boundary detection is a critical preprocessing step for a variety of vision tasks including object detection, object recognition and metrology \u2013 the measurement of the physical dimensions and other properties of objects. The course presents a variety of methods for detecting features and boundaries and shows how features extracted from an image can be used to solve important vision tasks.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Scale Space,Active Contours,Image Transformations,Edge and Corner Detection,SIFT Detector,",
+        "Instructors": "Shree Nayar",
+        "Rating": "4.9",
+        "Number of viewers": "21 ",
+        "Duration": "Approx. 22 hours to complete",
+        "Site": "Coursera"
+    }
+}

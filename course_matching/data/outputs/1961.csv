@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Introduction to NoSQL Databases,"This course will provide you with technical hands-on knowledge of NoSQL databases and Database-as-a-Service (DaaS) offerings. With the advent of Big Data and agile development methodologies, NoSQL databases have gained a lot of relevance in the database landscape. Their main advantage is the ability to effectively handle scalability and flexibility issues raised by modern applications. ",Information Technology,Data Management,Course,"Mongodb,NoSQL,Cloud Database,Cloudant,Cassandra,"

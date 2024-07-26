@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1731",
+        "Title": "Managing Security in Google Cloud",
+        "URL": "https://www.coursera.org/learn/managing-security-in-google-cloud-platform?specialization=security-google-cloud-platform",
+        "Short Intro": "This self-paced training course gives participants broad study of security controls and techniques on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure Google Cloud solution, including Cloud Identity, Resource Manager, Cloud IAM, Virtual Private Cloud firewalls, Cloud Load Balancing, Cloud Peering, Cloud Interconnect, and VPC Service Controls.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.7",
+        "Number of viewers": "1,041 ",
+        "Duration": "Approx. 7 hours to complete",
+        "Site": "Coursera"
+    }
+}

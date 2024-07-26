@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3016",
+        "Title": "Self-Driving Car Engineer",
+        "URL": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "Short Intro": "Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning and engineering. Learn the skills and techniques used by self-driving car teams at the most advanced technology companies in the world.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Point Cloud Data, Non-Linear Motion Tracking, Point Clouds, Object Tracking, Object Clustering, Digital Image Keypoint Descriptors, Sensor Fusion, Radar Clutter Thresholding, Object Motion Models, Autonomous Vehicle Fluency, Kalman Filters, RANSAC Algorithm, Extended Kalman Filters, Radar, LiDAR, Basic Trigonometry, Point Cloud Library",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "5 months to complete",
+        "Site": "Udacity"
+    }
+}

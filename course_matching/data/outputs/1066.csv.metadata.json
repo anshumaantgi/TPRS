@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1066",
+        "Title": "Data Structures",
+        "URL": "https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms",
+        "Short Intro": "A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this online course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Binary Search Tree,Priority Queue,Hash Table,Stack (Abstract Data Type),List,",
+        "Instructors": "Neil Rhodes",
+        "Rating": "4.6",
+        "Number of viewers": "5,179 ",
+        "Duration": "Approx. 24 hours to complete",
+        "Site": "Coursera"
+    }
+}

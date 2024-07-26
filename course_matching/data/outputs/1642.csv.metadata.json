@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1642",
+        "Title": "Introduction to Neurohacking In R",
+        "URL": "https://www.coursera.org/learn/neurohacking?specialization=computational-neuroscience",
+        "Short Intro": "Neurohacking describes how to use the R programming language (https://cran.r-project.org/) and its associated package to perform manipulation, processing, and analysis of neuroimaging data. We focus on publicly-available structural magnetic resonance imaging (MRI). We discuss concepts such as inhomogeneity correction, image registration, and image visualization.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Image Processing,Brain,R Programming,Neurology,",
+        "Instructors": "Dr. Elizabeth Sweeney",
+        "Rating": "4.6",
+        "Number of viewers": "281 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1533",
+        "Title": "Feature Engineering",
+        "URL": "https://www.coursera.org/learn/feature-engineering?specialization=machine-learning-tensorflow-gcp",
+        "Short Intro": "Want to know about Vertex AI Feature Store? Want to know how you can improve the accuracy of your ML models? What about how to find which data columns make the most useful features? Welcome to Feature Engineering, where we discuss good versus bad features and how you can preprocess and transform them for optimal use in your models. This course includes content and labs on feature engineering using BigQuery ML, Keras, and TensorFlow.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.5",
+        "Number of viewers": "1,725 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

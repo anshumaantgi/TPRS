@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1204",
+        "Title": " Supervised Machine Learning: Classification",
+        "URL": "https://www.coursera.org/learn/supervised-machine-learning-classification?specialization=ibm-intro-machine-learning",
+        "Short Intro": "This course introduces you to one of the main types of modeling families of supervised Machine Learning: Classification. You will learn how to train predictive models to classify categorical outcomes and how to use error metrics to compare across different models. The hands-on section of this course focuses on using best practices for classification, including train and test splits, and handling data sets with unbalanced classes.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Decision Tree,Ensemble Learning,Classification Algorithms,Supervised Learning,Machine Learning (ML) Algorithms,",
+        "Instructors": "Mark J Grover",
+        "Rating": "4.8",
+        "Number of viewers": "227 ",
+        "Duration": "Approx. 24 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2393",
+        "Title": "Sampling People, Networks and Records",
+        "URL": "https://www.coursera.org/learn/sampling-methods?specialization=data-collection",
+        "Short Intro": "Good data collection is built on good samples.  But the samples can be chosen in many ways.  Samples can be haphazard or convenient selections of persons, or records, or networks, or other units, but one questions the quality of such samples, especially what these selection methods mean for drawing good conclusions about a population after data collection and analysis is done.  Samples can be more carefully selected based on a researcher\u2019s judgment, but one then questions whether that judgment can be biased by personal factors.  Samples can also be draw in statistically rigorous and careful ways, using random selection and control methods to provide sound representation and cost control.  It is these last kinds of samples that will be discussed in this course.  We will examine simple random sampling that can be used for sampling persons or records, cluster sampling that can be used to sample groups of persons or records or networks, stratification which can be applied to simple random and cluster samples, systematic selection, and stratified multistage samples.  The course concludes with a brief overview of how to estimate and summarize the uncertainty of randomized sampling.",
+        "Category": "Health",
+        "Sub-Category": "Psychology",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "James M Lepkowski",
+        "Rating": "4.4",
+        "Number of viewers": "95 ",
+        "Duration": "Approx. 25 hours to complete",
+        "Site": "Coursera"
+    }
+}

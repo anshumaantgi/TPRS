@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2290",
+        "Title": "Clinical Natural Language Processing",
+        "URL": "https://www.coursera.org/learn/clinical-natural-language-processing?specialization=clinical-data-science",
+        "Short Intro": "This course teaches you the fundamentals of clinical natural language processing (NLP). In this course you will learn the basic linguistic principals underlying NLP, as well as how to write regular expressions and handle text data in R. You will also learn practical techniques for text processing to be able to extract information from clinical notes.  Finally, you will have a chance to put your skills to the test with a real-world practical application where you develop text processing algorithms to identify diabetic complications from clinical notes. You will complete this work using a free, online computational environment for data science hosted by our Industry Partner Google Cloud.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Laura K. Wiley, PhD",
+        "Rating": "3.5",
+        "Number of viewers": "20 ",
+        "Duration": "Approx. 12 hours to complete",
+        "Site": "Coursera"
+    }
+}

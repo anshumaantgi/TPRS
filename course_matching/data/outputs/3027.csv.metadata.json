@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3027",
+        "Title": "Become a Deep Reinforcement Learning Expert",
+        "URL": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893",
+        "Short Intro": "Learn the deep reinforcement learning skills that are powering amazing advances in AI. Then start applying these to applications like video games and robotics.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Value-Based Reinforcement Learning Exploration-Exploitation Dilemma, Stochastic Policy Gradients REINFORCE Algorithm, Prioritized Experience Replay,Generalized Advantage Estimation, Markov Decision Processes, Markov Games, Monte Carlo Methods Dynamic Programming",
+        "Instructors": "",
+        "Rating": "4.6",
+        "Number of viewers": "",
+        "Duration": "4 months to complete",
+        "Site": "Udacity"
+    }
+}

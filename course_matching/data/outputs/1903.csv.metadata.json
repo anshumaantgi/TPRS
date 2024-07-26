@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1903",
+        "Title": "Spring MVC, Spring Boot  and Rest Controllers",
+        "URL": "https://www.coursera.org/learn/spring-mvc-rest-controller?specialization=spring-framework",
+        "Short Intro": "This is a course aimed at students wishing to develop Java based Web Applications and Restful Micro Services using the very popular Spring MVC and  Spring Boot frameworks with minimal configuration. The student will develop services through various Url templates, consume and respond with json or XML payloads and create custom HTTP headers. Requestors of these services will include Java and Angular JS clients to illustrate the reuse capabilities of services in a distributed architecture. Traditional web applications will also be covered that render web pages in a typical Model View Controller (MVC) architecture. This is a very hands on course with a series of labs to illustrate the key concepts.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Spring Framework,Restful services,Java Programming,Spring Boot,",
+        "Instructors": "Derek Parsons",
+        "Rating": "4.2",
+        "Number of viewers": "123 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

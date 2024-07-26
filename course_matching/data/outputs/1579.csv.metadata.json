@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1579",
+        "Title": "Writing, Running, and Fixing Code in C",
+        "URL": "https://www.coursera.org/learn/writing-running-fixing-code?specialization=c-programming",
+        "Short Intro": "Building on the course Programming Fundamentals, this course will teach you how to write code by first planning what your program should do\u2014an important approach for novice and professional programmers. You will learn how to compile and run your program, and then how to test and debug it. This course builds on the Seven Steps you have already learned and provides a framework for systematically testing for problems and fixing them, so you can find and fix problems efficiently.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "C Programming,Compiler,Debugging,",
+        "Instructors": "Andrew D. Hilton",
+        "Rating": "4.3",
+        "Number of viewers": "746 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

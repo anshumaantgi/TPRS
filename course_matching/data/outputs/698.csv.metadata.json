@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "698",
+        "Title": "SQL for Data Science",
+        "URL": "https://www.coursera.org/learn/sql-for-data-science",
+        "Short Intro": "As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. This is a data scientist, \u201cpart mathematician, part computer scientist, and part trend spotter\u201d (SAS Institute, Inc.). According to Glassdoor, being a data scientist is the best job in America; with a median base salary of $110,000 and thousands of job openings at a time. The skills necessary to be a good data scientist include being able to retrieve and work with data, and to do that you need to be well versed in SQL, the standard language for communicating with database systems.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Science,Data Analysis,Sqlite,SQL,",
+        "Instructors": "Sadie St. Lawrence",
+        "Rating": "4.6",
+        "Number of viewers": "14,748 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

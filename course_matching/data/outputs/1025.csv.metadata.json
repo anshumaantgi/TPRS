@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1025",
+        "Title": "Programming for the Internet of Things Project",
+        "URL": "https://www.coursera.org/learn/internet-of-things-project?specialization=iot",
+        "Short Intro": "In this Capstone course, you will design a microcontroller-based embedded system. As an option, you can also build and test a system. The focus of your project will be to design the system so that it can be built on a low-cost budget for a real-world application. To complete this project you'll need to use all the skills you've learned in the course (programming microcontrollers, system design, interfacing, etc.). The project will include some core requirements, but leave room for your creativity in how you approach the project. In the end, you will produce a unique final project, suitable for showcasing to future potential employers.  ",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Electrical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Arduino,Python Programming,Internet Of Things (IOT),Raspberry Pi,",
+        "Instructors": "Ian Harris",
+        "Rating": "4.7",
+        "Number of viewers": "866 ",
+        "Duration": "Approx. 6 hours to complete",
+        "Site": "Coursera"
+    }
+}

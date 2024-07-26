@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "432",
+        "Title": "IBM Data Warehouse Engineer Professional Certificate",
+        "URL": "https://www.coursera.org/professional-certificates/data-warehouse-engineering",
+        "Short Intro": "Kickstart your Career in BI Engineering. Develop job-ready skills for an entry level role in Data Warehousing.",
+        "Category": "Information Technology",
+        "Sub-Category": "Data Management",
+        "Course Type": "Professional Certificate",
+        "Language": "English",
+        "Skills": "Data Science,Database (DBMS),NoSQL,SQL,Database (DB) Design,Database Architecture,Postgresql,MySQL,Relational Database Management System (RDBMS),Create, Read, Update And Delete,Data Analysis,Shell Script,Bash (Unix Shell),Linux,Database Servers,Relational Database,Database Security,database administration,Extraction, Transformation And Loading (ETL),Apache Kafka,Apache Airflow,Data Pipelines,Data Warehousing,Cube and Rollup,Business Intelligence (BI),Star and Snowflake Schema,cognos analytics,OLTP Databases,",
+        "Instructors": "Rav Ahuja",
+        "Rating": "4.7",
+        "Number of viewers": "321 reviews",
+        "Duration": "3 months at 10 hours a week",
+        "Site": "Coursera"
+    }
+}

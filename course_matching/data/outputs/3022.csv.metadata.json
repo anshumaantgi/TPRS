@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3022",
+        "Title": "Learn SQL",
+        "URL": "https://www.udacity.com/course/learn-sql--nd072",
+        "Short Intro": "Master SQL, the core language for Big Data analysis, and enable insight-driven decision-making and strategy for your business.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " SQL JOINs, Window Functions, Query Performance Tuning, Queries, CRUD Commands, Aggregations, Database Normalization, Data Cleaning, Redis, MongoDB, Data Manipulation Language, RDBMS, Performance and Optimization, Query Plans, Foreign Keys, Database Indexing, Database Fundamentals, Data Schemas",
+        "Instructors": "",
+        "Rating": "4.6",
+        "Number of viewers": "",
+        "Duration": "2 months to complete",
+        "Site": "Udacity"
+    }
+}

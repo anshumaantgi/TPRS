@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "140",
+        "Title": "Algorithms for Battery Management Systems Specialization",
+        "URL": "https://www.coursera.org/specializations/algorithms-for-battery-management-systems",
+        "Short Intro": "Get Started in Algorithms for Battery Management. Learn how to model lithium-ion battery cells, and how to use those models to manage battery packs",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Electrical Engineering",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Design equivalent-circuit models for lithium-ion battery cells, Implement state-of-charge estimators for lithium-ion battery cells, Understand how lithium-ion battery cells work and basic requirements of battery-management systems, Implement state-of-health estimators for lithium-ion battery cells, Understand balancing requirements and implement power estimators for lithium-ion battery packs, Understand the requirements of a battery-management system, Understand how lithium-ion battery cells work, How to implement state-of-charge (SOC) estimators for lithium-ion battery cells, H\u200bow to implement state-of-health (SOH) estimators for lithium-ion battery cells, H\u200bow to design balancers and power-limits estimators for lithium-ion battery packs, ",
+        "Instructors": "Gregory Plett ,",
+        "Rating": "4.8",
+        "Number of viewers": "1,546 ",
+        "Duration": "Approximately 8 months to complete",
+        "Site": "Coursera"
+    }
+}

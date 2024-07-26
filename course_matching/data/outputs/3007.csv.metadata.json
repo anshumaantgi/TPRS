@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3007",
+        "Title": "Learn C++",
+        "URL": "https://www.udacity.com/course/c-plus-plus-nanodegree--nd213",
+        "Short Intro": "Learn C++, a high-performance programming language used in the world's most exciting engineering jobs -- from self-driving cars and robotics, to web browsers, media platforms, servers, and even video games.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Threading, Heap Memory, Dynamic Memory Allocation, Control Flow, Concurrent Computing, Computer Memory Architecture, Classes, A* Search Algorithm, C++ Syntax, C++ Polymorphism, C++ Data Types, C++ Copy and Move Semantics, Virtual Memory, Variable Scope, Uninitialized Memory Bugs, Stack Memory",
+        "Instructors": "",
+        "Rating": "4.5",
+        "Number of viewers": "",
+        "Duration": "4 months to complete",
+        "Site": "Udacity"
+    }
+}

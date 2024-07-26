@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2515",
+        "Title": "Getting and Cleaning Data",
+        "URL": "https://www.coursera.org/learn/data-cleaning?specialization=data-science-foundations-r",
+        "Short Intro": "Before you can work with data you have to get some. This course will cover the basic ways that data can be obtained. The course will cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It will also cover the basics of data cleaning and how to make data \u201ctidy\u201d. Tidy data dramatically speed downstream data analysis tasks. The course will also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. The course will cover the basics needed for collecting, cleaning, and sharing data.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Manipulation,Regular Expression (REGEX),R Programming,Data Cleansing,",
+        "Instructors": "Jeff Leek, PhD",
+        "Rating": "4.5",
+        "Number of viewers": "8,010 ",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

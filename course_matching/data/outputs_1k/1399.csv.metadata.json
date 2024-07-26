@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1399",
+        "Title": "Web Application Technologies and Django",
+        "URL": "https://www.coursera.org/learn/django-database-web-apps?specialization=django",
+        "Short Intro": "In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the Hypertext Transfer Protocol (HTTP) request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the overall structure of a Django application.  We will explore the Model-View-Controller (MVC) pattern for web applications and how it relates to Django.  You will learn how to deploy a Django application using a service like PythonAnywhere so that it is available over the Internet. ",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cascading Style Sheets (CSS),HTML,Hypertext Transfer Protocol (HTTP),SQL,Django (Web Framework),",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.7",
+        "Number of viewers": "1,722 ",
+        "Duration": "Approx. 15 hours to complete",
+        "Site": "Coursera"
+    }
+}

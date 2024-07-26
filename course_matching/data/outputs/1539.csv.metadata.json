@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1539",
+        "Title": "Inheritance and Data Structures in Java",
+        "URL": "https://www.coursera.org/learn/java-inheritance-data-structures?specialization=programming-python-java",
+        "Short Intro": "This course provides a comprehensive look at Java inheritance, including access modifiers and overriding methods.  Students are introduced to abstract classes, and will learn how to read and write to files, use regular expressions for parsing text, and how to leverage complex data structures like collections and maps.  ",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Debugging,Problem Solving,Java Programming,Data Structure,Inheritance,",
+        "Instructors": "Brandon Krakowsky",
+        "Rating": "4.7",
+        "Number of viewers": "54 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

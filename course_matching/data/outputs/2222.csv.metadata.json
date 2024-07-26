@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2222",
+        "Title": "Building Web Applications in PHP",
+        "URL": "https://www.coursera.org/learn/web-applications-php?specialization=web-applications",
+        "Short Intro": "In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the basic syntax and data structures of the PHP language, variables, logic, iteration, arrays, error handling, and superglobal variables, among other elements. An introduction to Cascading Style Sheets (CSS) will allow you to style markup for webpages. Lastly, you'll gain the skills and knowledge to install and use an integrated PHP/MySQL environment like XAMPP or MAMP.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Hypertext Preprocessor (PHP),HTML,Cascading Style Sheets (CSS),",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.7",
+        "Number of viewers": "4,076 ",
+        "Duration": "Approx. 30 hours to complete",
+        "Site": "Coursera"
+    }
+}

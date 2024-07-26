@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Linux Kernel Programming and Introduction to Yocto Project,"This course provides an introduction to Kernel Driver development for the Linux operating system. The Yocto build system is introduced, which students use to build their own custom Embedded Linux system through programming assignments.",Computer Science,Software Development,Course,"Shell Script,C Programming,Linux,Embedded Systems,"

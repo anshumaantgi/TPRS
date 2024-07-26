@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2255",
+        "Title": "Dealing With Missing Data",
+        "URL": "https://www.coursera.org/learn/missing-data?specialization=data-collection",
+        "Short Intro": "This course will cover the steps used in weighting sample surveys, including methods for adjusting for nonresponse and using data external to the survey for calibration.  Among the techniques discussed are adjustments using estimated response propensities, poststratification, raking, and general regression estimation.  Alternative techniques for imputing values for missing items will be discussed.  For both weighting and imputation, the capabilities of different statistical software packages will be covered, including R\u00ae, Stata\u00ae, and SAS\u00ae.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Richard Valliant, Ph.D.",
+        "Rating": "3.8",
+        "Number of viewers": "125 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

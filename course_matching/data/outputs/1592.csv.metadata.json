@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1592",
+        "Title": "Introduction to Genomic Technologies",
+        "URL": "https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science",
+        "Short Intro": "This course introduces you to the basic biology of modern genomics and the experimental tools that we use to measure it. We'll introduce the Central Dogma of Molecular Biology and cover how next-generation sequencing can be used to measure DNA, RNA, and epigenetic patterns. You'll also get an introduction to the key concepts in computing and data science that you'll need to understand how data from next-generation sequencing experiments are generated and analyzed.  ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Bioinformatics,Statistics,Data Science,Computational Biology,",
+        "Instructors": "Steven Salzberg, PhD",
+        "Rating": "4.6",
+        "Number of viewers": "4,248 ",
+        "Duration": "Approx. 6 hours to complete",
+        "Site": "Coursera"
+    }
+}

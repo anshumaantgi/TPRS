@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1634",
+        "Title": "Microsoft Azure Machine Learning",
+        "URL": "https://www.coursera.org/learn/microsoft-azure-machine-learning?specialization=microsoft-azure-ai-900-ai-fundamentals",
+        "Short Intro": "Machine learning is at the core of artificial intelligence, and many modern applications and services depend on predictive machine learning models. Training a machine learning model is an iterative process that requires time and compute resources. Automated machine learning can help make it easier. In this course, you will learn how to use Azure Machine Learning to create and publish models without writing code.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Artificial Intelligence (AI),Microsoft Azure,Machine Learning,",
+        "Instructors": "Microsoft",
+        "Rating": "4.6",
+        "Number of viewers": "128 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

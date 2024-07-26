@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1800",
+        "Title": "Advanced Algorithms and Complexity",
+        "URL": "https://www.coursera.org/learn/advanced-algorithms-and-complexity?specialization=data-structures-algorithms",
+        "Short Intro": "In previous courses of our online specialization you've learned the basic algorithms, and now you are ready to step into the area of more complex problems and algorithms to solve them. Advanced algorithms build upon basic ones and use new ideas. We will start with networks flows which are used in more typical applications such as optimal matchings, finding disjoint paths and flight scheduling as well as more surprising ones like image segmentation in computer vision. We then proceed to linear programming with applications in optimizing budget allocation, portfolio optimization, finding the cheapest diet satisfying all requirements and many others. Next we discuss inherently hard problems for which no exact good solutions are known (and not likely to be found) and how to solve them in practice. We finish with a soft introduction to streaming algorithms that are heavily used in Big Data processing. Such algorithms are usually designed to be able to process huge datasets without being able even to store a dataset.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Python Programming,Linear Programming (LP),Np-Completeness,Dynamic Programming,",
+        "Instructors": "Neil Rhodes",
+        "Rating": "4.6",
+        "Number of viewers": "658 ",
+        "Duration": "Approx. 27 hours to complete",
+        "Site": "Coursera"
+    }
+}

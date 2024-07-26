@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3068",
+        "Title": "Golang",
+        "URL": "https://www.udacity.com/course/golang--cd11970",
+        "Short Intro": "Learn Go language fundamentals needed for careers involving cloud services, web applications, DevOps tools, and backend development.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Go Loops, Goroutines, Go Variables, Go Structs, Go Slices, Go Range, Go Interfaces, Go Functions, Go Conditionals, Go Arrays",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Estimated 1 month to complete",
+        "Site": "Udacity"
+    }
+}

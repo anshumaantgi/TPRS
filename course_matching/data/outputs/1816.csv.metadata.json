@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1816",
+        "Title": "Introduction to HTML5",
+        "URL": "https://www.coursera.org/learn/html?specialization=web-design",
+        "Short Intro": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, \u201cThe Missing Link: An Introduction to Web Development and Programming\u201d by Michael Mendez from www.opensuny.org. ",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Web Design,Web Accessibility,HTML,Html5,",
+        "Instructors": "Colleen van Lent, Ph.D.",
+        "Rating": "4.7",
+        "Number of viewers": "26,753 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

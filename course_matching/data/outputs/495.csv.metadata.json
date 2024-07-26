@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "495",
+        "Title": "Pre-MBA Statistics",
+        "URL": "https://www.coursera.org/learn/pre-mbastatistics",
+        "Short Intro": "Welcome to the Pre-MBA Statistics course! By the end of this course, you will be able to describe how statistics can be used to summarize, analyze, and interpret data. This course introduces you to some aspects of descriptive and inferential statistics. You will learn to distinguish between various data types and describe the operations that you can execute with each type of data and the right tools to use. The course also discusses the concepts of probability, which form the backbone of statistical analysis. In particular, the course explores how data behaves and provides insight into its analysis. Further, it discusses how data can be sampled and the pros and cons of these methods. The course also delves deeper into the behavior of large data sets based on well-established statistical results. This also enables you to identify the pitfalls of incorrectly using statistical laws. Lastly, you will learn how to estimate population parameters based on limited data and check the correctness of hypotheses about populations from limited data. ",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Probability And Statistics,Data Science,Data Analysis,General Statistics,",
+        "Instructors": "Sriram Sankaranarayanan",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Approx. 23 hours to complete",
+        "Site": "Coursera"
+    }
+}

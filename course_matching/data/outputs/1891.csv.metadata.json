@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1891",
+        "Title": "Inferential Statistical Analysis with Python",
+        "URL": "https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python",
+        "Short Intro": "In this course, we will explore basic principles behind using data for estimation and for assessing theories. We will analyze both categorical data and quantitative data, starting with one population techniques and expanding to handle comparisons of two populations. We will learn how to construct confidence intervals. We will also use sample data to assess whether or not a theory about the value of a parameter is consistent with the data. A major focus will be on interpreting inferential results appropriately.  ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Confidence Interval,Python Programming,Statistical Inference,Statistical Hypothesis Testing,",
+        "Instructors": "Brenda Gunderson",
+        "Rating": "4.6",
+        "Number of viewers": "849 ",
+        "Duration": "Approx. 18 hours to complete",
+        "Site": "Coursera"
+    }
+}

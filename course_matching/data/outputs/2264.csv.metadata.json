@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2264",
+        "Title": "Linux and Bash for Data Engineering",
+        "URL": "https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke",
+        "Short Intro": "In this second course of the Python, Bash and SQL Essentials for Data Engineering Specialization, you will learn the fundamentals of Linux necessary to perform data engineering tasks. Additionally, you will explore how to use both Bash and zsh configurations, and develop the syntax needed to interact and control Linux. These skills will allow you to manage and manipulate databases in a Bash environment.",
+        "Category": "Information Technology",
+        "Sub-Category": "Data Management",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Bash (Unix Shell),Database (DBMS),Data Management,Linux,",
+        "Instructors": "Noah Gift",
+        "Rating": "4.6",
+        "Number of viewers": "55 ",
+        "Duration": "Approx. 22 hours to complete",
+        "Site": "Coursera"
+    }
+}

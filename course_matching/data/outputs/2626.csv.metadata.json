@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2626",
+        "Title": "IoT Communications",
+        "URL": "https://www.coursera.org/learn/iot-communications?specialization=uiuc-iot",
+        "Short Intro": "This course builds on the previous course: IoT Devices. After we have built and programmed a small self-driving vehicle, now it's time get into more advanced territory and enhance the device's connectivity further. To do so you will study radio frequency (RF) communication, the MAC layer, Mesh Networking as well as distributed algorithms for use with geographic locations. These techniques will be applied to your device in the lab, which is composed of four steps, one in each week of the course. In Week 1, after going over some orientation for the course, you will focus on radio frequency (RF) communication, how it fits in with the larger scope of electromagnetism, how RF signals propagate in physical environments, how RF signals can be used to encode data, and how all this information is useful in constructing resilient and high-bandwidth IoT communication substrates.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Internet,Internet Of Things (IOT),Wireless,Front And Back Ends,",
+        "Instructors": "Matthew Caesar",
+        "Rating": "4.5",
+        "Number of viewers": "23 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

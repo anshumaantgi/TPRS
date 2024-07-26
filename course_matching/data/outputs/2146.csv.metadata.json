@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2146",
+        "Title": "AWS Fundamentals: Migrating to the Cloud",
+        "URL": "https://www.coursera.org/learn/aws-fundamentals-migrating-to-the-cloud?specialization=aws-fundamentals",
+        "Short Intro": "This introductory course is for anyone who wants a deeper dive into AWS migration. Whether you want to understand what services are helpful, need to plan a migration for your organization, or are helping other groups with their own migration, you will find valuable information throughout this course. The course sessions structure cloud migration through the three-phase migration process from AWS: assess, mobilize, and migrate and modernize. This process is designed to help your organization approach and implement a migration of tens, hundreds, or thousands of applications. By learning about this three-phase structure\u2014and the various AWS tools, features, and services that can help you during each phase\u2014you will complete this course with a better understanding of how to design and implement migrations to AWS.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Seph Robinson",
+        "Rating": "4.4",
+        "Number of viewers": "27 ",
+        "Duration": "Approx. 6 hours to complete",
+        "Site": "Coursera"
+    }
+}

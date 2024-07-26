@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2046",
+        "Title": "Securing and Integrating Components of your Application",
+        "URL": "https://www.coursera.org/learn/securing-integrating-components-app?specialization=developing-apps-gcp",
+        "Short Intro": "In this course, application developers learn how to design and develop cloud-native applications that seamlessly integrate managed services from Google Cloud. Through a combination of presentations, demos, and hands-on labs, participants learn how to develop more secure applications, implement federated identity management, and integrate application components by using messaging, event-driven processing, and API gateways.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Application Programming Interfaces (API),Cloud Functions,Identity Management (IDM),Cloud Endpoints,Publish\u2013Subscribe Pattern,",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.6",
+        "Number of viewers": "1,311 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

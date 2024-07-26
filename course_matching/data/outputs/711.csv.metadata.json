@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "711",
+        "Title": "Introduction to Machine Learning in Production",
+        "URL": "https://www.coursera.org/learn/introduction-to-machine-learning-in-production",
+        "Short Intro": "In the first course of Machine Learning Engineering for Production Specialization, you will identify the various components and design an ML production system end-to-end: project scoping, data needs, modeling strategies, and deployment constraints and requirements; and learn how to establish a model baseline, address concept drift, and prototype the process for developing, deploying, and continuously improving a productionized ML application.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Human-level Performance (HLP),Concept Drift,Model baseline,Project Scoping and Design,ML Deployment Challenges,",
+        "Instructors": "Andrew Ng",
+        "Rating": "4.8",
+        "Number of viewers": "2,377 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

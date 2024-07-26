@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1805",
+        "Title": "An Introduction to Interactive Programming in Python (Part 2)",
+        "URL": "https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals",
+        "Short Intro": "This two-part course is designed to help students with very little or no computing background learn the basics of building simple interactive applications. Our language of choice, Python, is an easy-to learn, high-level computer language that is used in many of the computational courses offered on Coursera. To make learning Python easy, we have developed a new browser-based programming environment that makes developing interactive applications in Python simple. These applications will involve windows whose contents are graphical and respond to buttons, the keyboard and the mouse.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Python Syntax And Semantics,Logic Programming,Python Programming,Object-Oriented Programming (OOP),",
+        "Instructors": "Joe Warren",
+        "Rating": "4.9",
+        "Number of viewers": "1,159 ",
+        "Duration": "Approx. 15 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1474",
+        "Title": "Linux System Programming and Introduction to Buildroot",
+        "URL": "https://www.coursera.org/learn/linux-system-programming-introduction-to-buildroot?specialization=advanced-embedded-linux-development",
+        "Short Intro": "This course provides an overview of System Programming for the Linux operating system, or software which is interfacing directly with the Linux Kernel and C library. The basic components of a Linux Embedded System, including kernel and root filesystem details are discussed. The Buildroot build system is introduced, which students use to build their own custom Embedded Linux system through programming assignments.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Linux,Embedded Systems Engineering,C Programming,Shell Script,Electrical Engineering,",
+        "Instructors": "Daniel Walkes",
+        "Rating": "4.1",
+        "Number of viewers": "31 ",
+        "Duration": "Approx. 43 hours to complete",
+        "Site": "Coursera"
+    }
+}

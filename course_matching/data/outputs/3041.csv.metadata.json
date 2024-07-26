@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3041",
+        "Title": "How to Become a Robotics Engineer",
+        "URL": "https://www.udacity.com/course/robotics-software-engineer--nd209",
+        "Short Intro": "Build hands-on projects to acquire core robotics software engineering skills: ROS, Gazebo, Localization, Mapping, SLAM, Navigation, and Path Planning.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Object Localization, FastSLAM, Environment Mapping, SLAM, Monte Carlo Localization, GraphSLAM, Environment Modeling, Sample-Based Path Planning, Probabilistic Path Planning, Automated Path Planning, Particle Filters, Occupancy Grid Mapping Algorithm, Extended Kalman Filters, Breadth-First Search, Robot Operating System, TurtleBot, ROS Nodes, ROS EKF Package, Gazebo, Search Algorithms in C++, Gaussian Distribution",
+        "Instructors": "",
+        "Rating": "4.5",
+        "Number of viewers": "",
+        "Duration": "4 months to complete",
+        "Site": "Udacity"
+    }
+}

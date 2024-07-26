@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Analyzing Big Data with SQL,"In this course, you'll get an in-depth look at the SQL SELECT statement and its main clauses. The course focuses on big data SQL engines Apache Hive and Apache Impala, but most of the information is applicable to SQL with traditional RDBMs as well; the instructor explicitly addresses differences for MySQL and PostgreSQL.",Data Science,Data Analysis,Course,"Apache Hive,Apache Impala,Data Analysis,Big Data,SQL,"

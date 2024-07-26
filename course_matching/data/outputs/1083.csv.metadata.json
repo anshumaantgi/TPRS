@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1083",
+        "Title": "Graph Analytics for Big Data",
+        "URL": "https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data",
+        "Short Intro": "Want to understand your data network structure and how it changes under different conditions? Curious to know how to identify closely interacting clusters within a graph? Have you heard of the fast-growing area of graph analytics and want to learn more? This course gives you a broad overview of the field of graph analytics so you can learn new ways to model, store, retrieve and analyze graph-structured data.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Graph Theory,Neo4j,Analytics,Graph Database,",
+        "Instructors": "Amarnath Gupta",
+        "Rating": "4.3",
+        "Number of viewers": "1,239 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

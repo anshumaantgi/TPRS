@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1390",
+        "Title": "Probability Theory: Foundation for Data Science",
+        "URL": "https://www.coursera.org/learn/probability-theory-foundation-for-data-science?specialization=statistical-inference-for-data-science-applications",
+        "Short Intro": "Understand the foundations of probability and its relationship to statistics and data science.\u00a0 We\u2019ll learn what it means to calculate a probability, independent and dependent outcomes, and conditional events.\u00a0 We\u2019ll study discrete and continuous random variables and see how this fits with data collection.\u00a0 We\u2019ll end the course with Gaussian (normal) random variables and the Central Limit Theorem and understand its fundamental importance for all of statistics and data science.",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Probability,central limit theorem,continuous random variables,Bayes' Theorem,discrete random variables,",
+        "Instructors": "Anne Dougherty",
+        "Rating": "4.4",
+        "Number of viewers": "112 ",
+        "Duration": "Approx. 47 hours to complete",
+        "Site": "Coursera"
+    }
+}

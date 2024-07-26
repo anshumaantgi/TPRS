@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "76",
+        "Title": "TensorFlow: Advanced Techniques Specialization",
+        "URL": "https://www.coursera.org/specializations/tensorflow-advanced-techniques",
+        "Short Intro": "Expand your skill set and master TensorFlow. Customize your machine learning models through four hands-on courses! ",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Model Interpretability, Custom Training Loops, Custom and Exotic Models, Generative Machine Learning, Object Detection, Functional API, Custom Layers, Custom and Exotic Models with Functional API, Custom Loss Functions, Distribution Strategies, Basic Tensor Functionality, GradientTape for Optimization, ",
+        "Instructors": "Laurence Moroney ,Eddy Shyu ,",
+        "Rating": "4.8",
+        "Number of viewers": "1,157 ",
+        "Duration": "Approximately 5 months to complete",
+        "Site": "Coursera"
+    }
+}

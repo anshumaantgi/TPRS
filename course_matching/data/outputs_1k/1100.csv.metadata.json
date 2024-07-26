@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1100",
+        "Title": "Construction Scheduling",
+        "URL": "https://www.coursera.org/learn/construction-scheduling?specialization=construction-management",
+        "Short Intro": "This course focuses on learning how to develop and manage a schedule. The first module provides an overview of the Construction Scheduling course. The second module introduces bar or Gantt charts and how they are used as scheduling tools. During the third module, learners will create activity precedence diagrams, also referred to as activity on node diagrams, which graphically represent the construction activities in a project and their relationships. The fourth module provides an overview of the types of construction activity relationships encountered in a construction project and how to represent them in an activity precedence diagram. Forward and backward pass calculations are covered in the fifth module, and during the sixth module, Professor Odeh discusses the importance of critical paths, including what it is and why it is important.",
+        "Category": "Business",
+        "Sub-Category": "Business Strategy",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Schedule,Linear Scheduling Method,Program Evaluation And Review Technique (PERT),Critical Path Method,",
+        "Instructors": "Ibrahim Odeh, Ph.D., MBA",
+        "Rating": "4.8",
+        "Number of viewers": "1,878 ",
+        "Duration": "Approx. 21 hours to complete",
+        "Site": "Coursera"
+    }
+}

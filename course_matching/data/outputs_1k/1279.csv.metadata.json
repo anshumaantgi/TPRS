@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1279",
+        "Title": "Spatial Analysis and Satellite Imagery in a GIS",
+        "URL": "https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis?specialization=gis-mapping-spatial-analysis",
+        "Short Intro": "In this course, you will learn how to analyze map data using different data types and methods to answer geographic questions. First, you will learn how to filter a data set using different types of queries to find just the data you need to answer a particular question. Then, we will discuss simple yet powerful analysis methods that use vector data to find spatial relationships within and between data sets. In this section, you will also learn about how to use ModelBuilder, a simple but powerful tool for building analysis flowcharts that can then also be run as models. You will then learn how to find, understand, and use remotely sensed data such as satellite imagery, as a rich source of GIS data. You will then learn how to analyze raster data. Finally, you will complete your own project where you get to try out the new skills and tools you have learned about in this course.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Environmental Science and Sustainability",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Geographic Information System (GIS),Cartography,Esri,Mapping,Spatial Analysis,",
+        "Instructors": "Don Boyes",
+        "Rating": "4.9",
+        "Number of viewers": "517 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2027",
+        "Title": "Device-based Models with TensorFlow Lite",
+        "URL": "https://www.coursera.org/learn/device-based-models-tensorflow?specialization=tensorflow-data-and-deployment",
+        "Short Intro": "Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios and use data more effectively to train your model.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "TensorFlow Lite,Mathematical Optimization,Machine Learning,Tensorflow,Object Detection,",
+        "Instructors": "Laurence Moroney",
+        "Rating": "4.7",
+        "Number of viewers": "575 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

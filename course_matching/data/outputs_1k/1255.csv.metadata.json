@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1255",
+        "Title": "Python Data Structures",
+        "URL": "https://www.coursera.org/learn/python-data?specialization=python",
+        "Short Intro": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook \u201cPython for Everybody\u201d.  This course covers Python 3.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Python Syntax And Semantics,Data Structure,Tuple,Python Programming,",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.9",
+        "Number of viewers": "92,485 ",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

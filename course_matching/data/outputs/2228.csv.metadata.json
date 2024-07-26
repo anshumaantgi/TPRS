@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2228",
+        "Title": "Reliable Google Cloud Infrastructure: Design and Process",
+        "URL": "https://www.coursera.org/learn/cloud-infrastructure-design-process?specialization=gcp-architecture",
+        "Short Intro": "This course equips students to build highly reliable and efficient solutions on Google Cloud using proven design patterns. It is a continuation of the Architecting with Google Compute Engine or Architecting with Google Kubernetes Engine courses and assumes hands-on experience with the technologies covered in either of those courses. Through a combination of presentations, design activities, and hands-on labs, participants learn to define and balance business and technical requirements to design Google Cloud deployments that are highly reliable, highly available, secure, and cost-effective.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Disaster Recovery,Site Reliability Engineering,Google Cloud Platform,Cloud Computing,",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.7",
+        "Number of viewers": "7,124 ",
+        "Duration": "Approx. 8 hours to complete",
+        "Site": "Coursera"
+    }
+}

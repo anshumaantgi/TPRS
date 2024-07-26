@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1982",
+        "Title": "Business Analytics for Decision Making",
+        "URL": "https://www.coursera.org/learn/business-analytics-decision-making?specialization=data-analytics-business",
+        "Short Intro": "In this course you will learn how to create models for decision making. We will start with cluster analysis, a technique for data reduction that is very useful in market segmentation. You will then learn the basics of Monte Carlo simulation that will help you model the uncertainty that is prevalent in many business decisions. A key element of decision making is to identify the best course of action. Since businesses problems often have too many alternative solutions, you will learn how optimization can help you identify the best option. What is really exciting about this course is that you won\u2019t need to know a computer language or advanced statistics to learn about these predictive and prescriptive analytic models. The Analytic Solver Platform and basic knowledge of Excel is all you\u2019ll need. Learners participating in assignments will be able to get free access to the Analytic Solver Platform.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Analysis,Simulation,Business Analytics,Mathematical Optimization,",
+        "Instructors": "Manuel Laguna",
+        "Rating": "4.6",
+        "Number of viewers": "1,762 ",
+        "Duration": "Approx. 8 hours to complete",
+        "Site": "Coursera"
+    }
+}

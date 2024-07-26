@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1455",
+        "Title": "Big Data - Capstone Project",
+        "URL": "https://www.coursera.org/learn/big-data-project?specialization=big-data",
+        "Short Intro": "Welcome to the Capstone Project for Big Data! In this culminating project, you will build a big data ecosystem using tools and methods form the earlier courses in this specialization. You will analyze a data set simulating big data generated from a large number of users who are playing our imaginary game \"Catch the Pink Flamingo\". During the five week Capstone Project, you will walk through the typical big data science steps for acquiring, exploring, preparing, analyzing, and reporting. In the first two weeks, we will introduce you to the data set and guide you through some exploratory analysis using tools such as Splunk and Open Office. Then we will move into more challenging big data problems requiring the more advanced tools you have learned including KNIME, Spark's MLLib and Gephi. Finally, during the fifth and final week, we will show you how to bring it all together to create engaging and compelling reports and slide presentations. As a result of our collaboration with Splunk, a software company focus on analyzing machine-generated big data, learners with the top projects will be eligible to present to Splunk and meet Splunk recruiters and engineering leadership.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Big Data,Neo4j,Knime,Splunk,",
+        "Instructors": "Ilkay Altintas",
+        "Rating": "4.4",
+        "Number of viewers": "389 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

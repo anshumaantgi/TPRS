@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1230",
+        "Title": "RPA Basics and Introduction to UiPath",
+        "URL": "https://www.coursera.org/learn/rpa-basics-and-introduction-to-uipath?specialization=roboticprocessautomation",
+        "Short Intro": "The RPA Basics and Introduction to UiPath course provides knowledge on Robotic Process Automation basic concepts. It also introduces you to the UiPath Platform and its core components. The course provides a detailed explanation of UiPath Studio User Interface and its features. By the end of the course, you will be able to build your first automation project in UiPath Studio.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Uipath,Studio,Automation,Workflow,rpa,",
+        "Instructors": "UiPath",
+        "Rating": "4.7",
+        "Number of viewers": "187 ",
+        "Duration": "Approx. 6 hours to complete",
+        "Site": "Coursera"
+    }
+}

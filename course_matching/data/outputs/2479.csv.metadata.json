@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2479",
+        "Title": "Python Functions, Files, and Dictionaries",
+        "URL": "https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming",
+        "Short Intro": "This course introduces the dictionary data structure and user-defined functions. You\u2019ll learn about local and global variables, optional and keyword parameter-passing, named functions and lambda expressions. You\u2019ll also learn about Python\u2019s sorted function and how to control the order in which it sorts by passing in another function as an input. For your final project, you\u2019ll read in simulated social media data from a file, compute sentiment scores, and write out .csv files. It covers chapters 10-16 of the textbook \u201cFundamentals of Python Programming,\u201d which is the accompanying text (optional and free) for this course.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Paul Resnick",
+        "Rating": "4.8",
+        "Number of viewers": "4,980 ",
+        "Duration": "Approx. 31 hours to complete",
+        "Site": "Coursera"
+    }
+}

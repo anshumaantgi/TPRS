@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2260",
+        "Title": "Data Pipelines with TensorFlow Data Services",
+        "URL": "https://www.coursera.org/learn/data-pipelines-tensorflow?specialization=tensorflow-data-and-deployment",
+        "Short Intro": "Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios and use data more effectively to train your model.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Artificial Neural Network,Tensorflow,Extraction, Transformation And Loading (ETL),Data Pipelines,TensorFlow Datasets,",
+        "Instructors": "Laurence Moroney",
+        "Rating": "4.4",
+        "Number of viewers": "465 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

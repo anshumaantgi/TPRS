@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3090",
+        "Title": "Data Wrangling",
+        "URL": "https://www.udacity.com/course/data-wrangling--cd0015",
+        "Short Intro": "Learn the most efficient methods for gathering raw \u201cdirty\u201d data and cleaning it up for analysis. After finishing this course, you\u2019ll be able to gather messy data from a variety of sources and \u201ctidy\u201d it up in no time using the powerful Python library, pandas.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Data Preparation, Data Ingestion, Data Cleaning, Data Wrangling, Pandas",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "1 month to complete",
+        "Site": "Udacity"
+    }
+}

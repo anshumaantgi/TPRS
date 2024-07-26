@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1955",
+        "Title": "Capstone MOOC for \"Android App Development\"",
+        "URL": "https://www.coursera.org/learn/aadcapstone?specialization=android-app-development",
+        "Short Intro": "The Capstone project integrates material from throughout the Android App Development Specialization to exercise and assess the ability of learners to create an interesting Android app. Learners will apply knowledge and skills learned in previous MOOCs in this Specialization, including Java programming features; Android activity, broadcast receiver, service, and content provider (plus SQLite) components; and unit, integration, and user interface testing. The project itself is similar in scope to previous assignments in the earlier MOOCs in the Specialization.  However, it is intentionally designed to enable learners to create a customized app that demonstrates their creativity and mastery of the Specialization topics.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Dr. Douglas C. Schmidt",
+        "Rating": "4.2",
+        "Number of viewers": "48 ",
+        "Duration": "Approx. 4 hours to complete",
+        "Site": "Coursera"
+    }
+}

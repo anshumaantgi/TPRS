@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1886",
+        "Title": "Sample-based Learning Methods",
+        "URL": "https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning",
+        "Short Intro": "In this course, you will learn about several algorithms that can learn near optimal policies based on trial and error interaction with the environment---learning from the agent\u2019s own experience. Learning from actual experience is striking because it requires no prior knowledge of the environment\u2019s dynamics, yet can still attain optimal behavior. We will cover intuitively simple but powerful Monte Carlo methods, and temporal difference learning methods including Q-learning. We will wrap up this course investigating how we can get the best of both worlds: algorithms that can combine model-based planning (similar to dynamic programming) and temporal difference updates to radically accelerate learning.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Artificial Intelligence (AI),Machine Learning,Reinforcement Learning,Function Approximation,Intelligent Systems,",
+        "Instructors": "Martha White",
+        "Rating": "4.8",
+        "Number of viewers": "1,165 ",
+        "Duration": "Approx. 21 hours to complete",
+        "Site": "Coursera"
+    }
+}

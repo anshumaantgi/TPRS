@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3084",
+        "Title": "Unsupervised Machine Learning",
+        "URL": "https://www.udacity.com/course/unsupervised-learning--cd0026",
+        "Short Intro": "Learn how to distill messy data into meaningful groups with unsupervised machine learning! By the end of this course, you\u2019ll know how to perform cluster analyses and dimensionality reduction using Python\u2019s powerful machine-learning package, scikit-learn.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Independent Component Analysis, Gaussian Mixture Models, Principal Component Analysis, Dimensionality Reduction, Single Linkage Clustering, K-Means Clustering, DBSCAN, Cluster Models, Market Segmentation",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "1 month to complete",
+        "Site": "Udacity"
+    }
+}

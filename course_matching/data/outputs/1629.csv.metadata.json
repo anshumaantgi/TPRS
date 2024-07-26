@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1629",
+        "Title": "Python Classes and Inheritance",
+        "URL": "https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming",
+        "Short Intro": "This course introduces classes, instances, and inheritance. You will learn how to use classes to represent data in concise and natural ways. You'll also learn how to override built-in methods and how to create \"inherited\" classes that reuse functionality. You'll also learn about how to design classes. Finally, you will be introduced to the good programming habit of writing automated tests for their own code.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Steve Oney",
+        "Rating": "4.7",
+        "Number of viewers": "3,434 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

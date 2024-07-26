@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3047",
+        "Title": "Become a Cloud Developer",
+        "URL": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990",
+        "Short Intro": "Cloud development is the foundation for the new world of software development. Enroll now to build and deploy production-ready full stack apps at scale on AWS, an essential skill for advancing your web development career.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Amazon Web Services Basics, Amazon RDS, Amazon Elastic Compute Cloud, Cloud Security in AWS, Amazon S3, Kubernetes, Docker, Cloud Computing Fluency, Serverless Cloud Computing Architecture, Microservices Architecture Design, Serverless Development, Unit Testing, Integration Testing, Microservices Debugging",
+        "Instructors": "",
+        "Rating": "4.5",
+        "Number of viewers": "",
+        "Duration": "Estimated 4 Months",
+        "Site": "Udacity"
+    }
+}

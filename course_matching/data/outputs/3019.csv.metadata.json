@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3019",
+        "Title": "Full Stack Web Developer",
+        "URL": "https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044",
+        "Short Intro": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Flask, Parsing Form Data, API Fluency Testing, Documentation, Development, Git, Code Reviews, Object-Relational Mapping, Continuous Integration, Continuous Deployment, Integration Testing, Application Security Basics, Application Authentication and Authorization, JWTs, Auth0, Data Security Fundamentals, Data Encryption, SQLAlchemy, unittest, psycopg2, Docker, Kubernetes, AWS CodePipeline, CodeBuild, CLI, Amazon Elastic Kubernetes, PostgreSQL, HTTP, CORS, Relational Database Transactions, Relational Database Migration, Fluency, Orchestration",
+        "Instructors": "",
+        "Rating": "4.5",
+        "Number of viewers": "",
+        "Duration": "4 Months to complete",
+        "Site": "Udacity"
+    }
+}

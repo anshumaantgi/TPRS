@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2716",
+        "Title": "FPGA Softcore Processors and IP Acquisition",
+        "URL": "https://www.coursera.org/learn/fpga-softcore-proccessors-ip?specialization=fpga-design",
+        "Short Intro": "This course will introduce you to all aspects of development of Soft Processors and Intellectual Property (IP) in FPGA design.  You will learn the extent of Soft Processor types and capabilities, how to make your own Soft Processor in and FPGA, including how to design the hardware and the software for a Soft Processor.  You will learn how to add IP blocks and custom instructions to your Soft Processor.  After the Soft Processor is made, you learn how to verify the design using simulation and an internal logic analyzer.  Once complete you will know how to create and use Soft Processors and IP, a very useful skill. ",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Electrical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Software Design for Softcore Processors,Softcore Processor Design,Programmable Logic Design,Simulation for Verification,Intellectual Property Integration,",
+        "Instructors": "Timothy Scherr",
+        "Rating": "4.0",
+        "Number of viewers": "68 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

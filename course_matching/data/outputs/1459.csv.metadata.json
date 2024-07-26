@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1459",
+        "Title": "Delivery Problem",
+        "URL": "https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics",
+        "Short Intro": "In this online course we\u2019ll implement (in Python) together efficient programs for a problem needed by delivery companies all over the world millions times per day \u2014 the travelling salesman problem. The goal in this problem is to visit all the given places as quickly as possible. How to find an optimal solution to this problem quickly? We still don\u2019t have provably efficient algorithms for this difficult computational problem and this is the essence of the P versus NP problem, the most important open question in Computer Science. Still, we\u2019ll implement several solutions for real world instances of the travelling salesman problem.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Alexander S. Kulikov",
+        "Rating": "4.7",
+        "Number of viewers": "359 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

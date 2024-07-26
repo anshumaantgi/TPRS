@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1885",
+        "Title": "Service-Oriented Architecture",
+        "URL": "https://www.coursera.org/learn/service-oriented-architecture?specialization=software-design-architecture",
+        "Short Intro": "Based on an understanding of architectural styles, you will review architectures for web applications, then explore the basics of Service-Oriented Architecture (SOA) in two approaches: Web Services (WS*) and Representational State Transfer (REST) architecture. ",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Web Service,Microservices,Representational State Transfer (REST),Service-Oriented Architecture,",
+        "Instructors": "Kenny Wong",
+        "Rating": "4.5",
+        "Number of viewers": "532 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

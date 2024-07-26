@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "171",
+        "Title": "Functional Programming in Scala Specialization",
+        "URL": "https://www.coursera.org/specializations/scala",
+        "Short Intro": "Program on a Higher Level. Write elegant functional code to analyze data that's big or small",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Scala Programming, Parallel Computing, Apache Spark, Functional Programming, Recursion, Immutable Data Types, Higher-Order Function, Laziness, Type Class, Referential Transparency, Reactive Programming, Data Structure, ",
+        "Instructors": "Martin Odersky ,Prof. Viktor Kuncak ,Dr. Aleksandar Prokopec ,Prof. Heather Miller ,Julien Richard-Foy ,",
+        "Rating": "4.7",
+        "Number of viewers": "6,835 ",
+        "Duration": "Approximately 7 months to complete",
+        "Site": "Coursera"
+    }
+}

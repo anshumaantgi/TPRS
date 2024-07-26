@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1723",
+        "Title": "Security Best Practices in Google Cloud",
+        "URL": "https://www.coursera.org/learn/security-best-practices-in-google-cloud?specialization=security-google-cloud-platform",
+        "Short Intro": "This self-paced training course gives participants broad study of security controls and techniques on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure Google Cloud solution, including Cloud Storage access control technologies, Security Keys, Customer-Supplied Encryption Keys, API access controls, scoping, shielded VMs, encryption, and signed URLs. It also covers securing Kubernetes environments.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.6",
+        "Number of viewers": "328 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

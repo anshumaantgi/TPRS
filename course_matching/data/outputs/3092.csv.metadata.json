@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3092",
+        "Title": "Data Engineering for Data Scientists",
+        "URL": "https://www.udacity.com/course/data-engineering-for-data-scientists--cd0018",
+        "Short Intro": "Learn how to wrangle data on a massive scale! By the end of this course, you\u2019ll be able to pull data from a wide range of sources, store it in a database, and create data pipelines (ETL, NLP, machine learning) that power real-world web applications.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Tokenization, tf-idf, Sentiment Analysis, Part of Speech Tagging, Lemmatization, Entity Recognition, Bag of Words, Machine Learning Pipeline Creation, Machine Learning Pipeline Fundamentals, scikit-learn, Hyperparameter Tuning, Feature Engineering, Feature Extraction, Data Cleaning, ETL, Data Preparation, Data Ingestion, Data Normalization, Data Pre-Processing, SQLite",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "1 month to complete",
+        "Site": "Udacity"
+    }
+}

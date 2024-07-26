@@ -1,0 +1,52 @@
+{
+    "skills": [
+        {
+            "skill_justification": "The client has demonstrated their expertise in Python by using it extensively in their work experience, including integrating GPT powered by Azure Open AI endpoints, building robust data extraction programs, and designing server applications and client interfaces using Django and other Python-based frameworks.",
+            "skill": "Python",
+            "skill_level_justification": "The client has over 5 years of experience working with Python, as evidenced by their work experience in various roles, including AI Developer, Data Engineer Intern, and Software Engineer (Backend Developer).",
+            "skill_level": "Expert"
+        },
+        {
+            "skill_justification": "The client has demonstrated their advanced skills in Java through their work experience, particularly in implementing an OSI Network Layer-influenced Serial Protocol using C# and .NET libraries as a Full Stack Developer at ST Engineering.",
+            "skill": "Java",
+            "skill_level_justification": "The client has 3-5 years of experience working with Java, as evidenced by their work experience in various roles, including Full Stack Developer at ST Engineering.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The client has demonstrated their advanced skills in SQL through their work experience, particularly in studying the industrial application of SQL database use cases and its deployment as a Full Stack Developer at ST Engineering.",
+            "skill": "SQL",
+            "skill_level_justification": "The client has 3-5 years of experience working with SQL, as evidenced by their work experience in various roles, including Full Stack Developer at ST Engineering.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The client has demonstrated their advanced skills in JavaScript through their work experience, particularly in handling the development and management of frontend user interfaces with the help of HTML, CSS, and JavaScript as a Software Engineer (Backend Developer) at NUS CommIT.",
+            "skill": "JavaScript",
+            "skill_level_justification": "The client has 3-5 years of experience working with JavaScript, as evidenced by their work experience in various roles, including Software Engineer (Backend Developer) at NUS CommIT.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The client has demonstrated their advanced skills in HTML through their work experience, particularly in handling the development and management of frontend user interfaces with the help of HTML, CSS, and JavaScript as a Software Engineer (Backend Developer) at NUS CommIT.",
+            "skill": "HTML",
+            "skill_level_justification": "The client has 3-5 years of experience working with HTML, as evidenced by their work experience in various roles, including Software Engineer (Backend Developer) at NUS CommIT.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The client has demonstrated their advanced skills in CSS through their work experience, particularly in handling the development and management of frontend user interfaces with the help of HTML, CSS, and JavaScript as a Software Engineer (Backend Developer) at NUS CommIT.",
+            "skill": "CSS",
+            "skill_level_justification": "The client has 3-5 years of experience working with CSS, as evidenced by their work experience in various roles, including Software Engineer (Backend Developer) at NUS CommIT.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The client has demonstrated their intermediate skills in PyTorch through their work experience as an AI Developer at SAP, where they integrated GPT powered by Azure Open AI endpoints in the current pipeline.",
+            "skill": "PyTorch",
+            "skill_level_justification": "The client has 1-3 years of experience working with PyTorch, as evidenced by their work experience as an AI Developer at SAP.",
+            "skill_level": "Intermediate"
+        },
+        {
+            "skill_justification": "The client has demonstrated their intermediate skills in NumPy through their work experience as an AI Developer at SAP, where they integrated GPT powered by Azure Open AI endpoints in the current pipeline.",
+            "skill": "NumPy",
+            "skill_level_justification": "The client has 1-3 years of experience working with NumPy, as evidenced by their work experience as an AI Developer at SAP",
+            "skill_level": "Intermediate"
+        }
+    ]
+}

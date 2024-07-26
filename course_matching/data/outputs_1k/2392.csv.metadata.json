@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2392",
+        "Title": "Managing Big Data in Clusters and Cloud Storage",
+        "URL": "https://www.coursera.org/learn/cloud-storage-big-data-analysis-sql?specialization=cloudera-big-data-analysis-sql",
+        "Short Intro": "In this course, you'll learn how to manage big datasets, how to load them into clusters and cloud storage, and how to apply structure to the data so that you can run queries on it using distributed SQL engines like Apache Hive and Apache Impala. You\u2019ll learn how to choose the right data types, storage systems, and file formats based on which tools you\u2019ll use and what performance you need.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Management,Distributed File Systems,Cloud Storage,Big Data,SQL,",
+        "Instructors": "Ian Cook",
+        "Rating": "4.7",
+        "Number of viewers": "285 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

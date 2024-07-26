@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Introduction to Neurohacking In R,"Neurohacking describes how to use the R programming language (https://cran.r-project.org/) and its associated package to perform manipulation, processing, and analysis of neuroimaging data. We focus on publicly-available structural magnetic resonance imaging (MRI). We discuss concepts such as inhomogeneity correction, image registration, and image visualization.",Data Science,Data Analysis,Course,"Image Processing,Brain,R Programming,Neurology,"

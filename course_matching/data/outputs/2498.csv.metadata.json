@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2498",
+        "Title": "Data Analysis Using Python",
+        "URL": "https://www.coursera.org/learn/data-analysis-python?specialization=programming-python-java",
+        "Short Intro": "This course provides an introduction to basic data science techniques using Python.  Students are introduced to core concepts like Data Frames and joining data, and learn how to use data analysis libraries like pandas, numpy, and matplotlib.  This course provides an overview of loading, inspecting, and querying real-world data, and how to answer basic questions about that data.  Students will gain skills in data aggregation and summarization, as well as basic data visualization.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Science,Python Libraries,Python Programming,Data Analysis,Data Visualization (DataViz),",
+        "Instructors": "Brandon Krakowsky",
+        "Rating": "4.6",
+        "Number of viewers": "314 ",
+        "Duration": "Approx. 16 hours to complete",
+        "Site": "Coursera"
+    }
+}

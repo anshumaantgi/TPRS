@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2782",
+        "Title": "Statistical Inference",
+        "URL": "https://www.coursera.org/learn/statistical-inference?specialization=jhu-data-science",
+        "Short Intro": "Statistical inference is the process of drawing conclusions about populations or scientific truths from data. There are many modes of performing inference including statistical modeling, data oriented strategies and explicit use of designs and randomization in analyses. Furthermore, there are broad theories (frequentists, Bayesian, likelihood, design based, \u2026) and numerous complexities (missing data, observed and unobserved confounding, biases) for performing inference. A practitioner can often be left in a debilitating maze of techniques, philosophies and nuance. This course presents the fundamentals of inference in a practical approach for getting things done. After taking this course, students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data.",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Statistics,Statistical Inference,Statistical Hypothesis Testing,",
+        "Instructors": "Brian Caffo, PhD",
+        "Rating": "4.2",
+        "Number of viewers": "4,393 ",
+        "Duration": "Approx. 54 hours to complete",
+        "Site": "Coursera"
+    }
+}

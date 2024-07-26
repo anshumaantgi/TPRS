@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1247",
+        "Title": "Principles of Computing (Part 1)",
+        "URL": "https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals",
+        "Short Intro": "This two-part course builds upon the programming skills that you learned in our Introduction to Interactive Programming in Python course.  We will augment those skills with both important programming practices and critical mathematical problem solving skills.  These skills underlie larger scale computational problem solving and programming. The main focus of the class will be programming weekly mini-projects in Python that build upon the mathematical and programming principles that are taught in the class. To keep the class fun and engaging, many of the projects will involve working with strategy-based games.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Computer Programming,Algorithms,Python Programming,Combinatorics,",
+        "Instructors": "Scott Rixner",
+        "Rating": "4.7",
+        "Number of viewers": "573 ",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

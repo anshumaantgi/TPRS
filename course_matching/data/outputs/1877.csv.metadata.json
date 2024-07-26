@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1877",
+        "Title": "Interacting with the System and Managing Memory",
+        "URL": "https://www.coursera.org/learn/interacting-system-managing-memory?specialization=c-programming",
+        "Short Intro": "The final course in the specialization Introduction to Programming in C will teach you powerful new programming techniques for interacting with the user and the system and dynamically allocating memory. You will learn more sophisticated uses for pointers, such as strings and multidimensional arrays, as well as how to write programs that read and write files and take input from the user. Learning about dynamic memory allocation will allow your programs to perform complex tasks that will be applied in the final part of the specialization project: a Monte Carlo simulation for calculating poker hand probabilities.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Andrew D. Hilton",
+        "Rating": "4.4",
+        "Number of viewers": "154 ",
+        "Duration": "Approx. 23 hours to complete",
+        "Site": "Coursera"
+    }
+}

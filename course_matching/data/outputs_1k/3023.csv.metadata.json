@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3023",
+        "Title": "Learn React",
+        "URL": "https://www.udacity.com/course/react-nanodegree--nd019",
+        "Short Intro": "Become a successful React developer by learning to build declarative user interfaces for the web with React and manage state more predictably in your applications with Redux.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " React Component State, React Router, React Native Basics, React Native OS APIs, React Hooks, React Design Patterns, React Native Styling, Create React App, Basic React, Application State Management with Redux, React-Redux Bindings, Jest, JavaScript Functions, Unit Testing, Software Testing, Integration Testing, Fetching Data, CSS-in-JS, Mobile App Styling, Mobile Data Management, Application Development Best Practices, Code Debugging, Test-Driven Development, Data Lifecycle Management",
+        "Instructors": "",
+        "Rating": "4.7",
+        "Number of viewers": "",
+        "Duration": "Estimated 2 months to complete",
+        "Site": "Udacity"
+    }
+}

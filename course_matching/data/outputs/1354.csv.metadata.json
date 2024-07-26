@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1354",
+        "Title": "IoT Networking",
+        "URL": "https://www.coursera.org/learn/iot-networking?specialization=uiuc-iot",
+        "Short Intro": "This course builds on the first two courses in this series: IoT Devices and IoT Communications. Here you will begin to learn enterprise IoT. Enterprise networks, from first-hop access to backend IoT services are critical because they allow your IoT devices to reach the Internet and achieve their true intelligence. IoT places extreme demands on first-hop access - ultra-dense deployments challenge spectrum allocation, the need to provide strong segmentation yet let devices reach into IoT services such as gateways and databases. During this week you will begin to learn about these challenges, and the underlying protocols and technologies of wired networks that can help you to address them.",
+        "Category": "Computer Science",
+        "Sub-Category": "Computer Security and Networks",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Internet,Internet Of Things (IOT),Wireless,Front And Back Ends,",
+        "Instructors": "Matthew Caesar",
+        "Rating": "4.9",
+        "Number of viewers": "10 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

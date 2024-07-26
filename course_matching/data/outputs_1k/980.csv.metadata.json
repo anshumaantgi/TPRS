@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "980",
+        "Title": "Getting Started with SAS Programming",
+        "URL": "https://www.coursera.org/learn/sas-programming-basics",
+        "Short Intro": "This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "SAS Studio,Import Data,Reports,Prepare Data,SAS Programs,",
+        "Instructors": "Stacey Syphus",
+        "Rating": "4.8",
+        "Number of viewers": "2,817 ",
+        "Duration": "Approx. 24 hours to complete",
+        "Site": "Coursera"
+    }
+}

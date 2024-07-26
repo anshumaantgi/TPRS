@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2638",
+        "Title": "3D Reconstruction - Single Viewpoint ",
+        "URL": "https://www.coursera.org/learn/3d-reconstruction---single-viewpoint?specialization=firstprinciplesofcomputervision",
+        "Short Intro": "This course focuses on the recovery of the 3D structure of a scene from its 2D images. In particular, we are interested in the 3D reconstruction of a rigid scene from images taken by a stationary camera (same viewpoint). This problem is interesting as we want the multiple images of the scene to capture complementary information despite the fact that the scene is rigid and the camera is fixed. To this end, we explore several ways of capturing images where each image provides additional information about the scene.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Photometric Stereo,Depth from Focus and Defocus,Structed Light Methods,Reflectance Models,Radiometry,",
+        "Instructors": "Shree Nayar",
+        "Rating": "4.9",
+        "Number of viewers": "18 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

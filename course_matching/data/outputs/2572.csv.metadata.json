@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2572",
+        "Title": "Trees and Graphs: Basics",
+        "URL": "https://www.coursera.org/learn/trees-graphs-basics?specialization=boulder-data-structures-algorithms",
+        "Short Intro": "Basic algorithms on tree data structures, binary search trees, self-balancing trees, graph data structures and basic traversal algorithms on graphs. This course also covers advanced topics such as kd-trees for spatial data and algorithms for spatial data.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Analysis of Algorithms,Algorithm Design,Python Programming,Data Structure Design,Graphs Algorithms,",
+        "Instructors": "Sriram Sankaranarayanan",
+        "Rating": "4.8",
+        "Number of viewers": "65 ",
+        "Duration": "Approx. 33 hours to complete",
+        "Site": "Coursera"
+    }
+}

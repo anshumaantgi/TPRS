@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1172",
+        "Title": "Cloud Data Engineering",
+        "URL": "https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale",
+        "Short Intro": "Welcome to the third course in the Building Cloud Computing Solutions at Scale Specialization! In this course, you will learn how to apply Data Engineering to real-world projects using the Cloud computing concepts introduced in the first two courses of this series. By the end of this course, you will be able to develop Data Engineering applications and use software development best practices to create data engineering applications. These will include continuous deployment, code quality tools, logging, instrumentation and monitoring. Finally, you will use Cloud-native technologies to tackle complex data engineering solutions. ",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Noah Gift",
+        "Rating": "4.1",
+        "Number of viewers": "60 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

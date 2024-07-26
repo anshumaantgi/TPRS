@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2213",
+        "Title": "Modernizing Data Lakes and Data Warehouses with Google Cloud",
+        "URL": "https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-machine-learning",
+        "Short Intro": "The two key components of any data pipeline are data lakes and warehouses. This course highlights use-cases for each type of storage and dives into the available data lake and warehouse solutions on Google Cloud in technical detail. Also, this course describes the role of a data engineer, the benefits of a successful data pipeline to business operations, and examines why data engineering should be done in a cloud environment.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.7",
+        "Number of viewers": "2,687 ",
+        "Duration": "Approx. 7 hours to complete",
+        "Site": "Coursera"
+    }
+}

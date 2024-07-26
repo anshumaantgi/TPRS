@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1769",
+        "Title": "IoT Devices",
+        "URL": "https://www.coursera.org/learn/iot-devices-il?specialization=uiuc-iot",
+        "Short Intro": "The Internet of Things (IoT) stands to be the next revolution in computing. Billions of data-spouting devices connected to the Internet are already fundamentally changing the way we live and work. This course teaches a deep understanding of IoT technologies from the ground up. Students will learn IoT device programming (Arduino and Raspberry Pi), sensing and actuating technologies, IoT protocol stacks (Zigbee, 5G, NFC, MQTT, etc), networking backhaul design and security enforcement, data science for IoT, and cloud-based IoT platforms such as AWS IoT. As an optional honors avtivity, students will be guided through laboratory assignments designed to give them practical real-world experience, where they will deploy a distributed wifi monitoring service, a cloud-based IoT service platform serving tens of thousands of heartbeat sensors, and more. Students will emerge from the class with a cutting-edge education on this rapidly emerging technology segment, and with the confidence to carry out tasks they will commonly encounter in industrial settings. Important: To complete the practical part of the whole series (honors) there will be practical experimentation using actual hardware, which you will need to acquire. (Cost may vary between 100 and 200 USD depending on your location). Most parts that are needed for the first course, will be re-used in the following courses.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Internet,Internet Of Things (IOT),Wireless,Front And Back Ends,",
+        "Instructors": "Matthew Caesar",
+        "Rating": "4.7",
+        "Number of viewers": "118 ",
+        "Duration": "Approx. 12 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2710",
+        "Title": "Dynamic Programming, Greedy Algorithms",
+        "URL": "https://www.coursera.org/learn/dynamic-programming-greedy-algorithms?specialization=boulder-data-structures-algorithms",
+        "Short Intro": "This course covers basic algorithm design techniques such as divide and conquer, dynamic programming, and greedy algorithms. It concludes with a brief introduction to intractability (NP-completeness) and using linear/integer programming solvers for solving optimization problems. We will also cover some advanced topics in data structures.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Analysis of Algorithms,Algorithm Design,Python Programming,Data Structure Design,Intractability,",
+        "Instructors": "Sriram Sankaranarayanan",
+        "Rating": "4.4",
+        "Number of viewers": "49 ",
+        "Duration": "Approx. 37 hours to complete",
+        "Site": "Coursera"
+    }
+}

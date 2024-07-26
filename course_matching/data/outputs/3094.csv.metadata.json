@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3094",
+        "Title": "Introduction to SQL",
+        "URL": "https://www.udacity.com/course/introduction-to-sql--cd0021",
+        "Short Intro": "Become an SQL power user!   By the end of this hands-on course, you\u2019ll be able to complete complex tasks in SQL, including cleaning data and tuning the performance of your queries so they run quickly, even over giant data sets.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " SQL Subqueries, SQL JOINs, SQL Window Functions, SQL Queries, SQL Aggregations, SQL Query Performance Tuning, Data Cleaning",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "1 month to complete",
+        "Site": "Udacity"
+    }
+}

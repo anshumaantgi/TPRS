@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1313",
+        "Title": "Essential Google Cloud Infrastructure: Core Services",
+        "URL": "https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=gcp-architecture",
+        "Short Intro": "This accelerated on-demand course introduces participants to the comprehensive and flexible infrastructure and platform services provided by Google Cloud with a focus on Compute Engine. Through a combination of video lectures, demos, and hands-on labs, participants explore and deploy solution elements, including infrastructure components such as networks, systems and applications services. This course also covers deploying practical solutions including customer-supplied encryption keys, security and access management, quotas and billing, and resource monitoring.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Debugging,Cloud Storage,Data Store,Google Cloud Platform,",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.7",
+        "Number of viewers": "11,271 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1719",
+        "Title": "Black-box and White-box Testing",
+        "URL": "https://www.coursera.org/learn/black-box-white-box-testing?specialization=software-testing-automation",
+        "Short Intro": "After completing this course, learners will have an understanding of a variety of black-box and white-box testing techniques. The learner will have put this understanding into practice, creating effective sets of test cases (called a test suite) to properly exercise software for defect finding. The learner will have examined requirements for testability, created an oracle for automated testing, assessed fault-finding effectiveness of test suites, and generated inputs using a variety of techniques.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Executing Tests,Software Testing,Writing Tests,Cucumber,Junit,",
+        "Instructors": "Mike",
+        "Rating": "3.5",
+        "Number of viewers": "58 ",
+        "Duration": "Approx. 26 hours to complete",
+        "Site": "Coursera"
+    }
+}

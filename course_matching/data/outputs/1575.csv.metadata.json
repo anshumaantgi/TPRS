@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1575",
+        "Title": "Term-Structure and Credit Derivatives ",
+        "URL": "https://www.coursera.org/learn/financial-engineering-termstructure?specialization=financialengineering",
+        "Short Intro": "This course will focus on capturing the evolution of interest rates and providing deep insight into credit derivatives. In the first module we discuss the term structure lattice models and cash account, and then analyze fixed income derivatives, such as Options, Futures, Caplets and Floorlets, Swaps and Swaptions. In the second module, we will examine model calibration in the context of fixed income securities and extend it to other asset classes and instruments. Learners will operate model calibration using Excel and apply it to price a payer swaption in a Black-Derman-Toy (BDT) model. The third module introduces credit derivatives and subsequently focuses on modeling and pricing the Credit Default Swaps. In the fourth module, learners would be introduced to the concept of securitization, specifically asset backed securities(ABS). The discussion progresses to Mortgage Backed Securities(MBS) and the associated mortgage mathematics. The final module delves into introducing and pricing Collateralized Mortgage Obligations(CMOs).",
+        "Category": "Business",
+        "Sub-Category": "Finance",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "model calibration,modeling and pricing Credit Default Swaps,",
+        "Instructors": "Garud Iyengar",
+        "Rating": "4.5",
+        "Number of viewers": "26 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

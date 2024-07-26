@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Introduction to Concurrent Programming with GPUs,"This course will help prepare students for developing code that can process large amounts of data in parallel. It will focus on foundational aspects of concurrent programming, such as CPU/GPU architectures, multithreaded programming in C and Python, and an introduction to CUDA software/hardware.",Computer Science,Software Development,Course,"Cuda,Python Programming,Thread (Computing),C++,"

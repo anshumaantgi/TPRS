@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1820",
+        "Title": "Supervised Machine Learning: Regression",
+        "URL": "https://www.coursera.org/learn/supervised-machine-learning-regression?specialization=ibm-intro-machine-learning",
+        "Short Intro": "This course introduces you to one of the main types of modelling families of supervised Machine Learning: Regression. You will learn how to train regression models to predict continuous outcomes and how to use error metrics to compare across different models. This course also walks you through best practices, including train and test splits, and regularization techniques.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Regression Analysis,Supervised Learning,Linear Regression,Ridge Regression,Machine Learning (ML) Algorithms,",
+        "Instructors": "Mark J Grover",
+        "Rating": "4.7",
+        "Number of viewers": "374 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

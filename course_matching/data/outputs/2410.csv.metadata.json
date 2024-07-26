@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2410",
+        "Title": "AI Fundamentals for Non-Data Scientists",
+        "URL": "https://www.coursera.org/learn/wharton-ai-fundamentals-non-data-scientists?specialization=ai-for-business-wharton",
+        "Short Intro": "In this course, you will go in-depth to discover how Machine Learning is used to handle and interpret Big Data. You will get a detailed look at the various ways and methods to create algorithms to incorporate into your business with such tools as Teachable Machine and TensorFlow. You will also learn different ML methods, Deep Learning, as well as the limitations but also how to drive accuracy and use the best training data for your algorithms. You will then explore GANs and VAEs, using your newfound knowledge to engage with AutoML to help you start building algorithms that work to suit your needs. You will also see exclusive interviews with industry leaders, who manage Big Data for companies such as McDonald's and Visa. By the end of this course, you will have learned different ways to code, including how to use no-code tools, understand Deep Learning, how to measure and review errors in your algorithms, and how to use Big Data to not only maintain customer privacy but also how to use this data to develop different strategies that will drive your business.",
+        "Category": "Business",
+        "Sub-Category": "Leadership and Management",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Kartik Hosanagar",
+        "Rating": "4.7",
+        "Number of viewers": "95 ",
+        "Duration": "Approx. 7 hours to complete",
+        "Site": "Coursera"
+    }
+}

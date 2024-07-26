@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2439",
+        "Title": "Probabilistic Graphical Models 3: Learning",
+        "URL": "https://www.coursera.org/learn/probabilistic-graphical-models-3-learning?specialization=probabilistic-graphical-models",
+        "Short Intro": "Probabilistic graphical models (PGMs) are a rich framework for encoding probability distributions over complex domains: joint (multivariate) distributions over large numbers of random variables that interact with each other. These representations sit at the intersection of statistics and computer science, relying on concepts from probability theory, graph algorithms, machine learning, and more. They are the basis for the state-of-the-art methods in a wide variety of applications, such as medical diagnosis, image understanding, speech recognition, natural language processing, and many, many more. They are also a foundational tool in formulating many machine learning problems. ",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Algorithms,Expectation\u2013Maximization (EM) Algorithm,Graphical Model,Markov Random Field,",
+        "Instructors": "Daphne Koller",
+        "Rating": "4.6",
+        "Number of viewers": "297 ",
+        "Duration": "Approx. 66 hours to complete",
+        "Site": "Coursera"
+    }
+}

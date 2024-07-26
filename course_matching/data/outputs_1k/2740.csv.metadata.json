@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2740",
+        "Title": "Analyzing Big Data with SQL",
+        "URL": "https://www.coursera.org/learn/cloudera-big-data-analysis-sql-queries?specialization=cloudera-big-data-analysis-sql",
+        "Short Intro": "In this course, you'll get an in-depth look at the SQL SELECT statement and its main clauses. The course focuses on big data SQL engines Apache Hive and Apache Impala, but most of the information is applicable to SQL with traditional RDBMs as well; the instructor explicitly addresses differences for MySQL and PostgreSQL.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Apache Hive,Apache Impala,Data Analysis,Big Data,SQL,",
+        "Instructors": "Ian Cook",
+        "Rating": "4.9",
+        "Number of viewers": "511 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

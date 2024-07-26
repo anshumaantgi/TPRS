@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1448",
+        "Title": "Applied Data Science for Data Analysts",
+        "URL": "https://www.coursera.org/learn/applied-data-science-for-data-analysts?specialization=data-science-with-databricks-for-data-analysts",
+        "Short Intro": "In this course, you will develop your data science skills while solving real-world problems. You'll work through the data science process to and use unsupervised learning to explore data, engineer and select meaningful features, and solve complex supervised learning problems using tree-based models. You will also learn to apply hyperparameter tuning and cross-validation strategies to improve model performance.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Science,Machine Learning,Databricks,",
+        "Instructors": "Kevin Coyle",
+        "Rating": "4.4",
+        "Number of viewers": "38 ",
+        "Duration": "Approx. 16 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2164",
+        "Title": "Introduction to Relational Databases (RDBMS)",
+        "URL": "https://www.coursera.org/learn/introduction-to-relational-databases?specialization=data-engineering-foundations",
+        "Short Intro": "Are you ready to dive into the world of data engineering? You\u2019ll need a solid understanding of how data is stored, processed, and accessed. You\u2019ll need to identify the different types of database that are appropriate for the kind of data you are working with and what processing the data requires.",
+        "Category": "Information Technology",
+        "Sub-Category": "Data Management",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Database (DB) Design,Database Architecture,Postgresql,MySQL,Relational Database Management System (RDBMS),",
+        "Instructors": "Rav Ahuja",
+        "Rating": "4.6",
+        "Number of viewers": "342 ",
+        "Duration": "Approx. 18 hours to complete",
+        "Site": "Coursera"
+    }
+}

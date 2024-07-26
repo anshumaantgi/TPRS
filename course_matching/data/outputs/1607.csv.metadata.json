@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1607",
+        "Title": "3D Reconstruction - Multiple Viewpoints",
+        "URL": "https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints?specialization=firstprinciplesofcomputervision",
+        "Short Intro": "This course focuses on the recovery of the 3D structure of a scene from images taken from different viewpoints. We start by first building a comprehensive geometric model of a camera and then develop a method for finding (calibrating) the internal and external parameters of the camera model. Then, we show how two such calibrated cameras, whose relative positions and orientations are known, can be used to recover the 3D structure of the scene. This is what we refer to as simple binocular stereo. Next, we tackle the problem of uncalibrated stereo where the relative positions and orientations of the two cameras are unknown. Interestingly, just from the two images taken by the cameras, we can both determine the relative positions and orientations of the cameras and then use this information to estimate the 3D structure of the scene. ",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Epipolar Geometry,Camera Model,Camera Calibration,Structure from Motion,Simple Stereo,",
+        "Instructors": "Shree Nayar",
+        "Rating": "4.8",
+        "Number of viewers": "20 ",
+        "Duration": "Approx. 8 hours to complete",
+        "Site": "Coursera"
+    }
+}

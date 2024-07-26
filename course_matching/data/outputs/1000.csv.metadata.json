@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1000",
+        "Title": "Cloud Spanner - Defining Schemas and Understanding Query Plans",
+        "URL": "https://www.coursera.org/learn/googlecloud-cloud-spanner-defining-schemas-and-understanding-query-plans-b8liu?specialization=google-cloud-database-engineer",
+        "Short Intro": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you review schema related features of Cloud Spanner and apply those to a Banking Operations database. You also review the methods and rules by which Cloud Spanner creates query plans.",
+        "Category": "Information Technology",
+        "Sub-Category": "Data Management",
+        "Course Type": "Project",
+        "Language": "English",
+        "Skills": "Database (DBMS),Data Management,Google Cloud Platform,",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "1.5 hours",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1762",
+        "Title": "SQL for Data Science with R",
+        "URL": "https://www.coursera.org/learn/sql-data-science-r?specialization=applied-data-science-r",
+        "Short Intro": "Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. A working knowledge of databases and SQL is a must if you want to become a data scientist.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Science,Select (Sql),Relational Databases (RDBMS),R Programming,Data Analysis,",
+        "Instructors": "Rav Ahuja",
+        "Rating": "4.2",
+        "Number of viewers": "79 ",
+        "Duration": "Approx. 28 hours to complete",
+        "Site": "Coursera"
+    }
+}

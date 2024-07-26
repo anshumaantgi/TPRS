@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+"Smart Analytics, Machine Learning, and AI on GCP 日本語版",機械学習をデータ パイプラインに組み込むことで、企業はデータから効率的に分析情報を抽出できるようになります。このコースでは、必要なカスタマイズの程度に応じて、Google Cloud Platform で機械学習をデータ パイプラインに組み込む方法をいくつか説明します。たとえば、ほとんどあるいはまったくカスタマイズが必要ない場合向けの AutoML、機械学習機能の大幅なカスタマイズが必要な場合向けの AI Platform Notebooks と BigQuery Machine Learning を紹介します。また、このコースでは、Kubeflow を使用して機械学習ソリューションを本稼働させる方法についても説明します。受講者は Qwiklabs を使用して、Google Cloud Platform での機械学習モデルの構築を実際に体験することができます。,Information Technology,Cloud Computing,Course,

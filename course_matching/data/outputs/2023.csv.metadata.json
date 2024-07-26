@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2023",
+        "Title": "Text Mining and Analytics",
+        "URL": "https://www.coursera.org/learn/text-mining?specialization=data-mining",
+        "Short Intro": "This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort. ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Clustering Algorithms,Text Mining,Probabilistic Models,Sentiment Analysis,",
+        "Instructors": "ChengXiang Zhai",
+        "Rating": "4.5",
+        "Number of viewers": "702 ",
+        "Duration": "Approx. 33 hours to complete",
+        "Site": "Coursera"
+    }
+}

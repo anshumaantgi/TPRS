@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2162",
+        "Title": "Random Models, Nested and Split-plot Designs",
+        "URL": "https://www.coursera.org/learn/random-models-nested-split-plot-designs?specialization=design-experiments",
+        "Short Intro": "Many experiments involve factors whose levels are chosen at random. A well-know situation is the study of measurement systems to determine their capability.  This course presents the design and analysis of these types of experiments, including modern methods for estimating the components of variability in these systems. The course also covers experiments with nested factors, and experiments with hard-to-change factors that require split-plot designs. We also provide an overview of designs for experiments with response distributions from nonnormal response distributions and experiments with covariates.",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Douglas C. Montgomery",
+        "Rating": "4.6",
+        "Number of viewers": "29 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

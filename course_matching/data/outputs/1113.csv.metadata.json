@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1113",
+        "Title": "Moneyball and Beyond",
+        "URL": "https://www.coursera.org/learn/moneyball-and-beyond?specialization=sports-analytics",
+        "Short Intro": "The book Moneyball triggered a revolution in the analysis of performance statistics in professional sports, by showing that data analytics could be used to increase team winning percentage. This course shows how to program data using Python to test the claims that lie behind the Moneyball story, and to examine the evolution of Moneyball statistics since the book was published. The learner is led through the process of calculating baseball performance statistics from publicly available datasets. The course progresses from the analysis of on base percentage and slugging percentage to more advanced measures derived using the run expectancy matrix, such as wins above replacement (WAR). By the end of this course the learner will be able to use these statistics to conduct their own team and  player analyses.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Stefan Szymanski",
+        "Rating": "4.7",
+        "Number of viewers": "40 ",
+        "Duration": "Approx. 28 hours to complete",
+        "Site": "Coursera"
+    }
+}

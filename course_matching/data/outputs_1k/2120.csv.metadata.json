@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2120",
+        "Title": "Programming Fundamentals",
+        "URL": "https://www.coursera.org/learn/programming-fundamentals?specialization=c-programming",
+        "Short Intro": "Programming is an increasingly important skill, whether you aspire to a career in software development, or in other fields. This course is the first in the specialization Introduction to Programming in C, but its lessons extend to any language you might want to learn. This is because programming is fundamentally about figuring out how to solve a class of problems and writing the algorithm, a clear set of steps to solve any problem in its class. This course will introduce you to a powerful problem-solving process\u2014the Seven Steps\u2014which you can use to solve any programming problem. In this course, you will learn how to develop an algorithm, then progress to reading code and understanding how programming concepts relate to algorithms.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Algorithms,Programming Language Concepts,Problem Solving,C Programming,",
+        "Instructors": "Andrew D. Hilton",
+        "Rating": "4.7",
+        "Number of viewers": "6,564 ",
+        "Duration": "Approx. 18 hours to complete",
+        "Site": "Coursera"
+    }
+}

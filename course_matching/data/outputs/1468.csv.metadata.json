@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1468",
+        "Title": "Foundations of Red Hat Cloud-native Development",
+        "URL": "https://www.coursera.org/learn/foundations-of-red-hat-cloud-native-development?specialization=cloud-native-development-openshift-kubernetes",
+        "Short Intro": "Foundations of Red Hat Cloud-native Development (DO100a) is designed for IT professionals without previous cloud application deployment experience to learn basic Kubernetes skills. This course is a part of a three-course specialization. In this specialization, you will run, deploy, and test containerized applications with zero-downtime releases.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cloud Platforms,Cloud Applications,Kubernetes,Cloud Computing,",
+        "Instructors": "Marek Czernek",
+        "Rating": "4.6",
+        "Number of viewers": "50 ",
+        "Duration": "Approx. 5 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1787",
+        "Title": "Custom and Distributed Training with TensorFlow",
+        "URL": "https://www.coursera.org/learn/custom-distributed-training-with-tensorflow?specialization=tensorflow-advanced-techniques",
+        "Short Intro": "In this course, you will:",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Distribution Strategies,Custom Training Loops,Basic Tensor Functionality,GradientTape for Optimization,",
+        "Instructors": "Laurence Moroney",
+        "Rating": "4.8",
+        "Number of viewers": "348 ",
+        "Duration": "Approx. 24 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Deploy a Modern Web App connected to a Cloud Spanner Instance,This is a self-paced lab that takes place in the Google Cloud console. In this lab you build and deploy a Node.js application connected to a Cloud Spanner instance. The Node.js application is a stock price visualization tool named OmegaTrade. The OmegaTrade application stores stock prices in Cloud Spanner and renders visualizations using Google Charts.,Information Technology,Data Management,Project,"Node.Js,Database (DBMS),Google Cloud Platform,"

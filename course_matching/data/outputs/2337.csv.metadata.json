@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2337",
+        "Title": "Databases and SQL for Data Science with Python",
+        "URL": "https://www.coursera.org/learn/sql-data-science?specialization=introduction-data-science",
+        "Short Intro": "Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.  ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cloud Databases,Python Programming,Jupyter notebooks,Relational Database Management System (RDBMS),SQL,",
+        "Instructors": "Rav Ahuja",
+        "Rating": "4.6",
+        "Number of viewers": "17,406 ",
+        "Duration": "Approx. 39 hours to complete",
+        "Site": "Coursera"
+    }
+}

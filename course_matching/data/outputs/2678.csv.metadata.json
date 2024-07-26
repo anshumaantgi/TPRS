@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2678",
+        "Title": "Combining and Analyzing Complex Data",
+        "URL": "https://www.coursera.org/learn/data-collection-analytics-project?specialization=data-collection",
+        "Short Intro": "In this course you will learn how to use survey weights to estimate descriptive statistics, like means and totals, and more complicated quantities like model parameters for linear and logistic regressions.  Software capabilities will be covered with R\u00ae receiving particular emphasis.  The course will also cover the basics of record linkage and statistical matching\u2014both of which are becoming more important as ways of combining data from different sources.  Combining of datasets raises ethical issues which the course reviews.  Informed consent may have to be obtained from persons to allow their data to be linked. You will learn about differences in the legal requirements in different countries.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Richard Valliant, Ph.D.",
+        "Rating": "4.2",
+        "Number of viewers": "56 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

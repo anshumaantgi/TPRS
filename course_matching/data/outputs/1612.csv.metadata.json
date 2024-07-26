@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1612",
+        "Title": "Foundations for Big Data Analysis with SQL",
+        "URL": "https://www.coursera.org/learn/foundations-big-data-analysis-sql?specialization=cloudera-big-data-analysis-sql",
+        "Short Intro": "In this course, you'll get a big-picture view of using SQL for big data, starting with an overview of data, database systems, and the common querying language (SQL). Then you'll learn the characteristics of big data and SQL tools for working on big data platforms. You'll also install an exercise environment (virtual machine) to be used through the specialization courses, and you'll have an opportunity to do some initial exploration of databases and tables in that environment.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Database (DBMS),Data Warehousing,Data Analysis,Big Data,SQL,",
+        "Instructors": "Glynn Durham",
+        "Rating": "4.8",
+        "Number of viewers": "1,057 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

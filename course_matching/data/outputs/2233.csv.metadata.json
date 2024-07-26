@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2233",
+        "Title": "Google Cloud Big Data and Machine Learning Fundamentals",
+        "URL": "https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-machine-learning",
+        "Short Intro": "This course introduces the Google Cloud big data and machine learning products and services that support the data-to-AI lifecycle. It explores the processes, challenges, and benefits of building a big data pipeline and machine learning models with Vertex AI on Google Cloud.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Tensorflow,Bigquery,Google Cloud Platform,Cloud Computing,",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.6",
+        "Number of viewers": "15,528 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

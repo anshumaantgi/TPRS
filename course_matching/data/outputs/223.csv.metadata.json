@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "223",
+        "Title": "Spring Framework Specialization",
+        "URL": "https://www.coursera.org/specializations/spring-framework",
+        "Short Intro": "Master Spring Frameworks Configurations Techniques. Discover how Java interacts with databases in the Spring framework, and develop Java based Web Applications.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Spring Framework, Netflix OSS, Java Programming, Spring Configuration, Spring Data, Spring Configuration Techniques, Inversion Of Control, Dependency Injection, Junit, Restful services, Spring Boot, Spring Support for JPA, ",
+        "Instructors": "Derek Parsons ,",
+        "Rating": "3.9",
+        "Number of viewers": "275 ",
+        "Duration": "Approximately 3 months to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1081",
+        "Title": "Clinical Data Models and Data Quality Assessments",
+        "URL": "https://www.coursera.org/learn/clinical-data-models-and-data-quality-assessments?specialization=clinical-data-science",
+        "Short Intro": "This course aims to teach the concepts of clinical data models and common data models. Upon completion of this course, learners will be able to interpret and evaluate data model designs using Entity-Relationship Diagrams (ERDs), differentiate between data models and articulate how each are used to support clinical care and data science, and create SQL statements in Google BigQuery to query the MIMIC3 clinical data model and the OMOP common data model.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Laura K. Wiley, PhD",
+        "Rating": "4.2",
+        "Number of viewers": "55 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

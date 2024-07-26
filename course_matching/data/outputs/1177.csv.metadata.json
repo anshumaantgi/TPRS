@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1177",
+        "Title": "Factorial and Fractional Factorial Designs",
+        "URL": "https://www.coursera.org/learn/factorial-fractional-factorial-designs?specialization=design-experiments",
+        "Short Intro": "Many experiments in engineering, science and business involve several factors.  This course is an introduction to these types of multifactor experiments.  The appropriate experimental strategy for these situations is based on the factorial design, a type of experiment where factors are varied together.  This course focuses on designing these types of experiments and on using the ANOVA for analyzing the resulting data.  These types of experiments often include nuisance factors, and  the blocking principle can be used in factorial designs to handle these situations.  As the number of factors of interest grows full factorials become too expensive and fractional versions of the factorial design are useful.  This course will  cover the benefits of fractional factorials, along with methods for constructing and analyzing the data from these experiments.",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Douglas C. Montgomery",
+        "Rating": "4.8",
+        "Number of viewers": "62 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1532",
+        "Title": "Tools for Exploratory Data Analysis in Business",
+        "URL": "https://www.coursera.org/learn/tools-exploratory-data-analysis-business?specialization=analytics",
+        "Short Intro": "This course introduces several tools for processing business data to obtain actionable insight. The most important tool is the mind of the data analyst. Accordingly, in this course, you will explore what it means to have an analytic mindset. You will also practice identifying business problems that can be answered using data analytics. You will then be introduced to various software platforms to extract, transform, and load (ETL) data into tools for conducting exploratory data analytics (EDA). Specifically, you will practice using PowerBI, Alteryx, and RStudio to conduct the ETL and EDA processes. ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "R and RStudio,Data Cleansing and Exploration,Alteryx,Analytic Mindset,PowerBI,",
+        "Instructors": "Ronald Guymon",
+        "Rating": "4.8",
+        "Number of viewers": "31 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

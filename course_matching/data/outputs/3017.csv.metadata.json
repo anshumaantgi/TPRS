@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3017",
+        "Title": "Machine Learning DevOps Engineer",
+        "URL": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821",
+        "Short Intro": "Up your game by streamlining the integration of machine-learning models and deploying them to a production-level environment.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Machine Learning Ops Troubleshooting, Machine Learning Experiment Tracking, Git, Software Development Automation, Data Versioning, Model Drift, Automated Machine Learning,Model Deployment, Machine Learning Pipeline Creation, Hydra, Non-Deterministic Data Testing Linting, Data Validation, API Testing, API Requests, Unit Testing, Test Automation, Logging, DVC, MLFlow, GitHub Collaboration, Heroku, FastAPI, Python Testing, Python Exception Handling, Data Ingestion, Data Cleaning, Exploratory Data Analysis",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Estimated 4 months to complete",
+        "Site": "Udacity"
+    }
+}

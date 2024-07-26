@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1364",
+        "Title": "Human Factors in AI",
+        "URL": "https://www.coursera.org/learn/human-factors-in-artificial-intelligence?specialization=ai-product-management-duke",
+        "Short Intro": "This third and final course of the AI Product Management Specialization by Duke University's Pratt School of Engineering focuses on the critical human factors in developing AI-based products.  The course begins with an introduction to human-centered design and the unique elements of user experience design for AI products.  Participants will then learn about the role of data privacy in AI systems, the challenges of designing ethical AI, and approaches to identify sources of bias and mitigate fairness issues.  The course concludes with a comparison of human intelligence and artificial intelligence, and a discussion of the ways that AI can be used to both automate as well as assist human decision-making.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Machine Learning,Privacy,Design Thinking,Ethics,",
+        "Instructors": "Jon Reifschneider",
+        "Rating": "4.9",
+        "Number of viewers": "24 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

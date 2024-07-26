@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2694",
+        "Title": "Python Data Representations",
+        "URL": "https://www.coursera.org/learn/python-representation?specialization=introduction-scripting-in-python",
+        "Short Intro": "This course will continue the introduction to Python programming that started with Python Programming Essentials.  We'll learn about different data representations, including strings, lists, and tuples, that form the core of all Python programs.  We will also teach you how to access files, which will allow you to store and retrieve data within your programs. These concepts and skills will help you to manipulate data and write more complex Python programs.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Tuple,Python Programming,Debugging,List & Label,",
+        "Instructors": "Scott Rixner",
+        "Rating": "4.7",
+        "Number of viewers": "1,100 ",
+        "Duration": "Approx. 8 hours to complete",
+        "Site": "Coursera"
+    }
+}

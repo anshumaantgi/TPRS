@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "85",
+        "Title": "Practical Data Science on the AWS Cloud Specialization",
+        "URL": "https://www.coursera.org/specializations/practical-data-science",
+        "Short Intro": "Become a cloud data science expert. Develop and scale your data science projects into the cloud using Amazon SageMaker",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Natural Language Processing with BERT, ML Pipelines and ML Operations (MLOps), A/B Testing and Model Deployment, Data Labeling at Scale, Automated Machine Learning (AutoML), Statistical Data Bias Detection, Multi-class Classification with FastText and BlazingText, Data ingestion, Exploratory Data Analysis, ML Pipelines and MLOps, Model Training and Deployment with BERT, Model Debugging and Evaluation, ",
+        "Instructors": "Antje Barth ,Shelbee Eigenbrode ,Sireesha Muppala ,Chris Fregly ,",
+        "Rating": "4.6",
+        "Number of viewers": "438 ",
+        "Duration": "Approximately 3 months to complete",
+        "Site": "Coursera"
+    }
+}

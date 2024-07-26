@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1611",
+        "Title": "Framework for Data Collection and Analysis",
+        "URL": "https://www.coursera.org/learn/data-collection-framework?specialization=data-collection",
+        "Short Intro": "This course will provide you with an overview over existing data products and a good understanding of the data collection landscape. With the help of various examples you will learn how to identify which data sources likely matches your research question, how to turn your research question into measurable pieces, and how to think about an analysis plan. Furthermore this course will provide you with a general framework that allows you to not only understand each step required for a successful data collection and analysis, but also help you to identify errors associated with different data sources. You will learn some metrics to quantify each potential error, and thus you will have tools at hand to describe the quality of a data source. Finally we will introduce different large scale data collection efforts done by private industry and government agencies, and review the learned concepts through these examples. This course is suitable for beginners as well as those that know about one particular data source, but not others, and are looking for a general framework to evaluate data products.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Collection,Data Quality,Data Analysis,Data Generating Process,",
+        "Instructors": "Frauke Kreuter, Ph.D.",
+        "Rating": "4.2",
+        "Number of viewers": "706 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "876",
+        "Title": "Introduction to Embedded Systems Software and Development Environments",
+        "URL": "https://www.coursera.org/learn/introduction-embedded-systems",
+        "Short Intro": "Welcome to the Introduction to Embedded Systems Software and Development Environments. This course is focused on giving you real world coding experience and hands on project work with ARM based Microcontrollers. You will learn how to implement software configuration management and develop embedded software applications. Course assignments include creating a build system using the GNU Toolchain GCC, using Git version control, and developing software in Linux on a Virtual Machine. The course concludes with a project where you will create your own build system and firmware that can manipulate memory.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Electrical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Makefile,C Programming,Embedded C,",
+        "Instructors": "Alex Fosdick",
+        "Rating": "4.5",
+        "Number of viewers": "569 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3028",
+        "Title": "Become a Computer Vision Expert",
+        "URL": "https://www.udacity.com/course/computer-vision-nanodegree--nd891",
+        "Short Intro": "Master the computer vision skills behind advances in robotics and automation. Write programs to analyze images, implement feature extraction, and recognize objects using deep learning models.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Object Tracking, Object Detection, Image Caption Generation, Recurrent Neural Networks, Convolutional Neural Networks, Attention Mechanisms, SLAM, Object Localization, Hough Transforms. Feature Detection, Model Training, Feature Embeddings, Data Augmentation, PyTorch, 2D Image Transforms, K-Means Clustering",
+        "Instructors": "",
+        "Rating": "4.6",
+        "Number of viewers": "",
+        "Duration": "3 Months to complete",
+        "Site": "Udacity"
+    }
+}

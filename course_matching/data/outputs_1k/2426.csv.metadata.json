@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2426",
+        "Title": "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",
+        "URL": "https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application?specialization=business-statistics-analysis",
+        "Short Intro": "The ability to understand and apply Business Statistics is becoming increasingly important in the industry. A good understanding of Business Statistics is a requirement to make correct and relevant interpretations of data. Lack of knowledge could lead to erroneous decisions which could potentially have negative consequences for a firm. This course is designed to introduce you to Business Statistics. We begin with the notion of descriptive statistics, which is summarizing data using a few numbers. Different categories of descriptive measures are introduced and discussed along with the Excel functions to calculate them. The notion of probability or uncertainty is introduced along with the concept of a sample and population data using relevant business examples. This leads us to various statistical distributions along with their Excel functions which are then used to model or approximate business processes. You get to apply these descriptive measures of data and various statistical distributions using easy-to-follow Excel based examples which are demonstrated throughout the course.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Statistics,Statistical Analysis,Normal Distribution,Poisson Distribution,",
+        "Instructors": "Sharad Borle",
+        "Rating": "4.7",
+        "Number of viewers": "2,387 ",
+        "Duration": "Approx. 20 hours to complete",
+        "Site": "Coursera"
+    }
+}

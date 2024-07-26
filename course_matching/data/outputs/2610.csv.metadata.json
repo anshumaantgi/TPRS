@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2610",
+        "Title": "Concurrency in Go",
+        "URL": "https://www.coursera.org/learn/golang-concurrency?specialization=google-golang",
+        "Short Intro": "Learn how to implement concurrent programming in Go. Explore the roles of channels and goroutines in implementing concurrency. Topics include writing goroutines and implementing channels for communications between goroutines. Course activities will allow you to exercise Go\u2019s capabilities for concurrent programming by developing several example programs.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Ian Harris",
+        "Rating": "4.7",
+        "Number of viewers": "690 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

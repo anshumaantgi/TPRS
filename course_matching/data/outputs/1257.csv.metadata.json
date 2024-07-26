@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1257",
+        "Title": "Machine Learning Data Lifecycle in Production ",
+        "URL": "https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production?specialization=machine-learning-engineering-for-production-mlops",
+        "Short Intro": "In the second course of Machine Learning Engineering for Production Specialization, you will build data pipelines by gathering, cleaning, and validating datasets and assessing data quality; implement feature engineering, transformation, and selection with TensorFlow Extended and get the most predictive power out of your data; and establish the data lifecycle by leveraging data lineage and provenance metadata tools and follow data evolution with enterprise data schemas.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "ML Metadata,Convolutional Neural Network,TensorFlow Extended (TFX),Data Validation,Data transformation,",
+        "Instructors": "Robert Crowe",
+        "Rating": "4.3",
+        "Number of viewers": "635 ",
+        "Duration": "Approx. 21 hours to complete",
+        "Site": "Coursera"
+    }
+}

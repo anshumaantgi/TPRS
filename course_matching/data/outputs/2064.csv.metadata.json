@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2064",
+        "Title": "Deploying Machine Learning Models in Production",
+        "URL": "https://www.coursera.org/learn/deploying-machine-learning-models-in-production?specialization=machine-learning-engineering-for-production-mlops",
+        "Short Intro": "In the fourth course of Machine Learning Engineering for Production Specialization, you will learn how to deploy ML models and make them available to end-users. You will build scalable and reliable hardware infrastructure to deliver inference requests both in real-time and batch depending on the use case. You will also implement workflow automation and progressive delivery that complies with current MLOps practices to keep your production system running. Additionally,  you will continuously monitor your system to detect model decay, remediate performance drops, and avoid system failures so it can continuously operate at all times.  ",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "TensorFlow Serving,Model Monitoring,Model Registries,Machine Learning Operations (MLOps),Generate Data Protection Regulation (GDPR),",
+        "Instructors": "Laurence Moroney",
+        "Rating": "4.6",
+        "Number of viewers": "248 ",
+        "Duration": "Approx. 31 hours to complete",
+        "Site": "Coursera"
+    }
+}

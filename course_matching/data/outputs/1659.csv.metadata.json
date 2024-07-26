@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1659",
+        "Title": "Interfacing with the Raspberry Pi",
+        "URL": "https://www.coursera.org/learn/raspberry-pi-interface?specialization=iot",
+        "Short Intro": "The Raspberry Pi uses a variety of input/output devices based on protocols such as HDMI, USB, and Ethernet to communicate with the outside world. In this class you will learn how to use these protocols with other external devices (sensors, motors, GPS, orientation, LCD screens etc.) to get your IoT device to interact with the real world. Most physical devices use analog signals;  however computer hardware is digital so in this class you will learn how these signals are converted back-and-forth and how this must be considered as you program your device. The basic design of a sensor-actuator system will also be covered. You will also learn how to build more sophisticated hardware systems using Raspberry Pi expansion boards to create fun and exciting IoT devices. Please note that this course does not include discussion forums.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Electrical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Python Programming,Application Programming Interfaces (API),Internet Of Things (IOT),Raspberry Pi,",
+        "Instructors": "Ian Harris",
+        "Rating": "4.7",
+        "Number of viewers": "1,573 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

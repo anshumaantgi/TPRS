@@ -1,0 +1,4 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service,"This is a self-paced lab that takes place in the Google Cloud console.
+
+In this lab, you migrate MySQL data from an Amazon RDS instance for MySQL to Cloud SQL for MySQL using a one-time Database Migration Service job and an IP allowlist for connectivity. After you create and run the migration job, you confirm that the data have been successfully migrated to your Cloud SQL for MySQL instance.",Information Technology,Cloud Computing,Project,"Database (DBMS),Google Cloud Platform,MySQL,"

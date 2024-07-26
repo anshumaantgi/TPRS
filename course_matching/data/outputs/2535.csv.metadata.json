@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2535",
+        "Title": "Spring - Cloud Overview",
+        "URL": "https://www.coursera.org/learn/spring-cloud-overview?specialization=spring-framework",
+        "Short Intro": "This course explains some high level patterns used in Microservice architectures and the motivation to move towards these architectures and away from monolithic development of applications. . It then goes on to implement these patterns using Spring Cloud, Netflix OSS one of the most popular Cloud implementations of Microservices used today. Students will learn about Service Registration, Service Discovery, Client Side Load Balancing, Circuit Breakers, and Gateway or Edge Services in a Spring Boot Setting. It will leverage Spring  Cloud and Netflix OSS, Labs will specifically target the projects Eureka, Ribbon, Hystrix, Feign and Zuul.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Netflix OSS,Service Discovery,Microservices,Spring Cloud,Load Balancing,",
+        "Instructors": "Derek Parsons",
+        "Rating": "4.3",
+        "Number of viewers": "34 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

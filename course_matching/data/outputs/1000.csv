@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Cloud Spanner - Defining Schemas and Understanding Query Plans,This is a self-paced lab that takes place in the Google Cloud console. In this lab you review schema related features of Cloud Spanner and apply those to a Banking Operations database. You also review the methods and rules by which Cloud Spanner creates query plans.,Information Technology,Data Management,Project,"Database (DBMS),Data Management,Google Cloud Platform,"

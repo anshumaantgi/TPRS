@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2666",
+        "Title": "Mathematical Thinking in Computer Science",
+        "URL": "https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics",
+        "Short Intro": "Mathematical thinking is crucial in all areas of computer science: algorithms, bioinformatics, computer graphics, data science, machine learning, etc. In this course, we will learn the most important tools used in discrete mathematics: induction, recursion, logic, invariants, examples, optimality. We will use these tools to answer typical programming questions like: How can we be certain a solution exists? Am I sure my program computes the optimal answer? Do each of these objects meet the given requirements?",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Mathematical Induction,Proof Theory,Discrete Mathematics,Mathematical Logic,",
+        "Instructors": "Alexander S. Kulikov",
+        "Rating": "4.4",
+        "Number of viewers": "2,122 ",
+        "Duration": "Approx. 41 hours to complete",
+        "Site": "Coursera"
+    }
+}

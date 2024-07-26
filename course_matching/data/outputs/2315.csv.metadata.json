@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2315",
+        "Title": "Real-Time Cyber Threat Detection and Mitigation",
+        "URL": "https://www.coursera.org/learn/real-time-cyber-threat-detection?specialization=intro-cyber-security",
+        "Short Intro": "This course introduces real-time cyber security techniques and methods in the context of the TCP/IP protocol suites. Explanation of some basic TCP/IP security hacks is used to introduce the need for network security solutions such as stateless and stateful firewalls. Learners will be introduced to the techniques used to design and configure firewall solutions such as packet filters and proxies to protect enterprise assets.",
+        "Category": "Computer Science",
+        "Sub-Category": "Computer Security and Networks",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Dr. Edward G. Amoroso",
+        "Rating": "4.7",
+        "Number of viewers": "582 ",
+        "Duration": "Approx. 15 hours to complete",
+        "Site": "Coursera"
+    }
+}

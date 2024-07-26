@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1111",
+        "Title": "Developing Cloud Native Applications",
+        "URL": "https://www.coursera.org/learn/developing-cloud-native-applications?specialization=ibm-cloud-application-development-foundations",
+        "Short Intro": "Do you want to learn about developing applications that are cloud native right from conception to implementation? In this course, you\u2019ll begin with some crucial cloud concepts. Then, you will dive into specific tools and techniques for developing cloud native apps. Learning about the Cloud Native Computing Foundation, the significance of hybrid cloud infrastructures, and how they affect cloud app developers will be covered You will then look at two key areas of cloud thinking: modernization and continuous integration/continuous delivery.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Devops,NoSQL,Git (Software),Cloud Infrastructure,Json,",
+        "Instructors": "Upkar Lidder",
+        "Rating": "4.1",
+        "Number of viewers": "246 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

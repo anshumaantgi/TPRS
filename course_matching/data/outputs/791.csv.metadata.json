@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "791",
+        "Title": "Convolutional Neural Networks in TensorFlow",
+        "URL": "https://www.coursera.org/learn/convolutional-neural-networks-tensorflow",
+        "Short Intro": "If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This course is part of the upcoming Machine Learning in Tensorflow Specialization and will teach you best practices for using TensorFlow, a popular open-source framework for machine learning.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Inductive Transfer,Augmentation,Dropouts,Machine Learning,Tensorflow,",
+        "Instructors": "Laurence Moroney",
+        "Rating": "4.7",
+        "Number of viewers": "7,721 ",
+        "Duration": "Approx. 16 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2467",
+        "Title": "Using JavaScript, JQuery, and JSON in Django",
+        "URL": "https://www.coursera.org/learn/django-javascript-jquery-json?specialization=django",
+        "Short Intro": "In this final course, we'll look at the JavaScript language and how it supports the Object-Oriented pattern, with a focus on the unique aspects of JavaScript's approach to OO. We'll provide an introduction to the jQuery library, which is widely used for in-browser manipulation of the Document Object Model (DOM) and event handling. You'll also learn about JavaScript Object Notation (JSON), which is commonly used as a syntax to exchange data between code running on the server (i.e., in Django) and code running in the browser (JavaScript/jQuery). You will continue to develop your classified ads application, adding features that make use of JavaScript, JQuery, and JSON.  This course assumes you have completed the first three courses in the specialization.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Document Object Model (DOM),Jquery,Many-to-many data modeling,Json,JavaScript,",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.8",
+        "Number of viewers": "255 ",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

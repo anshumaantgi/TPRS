@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1696",
+        "Title": "CUDA at Scale for the Enterprise",
+        "URL": "https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise?specialization=gpu-programming",
+        "Short Intro": "This course will aid in students in learning in concepts that scale the use of GPUs and the CPUs that manage their use beyond the most common consumer-grade GPU installations. They will learn how to manage asynchronous workflows, sending and receiving events to encapsulate data transfers and control signals. Also, students will walk through application of GPUs to sorting of data and processing images, implementing their own software using these techniques and libraries.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cuda,Algorithms,C/C++,GPU,Nvidia,",
+        "Instructors": "Chancellor Thomas Pascale",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Approx. 28 hours to complete",
+        "Site": "Coursera"
+    }
+}

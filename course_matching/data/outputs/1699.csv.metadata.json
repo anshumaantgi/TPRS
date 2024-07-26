@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1699",
+        "Title": "Software Architecture",
+        "URL": "https://www.coursera.org/learn/software-architecture?specialization=software-design-architecture",
+        "Short Intro": "The way that software components \u2014 subroutines, classes, functions, etc. \u2014  are arranged,  and the interactions between them, is called architecture. In this course you will study the ways these architectures are represented, both in UML and other visual tools. We will introduce the most common architectures, their qualities, and tradeoffs. We will talk about how architectures are evaluated, what makes a good architecture, and an architecture can be improved. We'll also talk about how the architecture touches on the process of software development.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Kenny Wong",
+        "Rating": "4.5",
+        "Number of viewers": "808 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

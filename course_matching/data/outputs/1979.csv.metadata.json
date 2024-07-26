@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1979",
+        "Title": "App Deployment, Debugging, and Performance",
+        "URL": "https://www.coursera.org/learn/app-deployment-debugging-performance?specialization=developing-apps-gcp",
+        "Short Intro": "In this course, application developers learn how to design and develop cloud-native applications that seamlessly integrate components from the Google Cloud ecosystem. Through a combination of presentations, demos, and hands-on labs, participants learn how to create repeatable deployments by treating infrastructure as code, choose the appropriate application execution environment for an application, and monitor application performance.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Application Deployment,Debugging,Google Cloud,Cloud Computing,Execution Environments,",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.6",
+        "Number of viewers": "1,141 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3070",
+        "Title": "Flying Car and Autonomous Flight Engineer",
+        "URL": "https://www.udacity.com/course/flying-car-nanodegree--nd787",
+        "Short Intro": "Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " 3D Robot Motion control, PID Controller, Object State Estimation, 2D Robot Motion control, 1D Robot Motion Control, Dead Reckoning, Sensor Fusion, Drone Flight Control, Automated Path Planning, Feature Tracking, Quadrotor Dynamics, Model Performance Metrics, Basic Probability, Statistical Sampling, Graph Theory, Least Squares, Quadrotor Hardware Components, Accelerometers, Quadrotor Control Systems, Gyroscopes, Control Systems, Sensor Calibration, GPS, Sensors, Extended Kalman Filters, Kalman Filters, Unscented Kalman Filters, Particle Filters, Mathematical Optimization",
+        "Instructors": "",
+        "Rating": "4.6",
+        "Number of viewers": "",
+        "Duration": "Estimated 4 Months to complete",
+        "Site": "Udacity"
+    }
+}

@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+"Database Architecture, Scale, and NoSQL with Elasticsearch","In this final course, you will explore database architecture, PostgreSQL, and various scalable deployment configurations. You will see how PostgreSQL implements basic CRUD operations and indexes, and review how transactions and the ACID (Atomicity, Consistency, Isolation, Durability) requirements are implemented. ",Computer Science,Software Development,Course,

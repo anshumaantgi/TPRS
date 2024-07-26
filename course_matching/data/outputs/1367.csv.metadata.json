@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1367",
+        "Title": "Robotics: Estimation and Learning",
+        "URL": "https://www.coursera.org/learn/robotics-learning?specialization=robotics",
+        "Short Intro": "How can robots determine their state and properties of the surrounding environment from noisy sensor measurements in time?  In this module you will learn how to get robots to incorporate uncertainty into estimating and learning from a dynamic and changing world.  Specific topics that will be covered include probabilistic generative models, Bayesian filtering for localization and mapping.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Mechanical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Particle Filter,Estimation,Mapping,",
+        "Instructors": "Daniel Lee",
+        "Rating": "4.3",
+        "Number of viewers": "494 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

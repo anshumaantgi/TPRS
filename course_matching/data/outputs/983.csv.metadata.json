@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "983",
+        "Title": "Algorithms for Searching, Sorting, and Indexing",
+        "URL": "https://www.coursera.org/learn/algorithms-searching-sorting-indexing",
+        "Short Intro": "This course covers basics of algorithm design and analysis, as well as algorithms for sorting arrays, data structures such as priority queues, hash functions, and applications such as Bloom filters.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Analysis of Algorithms,Hashtables,Algorithm Design,Python Programming,Data Structure Design,",
+        "Instructors": "Sriram Sankaranarayanan",
+        "Rating": "4.7",
+        "Number of viewers": "230 ",
+        "Duration": "Approx. 34 hours to complete",
+        "Site": "Coursera"
+    }
+}

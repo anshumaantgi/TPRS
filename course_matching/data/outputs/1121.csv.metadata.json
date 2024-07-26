@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1121",
+        "Title": "FPGA Capstone:  Building FPGA Projects",
+        "URL": "https://www.coursera.org/learn/capstone-fpga-design?specialization=fpga-design",
+        "Short Intro": "This course will give you hands-on FPGA design experience that uses all the concepts and skills you have developed up to now.   You will need to purchase a DE10-Lite development kit.  You will setup and test the MAX10 DE10-Lite board using the FPGA design tool Quartus Prime and the System Builder.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Electrical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Softcore Processor Design,Programmable Logic Design,",
+        "Instructors": "Timothy Scherr",
+        "Rating": "4.8",
+        "Number of viewers": "16 ",
+        "Duration": "Approx. 29 hours to complete",
+        "Site": "Coursera"
+    }
+}

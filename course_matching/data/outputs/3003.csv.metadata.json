@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3003",
+        "Title": "Learn to Code",
+        "URL": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "Short Intro": "Udacity's Intro to Programming is your first step towards careers in Web and App Development, Machine Learning, Data Science, AI, and more! This program is perfect for beginners.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Control Flow in Python, Command Line Interface Basics, Text Processing in Python, Python Functions, Python Data Structures, Object-Oriented Python, HTML, CSS, Code Debugging, Python Operators, Python String Methods, Python Classes, Python Syntax, JavaScript Data Structures, Control Flow in JavaScript, Variable Scope, User Input Handling, Front-End Development Basics, API Requests",
+        "Instructors": "",
+        "Rating": "4.7",
+        "Number of viewers": "",
+        "Duration": "4 months to complete",
+        "Site": "Udacity"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2163",
+        "Title": "Analytical Solutions to Common Healthcare Problems",
+        "URL": "https://www.coursera.org/learn/analytical-solutions-common-healthcare-problems?specialization=healthcare-information-literacy-data-analytics",
+        "Short Intro": "In this course, we\u2019re going to go over analytical solutions to common healthcare problems. I will review these business problems and you\u2019ll build out various data structures to organize your data. We\u2019ll then explore ways to group data and categorize medical codes into analytical categories. You will then be able to extract, transform, and load data into data structures required for solving medical problems and be able to also harmonize data from multiple sources. Finally, you will create a data dictionary to communicate the source and value of data. Creating these artifacts of data processes is a key skill when working with healthcare data.",
+        "Category": "Health",
+        "Sub-Category": "Health Informatics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Brian Paciotti",
+        "Rating": "4.5",
+        "Number of viewers": "23 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

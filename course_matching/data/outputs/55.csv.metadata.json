@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "55",
+        "Title": "Generative Adversarial Networks (GANs) Specialization",
+        "URL": "https://www.coursera.org/specializations/generative-adversarial-networks-gans",
+        "Short Intro": "Break into the GANs space. Master cutting-edge GANs techniques through three hands-on courses!",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Generator, Image-to-Image Translation, glossary of computer graphics, Discriminator, Generative Adversarial Networks, Controllable Generation, WGANs, Conditional Generation, Components of GANs, DCGANs, Bias in GANs, StyleGANs, ",
+        "Instructors": "Sharon Zhou ,Eda Zhou ,Eric Zelikman ,",
+        "Rating": "4.7",
+        "Number of viewers": "1,902 ",
+        "Duration": "Approximately 3 months to complete",
+        "Site": "Coursera"
+    }
+}

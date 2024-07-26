@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1729",
+        "Title": "Architecting with Google Kubernetes Engine: Production",
+        "URL": "https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production?specialization=architecting-google-kubernetes-engine",
+        "Short Intro": "In this course, \"Architecting with Google Kubernetes Engine: Production,\" you'll learn about Kubernetes and Google Kubernetes Engine (GKE) security; logging and monitoring; and using Google Cloud managed storage and database services from within GKE.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.7",
+        "Number of viewers": "913 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1082",
+        "Title": "Combinatorics and Probability",
+        "URL": "https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics",
+        "Short Intro": "Counting is one of the basic mathematically related tasks we encounter on a day to day basis. The main question here is the following. If we need to count something, can we do anything better than just counting all objects one by one? Do we need to create a list of all phone numbers to ensure that there are enough phone numbers for everyone? Is there a way to tell that our algorithm will run in a reasonable time before implementing and actually running it? All these questions are addressed by a mathematical field called Combinatorics.",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Random Variable,Probability Interpretations,Probability,Combinatorics,",
+        "Instructors": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0438\u0439",
+        "Rating": "4.6",
+        "Number of viewers": "812 ",
+        "Duration": "Approx. 23 hours to complete",
+        "Site": "Coursera"
+    }
+}

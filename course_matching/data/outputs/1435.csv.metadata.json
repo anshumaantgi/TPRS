@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1435",
+        "Title": "Introduction to Machine Learning in Sports Analytics",
+        "URL": "https://www.coursera.org/learn/machine-learning-sports-analytics?specialization=sports-analytics",
+        "Short Intro": "In this course students will explore supervised machine learning techniques using the python scikit learn (sklearn) toolkit and real-world athletic data to understand both machine learning algorithms and how to predict athletic outcomes. Building on the previous courses in the specialization, students will apply methods such as support vector machines (SVM), decision trees, random forest, linear and logistic regression, and ensembles of learners to examine data from professional sports leagues such as the NHL and MLB as well as wearable devices such as the Apple Watch and inertial measurement units (IMUs). By the end of the course students will have a broad understanding of how classification and regression techniques can be used to enable sports analytics across athletic activities and events.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Christopher Brooks",
+        "Rating": "4.5",
+        "Number of viewers": "14 ",
+        "Duration": "Approx. 12 hours to complete",
+        "Site": "Coursera"
+    }
+}

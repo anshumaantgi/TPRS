@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2217",
+        "Title": "Salesforce Reporting",
+        "URL": "https://www.coursera.org/learn/salesforce-reporting?specialization=salesforce-fundamentals",
+        "Short Intro": "Salesforce Reporting focuses on how the micro-level changes in Salesforce affect the macro level of the user experience. In this course, you will focus on creating custom objects, field dependencies, and work flows to track accounts or services. It is also important that you maintain data clean for your organization and you will work with creating reports, managing data, and creating full reports and dashboards. Lastly, you will focus on your customer base with Salesforce Service Cloud to maintain engagement through your services. The course includes in-depth readings and practical application activities within Salesforce's Trailhead education platform, peer discussion opportunities, demonstration videos, and peer review assignments.",
+        "Category": "Business",
+        "Sub-Category": "Business Essentials",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Management,Cloud Integration,Data Security,Automation,Cloud Computing,",
+        "Instructors": "Stephane Muller",
+        "Rating": "4.6",
+        "Number of viewers": "27 ",
+        "Duration": "Approx. 25 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Building Batch Data Pipelines on GCP 日本語版,通常、データ パイプラインは、「抽出、読み込み」、「抽出、読み込み、変換」、「抽出、変換、読み込み」のいずれかの枠組みに分類できます。このコースでは、バッチデータではどの枠組みを、どのような場合に使用するのかについて説明します。本コースではさらに、BigQuery、Dataproc 上での Spark の実行、Cloud Data Fusion のパイプラインのグラフ、Dataflow でのサーバーレスのデータ処理など、データ変換用の複数の Google Cloud テクノロジーについて説明します。受講者には、Qwiklabs を使用して Google Cloud でデータ パイプラインのコンポーネントを構築する実践演習を行っていただきます。,Information Technology,Cloud Computing,Course,

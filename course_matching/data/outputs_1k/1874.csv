@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Data Structures and Performance,"How do Java programs deal with vast quantities of data? Many of the data structures and algorithms that work with introductory toy examples break when applications process real, large data sets.  Efficiency is critical, but how do we achieve it, and how do we even measure it?",Computer Science,Algorithms,Course,"Trees (Data Structures),Data Structure,Linked List,Binary Tree,"

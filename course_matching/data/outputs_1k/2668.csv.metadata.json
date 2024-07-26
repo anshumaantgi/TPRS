@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2668",
+        "Title": "AWS Fundamentals: Building Serverless Applications",
+        "URL": "https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications?specialization=aws-fundamentals",
+        "Short Intro": "This course will introduce you to Amazon Web Services (AWS) serverless architecture. Through demonstrations and hands-on exercises you'll learn skills in building and deploying serverless solutions. ",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "AWS Lambda,Amazon Lex,Amazon API Gateway,serverless architecture,Amazon Dynamodb,",
+        "Instructors": "Wes Gruver",
+        "Rating": "4.7",
+        "Number of viewers": "2,905 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

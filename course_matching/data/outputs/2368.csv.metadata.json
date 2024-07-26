@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2368",
+        "Title": "Shortest Paths Revisited, NP-Complete Problems and What To Do About Them",
+        "URL": "https://www.coursera.org/learn/algorithms-npcomplete?specialization=algorithms",
+        "Short Intro": "The primary topics in this part of the specialization are: shortest paths (Bellman-Ford, Floyd-Warshall, Johnson), NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems (analysis of heuristics, local search).",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Structure,Algorithms,Np-Completeness,Dynamic Programming,",
+        "Instructors": "Tim Roughgarden",
+        "Rating": "4.8",
+        "Number of viewers": "788 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

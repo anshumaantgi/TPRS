@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1151",
+        "Title": "Linux System Administration with IBM Power Systems",
+        "URL": "https://www.coursera.org/learn/linux-system-administration-ibm-power-systems?specialization=linux-private-cloud-administration-power-systems",
+        "Short Intro": "This course introduces administrative tasks that a system administrator can perform with Linux hosted on IBM Power servers. This includes virtualization concepts such as logical partitioning, installation of Linux, command-line operations, and more interesting administration and device management tasks.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Linux,Red Hat Enterprise Linux,virtualization,IBM Power Systems,Cloud Computing,",
+        "Instructors": "Upendra Rajan",
+        "Rating": "4.6",
+        "Number of viewers": "96 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3089",
+        "Title": "Introduction to Data Analysis",
+        "URL": "https://www.udacity.com/course/intro-to-data-analysis--cd0000",
+        "Short Intro": "Start your data science journey right with this hands-on introduction to the discipline of data analysis. In this course you'll learn the 5 key stages of the data analysis process and apply them to real data sets using Python libraries NumPy, pandas, and Matplotlib.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Pandas, NumPy, Jupyter Notebooks, Anaconda, Data Analysis Process, Quantitative Data Analysis",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "1 month to complete",
+        "Site": "Udacity"
+    }
+}

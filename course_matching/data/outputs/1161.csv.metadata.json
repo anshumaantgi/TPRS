@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1161",
+        "Title": "Introduction to Clinical Data Science",
+        "URL": "https://www.coursera.org/learn/introduction-clinical-data-science?specialization=clinical-data-science",
+        "Short Intro": "This course will prepare you to complete all parts of the Clinical Data Science Specialization. In this course you will learn how clinical data are generated, the format of these data, and the ethical and legal restrictions on these data. You will also learn enough SQL and R programming skills to be able to complete the entire Specialization - even if you are a beginner programmer. While you are taking this course you will have access to an actual clinical data set and a free, online computational environment for data science hosted by our Industry Partner Google Cloud. ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Laura K. Wiley, PhD",
+        "Rating": "4.6",
+        "Number of viewers": "369 ",
+        "Duration": "Approx. 8 hours to complete",
+        "Site": "Coursera"
+    }
+}

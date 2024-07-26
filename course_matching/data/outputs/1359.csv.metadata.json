@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1359",
+        "Title": "Statistics for Data Science with Python",
+        "URL": "https://www.coursera.org/learn/statistics-for-data-science-python?specialization=data-science-fundamentals-python-sql",
+        "Short Intro": "This Statistics for Data Science course is designed to introduce you to the basic principles of statistical methods and procedures used for data analysis. After completing this course you will have practical knowledge of crucial topics in statistics including  - data gathering, summarizing data using descriptive statistics, displaying and visualizing data, examining relationships between variables, probability distributions, expected values, hypothesis testing, introduction to ANOVA (analysis of variance), regression and correlation analysis. You will take a hands-on approach to statistical analysis using Python and Jupyter Notebooks \u2013 the tools of choice for Data Scientists and Data Analysts. ",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Probability And Statistics,Regression Analysis,Data Visualization (DataViz),Statistical Hypothesis Testing,Basic Descriptive Statistics,",
+        "Instructors": "Murtaza Haider",
+        "Rating": "4.5",
+        "Number of viewers": "304 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

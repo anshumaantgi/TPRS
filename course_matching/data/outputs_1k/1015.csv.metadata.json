@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1015",
+        "Title": "Introduction to CAD, CAM, and Practical CNC Machining",
+        "URL": "https://www.coursera.org/learn/introduction-cad-cam-practical-cnc-machining?specialization=autodesk-cad-cam-manufacturing",
+        "Short Intro": "This course introduces you to the foundational knowledge in computer-aided design, manufacture, and the practical use of CNC machines. In this course we begin with the basics in Autodesk\u00ae Fusion 360\u2122 CAD by learning how to properly sketch and model 3D parts.  Before we program any toolpaths, we\u2019ll explore CNC machining basics to ensure we have the ground level foundational knowledge needed to effectively define toolpaths. Finally, we explore the basics of setting up a CAM program and defining toolpaths to cut simple geometry. This is the same basic process that gets repeated for the design and manufacture of any part and is a critical step in learning and understanding the process.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Mechanical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Manufacturing Process Management,Computer-Aided Design (CAD),Computer-Aided Manufacturing,Autodesk Fusion 360,Mechanical Engineering,",
+        "Instructors": "Autodesk",
+        "Rating": "4.8",
+        "Number of viewers": "788 ",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2629",
+        "Title": "Django Features and Libraries",
+        "URL": "https://www.coursera.org/learn/django-features-libraries?specialization=django",
+        "Short Intro": "In this course, you will learn how to build Django-based web applications suitable for use by end users.  You will learn about cookies, sessions, and authentication processes in Django.  You will build navigation into your applications and explore ways to easily improve the look and feel of Django applications.  You will begin to develop a simple application to support a classified ads website that will walk you through many of the issues and techniques that you encounter in website development.  You will also learn how to move an application from development to production.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "User authentication,Sessions and cookies,One-to-Many models,Data Validation,Django (Web Framework),",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.8",
+        "Number of viewers": "331 ",
+        "Duration": "Approx. 16 hours to complete",
+        "Site": "Coursera"
+    }
+}

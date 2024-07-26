@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1053",
+        "Title": "Machine Learning Algorithms with R in Business Analytics",
+        "URL": "https://www.coursera.org/learn/machine-learning-algorithms-r-business-analytics?specialization=analytics",
+        "Short Intro": "One of the most exciting aspects of business analytics is finding patterns in the data using machine learning algorithms. In this course you will gain a conceptual foundation for why machine learning algorithms are so important and how the resulting models from those algorithms are used to find actionable insight related to business problems. Some algorithms are used for predicting numeric outcomes, while others are used for predicting the classification of an outcome. Other algorithms are used for creating meaningful groups from a rich set of data. Upon completion of this course, you will be able to describe when each algorithm should be used. You will also be given the opportunity to use R and RStudio to run these algorithms and communicate the results using R notebooks.",
+        "Category": "Business",
+        "Sub-Category": "Leadership and Management",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "clustering,regression,R Programming,classification,prediction,",
+        "Instructors": "Ronald Guymon",
+        "Rating": "4.6",
+        "Number of viewers": "17 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

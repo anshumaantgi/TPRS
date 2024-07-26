@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1425",
+        "Title": "Statistical Inference and Hypothesis Testing in Data Science Applications",
+        "URL": "https://www.coursera.org/learn/statistical-inference-and-hypothesis-testing-in-data-science-applications?specialization=statistical-inference-for-data-science-applications",
+        "Short Intro": "This course will focus on theory and implementation of hypothesis testing, especially as it relates to applications in data science. Students will learn to use hypothesis tests to make informed decisions from data. Special attention will be given to the general logic of hypothesis testing, error and error rates, power, simulation, and the correct computation and interpretation of p-values. Attention will also be given to the misuse of testing concepts, especially p-values, and the ethical implications of such misuse.",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Jem Corcoran",
+        "Rating": "4.8",
+        "Number of viewers": "26 ",
+        "Duration": "Approx. 36 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1553",
+        "Title": "Getting Started With Application Development",
+        "URL": "https://www.coursera.org/learn/getting-started-app-development?specialization=developing-apps-gcp",
+        "Short Intro": "\"In this course, application developers learn how to design and develop cloud-native applications that seamlessly integrate managed services from Google Cloud. Through a combination of presentations, demos, and hands-on labs, participants learn how to apply best practices for application development and use the appropriate Google Cloud storage services for object storage, relational data, caching, and analytics. ",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cloud Storage,Data Store,Google Cloud Platform,Cloud Computing,",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.5",
+        "Number of viewers": "2,113 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

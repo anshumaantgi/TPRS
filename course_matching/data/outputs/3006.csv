@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+How to Become a Data Engineer,"Understand the latest AWS features used by data engineers to design and build systems for collecting, storing, and analyzing data at scale.",,,," Apache Airflow, AWS Glue, Apache Spark, Redshift, Amazon S3, Data Pipeline DAGs, Data Pipeline Creation, AWS Data Lakes, Data Transformation, Data Extraction, OLAP Cubes, Cloud Computing Fluency, ETL, Data Wrangling, Data Pipeline Maintenance, Data Warehouse Architecture, Data Lakes"

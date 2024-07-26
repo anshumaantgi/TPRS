@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2024",
+        "Title": "Designing, Running, and Analyzing Experiments",
+        "URL": "https://www.coursera.org/learn/designexperiments?specialization=interaction-design",
+        "Short Intro": "You may never be sure whether you have an effective user experience until you have tested it with users. In this course, you\u2019ll learn how to design user-centered experiments, how to run such experiments, and how to analyze data from these experiments in order to evaluate and validate user experiences. You will work through real-world examples of experiments from the fields of UX, IxD, and HCI, understanding issues in experiment design and analysis. You will analyze multiple data sets using recipes given to you in the R statistical programming language -- no prior programming experience is assumed or required, but you will be required to read, understand, and modify code snippets provided to you. By the end of the course, you will be able to knowledgeably design, run, and analyze your own experiments that give statistical weight to your designs.",
+        "Category": "Computer Science",
+        "Sub-Category": "Design and Product",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Experiment,Experimental Design,Statistical Model,R Programming,Statistics,",
+        "Instructors": "Scott  Klemmer",
+        "Rating": "3.6",
+        "Number of viewers": "573 ",
+        "Duration": "Approx. 15 hours to complete",
+        "Site": "Coursera"
+    }
+}

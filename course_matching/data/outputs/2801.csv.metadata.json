@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2801",
+        "Title": "Introduction to Automated Analysis",
+        "URL": "https://www.coursera.org/learn/automated-analysis?specialization=software-testing-automation",
+        "Short Intro": "This course introduces state-of-the-art techniques for automated analysis.  Automated analysis encompasses both approaches to automatically generate a very large number of tests to check whether programs meet requirements, and also means by which it is possible to *prove* that software meets requirements and that it is free from certain commonly-occurring defects, such as divide-by-zero, overflow/underflow, deadlock, race-condition freedom, buffer/array overflow, uncaught exceptions, and several other commonly-occurring bugs that can lead to program failures or security problems.  The learner will become familiar with the fundamental theory and applications of such approaches, and apply a variety of automated analysis techniques on example programs.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Software Testing,Formal Verification,Test Automation,",
+        "Instructors": "Mike",
+        "Rating": "4.2",
+        "Number of viewers": "58 ",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

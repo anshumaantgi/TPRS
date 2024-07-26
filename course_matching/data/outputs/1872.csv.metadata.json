@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1872",
+        "Title": "Machine Learning With Big Data",
+        "URL": "https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data",
+        "Short Intro": "Want to make sense of the volumes of data you have collected?  Need to incorporate data-driven decisions into your process?  This course provides an overview of machine learning techniques to explore, analyze, and leverage data.  You will be introduced to tools and algorithms you can use to create machine learning models that learn from data, and to scale those models up to big data problems.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Machine Learning Concepts,Knime,Machine Learning,Apache Spark,",
+        "Instructors": "Mai Nguyen",
+        "Rating": "4.6",
+        "Number of viewers": "2,427 ",
+        "Duration": "Approx. 21 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2377",
+        "Title": "Cluster Analysis in Data Mining",
+        "URL": "https://www.coursera.org/learn/cluster-analysis?specialization=data-mining",
+        "Short Intro": "Discover the basic concepts of cluster analysis, and then study a set of typical clustering methodologies, algorithms, and applications. This includes partitioning methods such as k-means, hierarchical methods such as BIRCH, and density-based methods such as DBSCAN/OPTICS. Moreover, learn methods for clustering validation and evaluation of clustering quality. Finally, see examples of cluster analysis in applications.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cluster Analysis,Data Clustering Algorithms,K-Means Clustering,Hierarchical Clustering,",
+        "Instructors": "Jiawei Han",
+        "Rating": "4.5",
+        "Number of viewers": "400 ",
+        "Duration": "Approx. 16 hours to complete",
+        "Site": "Coursera"
+    }
+}

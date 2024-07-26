@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "840",
+        "Title": "A Crash Course in Causality:  Inferring Causal Effects from Observational Data",
+        "URL": "https://www.coursera.org/learn/crash-course-in-causality",
+        "Short Intro": "We have all heard the phrase \u201ccorrelation does not equal causation.\u201d  What, then, does equal causation?  This course aims to answer that question and more!  ",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Instrumental Variable,Propensity Score Matching,Causal Inference,Causality,",
+        "Instructors": "Jason A. Roy, Ph.D.",
+        "Rating": "4.7",
+        "Number of viewers": "498 ",
+        "Duration": "Approx. 18 hours to complete",
+        "Site": "Coursera"
+    }
+}

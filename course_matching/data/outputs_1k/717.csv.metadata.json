@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "717",
+        "Title": "Data Analysis with R Programming",
+        "URL": "https://www.coursera.org/learn/data-analysis-r",
+        "Short Intro": "This course is the seventh course in the Google Data Analytics Certificate. These courses will equip you with the skills needed to apply to introductory-level data analyst jobs. In this course, you\u2019ll learn about the programming language known as R. You\u2019ll find out how to use RStudio, the environment that allows you to work with R. This course will also cover the software applications and tools that are unique to R, such as R packages. You\u2019ll discover how R lets you clean, organize, analyze, visualize, and report data in new and more powerful ways.  Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "R Programming,Data Analysis,Data Visualization (DataViz),R Markdown,Rstudio,",
+        "Instructors": "Google Career Certificates",
+        "Rating": "4.8",
+        "Number of viewers": "7,066 ",
+        "Duration": "Approx. 37 hours to complete",
+        "Site": "Coursera"
+    }
+}

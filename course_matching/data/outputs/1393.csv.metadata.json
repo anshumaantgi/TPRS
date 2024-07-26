@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1393",
+        "Title": "Prediction Models with Sports Data",
+        "URL": "https://www.coursera.org/learn/prediction-models-sports-data?specialization=sports-analytics",
+        "Short Intro": "In this course the learner will be shown how to generate forecasts of game results in professional sports using Python. The main emphasis of the course is on teaching the method of logistic regression as a way of modeling game results, using data on team expenditures. The learner is taken through the process of modeling past results, and then using the model to forecast the outcome games not yet played. The course will show the learner how to evaluate the reliability of a model using data on betting odds. The analysis is applied first to the English Premier League, then the NBA and NHL. The course also provides an overview of the relationship between data analytics and gambling, its history and the social issues that arise in relation to sports betting, including the personal risks.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Youngho Park",
+        "Rating": "4.7",
+        "Number of viewers": "24 ",
+        "Duration": "Approx. 33 hours to complete",
+        "Site": "Coursera"
+    }
+}

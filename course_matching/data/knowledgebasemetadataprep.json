@@ -1,0 +1,31 @@
+{
+  "csv": {
+    "embeddingattributes": [
+      "Title",
+      "Short Intro",
+      "Category",
+      "Sub-Category",
+      "Course Type",
+      "Skills"
+    ],
+    "metadataattributes": [
+      "Id",
+      "Title",
+      "URL",
+      "Short Intro",
+      "Category",
+      "Sub-Category",
+      "Course Type",
+      "Language",
+      "Skills",
+      "Instructors",
+      "Rating",
+      "Number of viewers",
+      "Duration",
+      "Site"
+    ],
+    "index_id": [
+      "Id"
+    ]
+  }
+}

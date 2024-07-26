@@ -1,0 +1,40 @@
+{
+    "skills": [
+        {
+            "skill_justification": "The job descriptions mention the need to build strong relationships with clients' senior leaders. This requires strong interpersonal skills to communicate effectively and build trust.",
+            "skill": "Interpersonal skills",
+            "skill_level_justification": "The aspiration requires an advanced level of interpersonal skills as it involves dealing with senior leaders and building strong relationships with them.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The job descriptions mention the need to lead business development, proposal submission, and sales efforts. This requires strong business development skills to identify new business opportunities and grow the SAP practice.",
+            "skill": "Business development",
+            "skill_level_justification": "The aspiration requires an advanced level of business development skills as it involves leading business development efforts and growing the SAP practice.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The job descriptions mention the need to serve as an expert and thought leader in the Accenture SAP practice. This requires strong expertise in SAP to provide thought leadership and continue to build your own and your team\u2019s expertise in SAP.",
+            "skill": "SAP expertise",
+            "skill_level_justification": "The aspiration requires an expert level of SAP expertise as it involves serving as an expert and thought leader in the Accenture SAP practice.",
+            "skill_level": "Expert"
+        },
+        {
+            "skill_justification": "The job descriptions mention the need to manage teams of 15+, including offshore teams. This requires strong team management skills to effectively manage and lead teams.",
+            "skill": "Team management",
+            "skill_level_justification": "The aspiration requires an advanced level of team management skills as it involves managing teams of 15+, including offshore teams.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The job descriptions mention the need to have experience in project management. This requires strong project management skills to effectively plan, estimate and lead SAP implementations.",
+            "skill": "Project management",
+            "skill_level_justification": "The aspiration requires an advanced level of project management skills as it involves leading end-to-end SAP fashion or retail implementations, including project planning, estimation and solution architecture.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "The job descriptions mention the need to have a Bachelor's degree or equivalent. This requires a basic level of education to meet the minimum requirements for the role.",
+            "skill": "Education",
+            "skill_level_justification": "The aspiration requires a beginner level of education as it involves having a Bachelor's degree or equivalent.",
+            "skill_level": "Beginner"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2281",
+        "Title": "Distributed Computing with Spark SQL",
+        "URL": "https://www.coursera.org/learn/spark-sql?specialization=learn-sql-basics-data-science",
+        "Short Intro": "This course is all about big data. It\u2019s for students with SQL experience that want to take the next step on their data journey by learning distributed computing using Apache Spark. Students will gain a thorough understanding of this open-source standard for working with large datasets. Students will gain an understanding of the fundamentals of data analysis using SQL on Spark, setting the foundation for how to combine data with advanced analytics at scale and in production environments. The four modules build on one another and by the end of the course you will understand: the Spark architecture, queries within Spark, common ways to optimize Spark SQL, and how to build reliable data pipelines. ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Science,Apache Spark,Delta Lake,SQL,",
+        "Instructors": "Brooke Wenig",
+        "Rating": "4.5",
+        "Number of viewers": "586 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

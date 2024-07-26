@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2785",
+        "Title": "Advanced Deployment Scenarios with TensorFlow",
+        "URL": "https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow?specialization=tensorflow-data-and-deployment",
+        "Short Intro": "Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios and use data more effectively to train your model.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "TensorFlow Serving,Machine Learning,federated learning,TensorFlow Hub,TensorBoard,",
+        "Instructors": "Laurence Moroney",
+        "Rating": "4.8",
+        "Number of viewers": "443 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

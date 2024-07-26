@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "877",
+        "Title": "Introduction to Financial Engineering and Risk Management",
+        "URL": "https://www.coursera.org/learn/financial-engineering-intro",
+        "Short Intro": "Introduction to Financial Engineering and Risk Management course belongs to the Financial Engineering and Risk Management Specialization and it provides a fundamental introduction to fixed income securities, derivatives and the respective pricing models. The first module gives an overview of the prerequisite concepts and rules in probability and optimization. This will prepare learners with the mathematical fundamentals for the course. The second module includes concepts around fixed income securities and their derivative instruments. We will introduce present value (PV) computation on fixed income securities in an arbitrage free setting, followed by a brief discussion on term structure of interest rates. In the third module, learners will engage with swaps and options, and price them using the 1-period Binomial Model. The final module focuses on option pricing in a multi-period setting, using the Binomial and the Black-Scholes Models. Subsequently, the multi-period Binomial Model will be illustrated using American Options, Futures, Forwards and assets with dividends.",
+        "Category": "Business",
+        "Sub-Category": "Finance",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Derivatives,Swaps and options,Fixed Income,Binomial Distribution,black scholes model,",
+        "Instructors": "Garud Iyengar",
+        "Rating": "4.5",
+        "Number of viewers": "114 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

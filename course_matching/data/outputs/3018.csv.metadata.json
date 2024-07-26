@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3018",
+        "Title": "Learn Kotlin",
+        "URL": "https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940",
+        "Short Intro": "Master Android app development with Kotlin, a modern programming language that enables developers to be more concise and productive. Build professional apps for the world's most popular mobile platform using Android Studio and Kotlin.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Android Custom Views, FireBase, RecyclerView, Android Notifications, Android Activity Lifecycle, Google Maps in Android Development, Android Development Basics, Mobile App Testing, Offline Caching, Model-View-ViewModel Architecture, Android Studio, Multi-Screen App Design, Android UI Development, Espresso Testing Framework, Location-Aware App Development",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "4 months to complete",
+        "Site": "Udacity"
+    }
+}

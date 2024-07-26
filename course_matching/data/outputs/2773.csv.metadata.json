@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2773",
+        "Title": "Building Database Applications in PHP",
+        "URL": "https://www.coursera.org/learn/database-applications-php?specialization=web-applications",
+        "Short Intro": "In this course, we'll look at the object oriented patterns available in PHP. You'll learn how to connect to a MySQL using the Portable Data Objects (PDO) library and issue SQL commands in the the PHP language. We'll also look at how PHP uses cookies and manages session data. You'll learn how PHP avoids double posting data, how flash messages are implemented, and how to use a session to log in users in web applications. We'll then build the first 'complete' application that has multiple screens to Create, Read, Update and Delete (CRUD) our data. This brings all the previous concepts together and will form the basis for all later web applications.  It is assumed that learners have already taken the Building Web Applications course in this specialization.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Hypertext Preprocessor (PHP),Create, Read, Update And Delete,MySQL,",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.9",
+        "Number of viewers": "1,031 ",
+        "Duration": "Approx. 24 hours to complete",
+        "Site": "Coursera"
+    }
+}

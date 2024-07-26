@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1487",
+        "Title": "Managing Big Data with MySQL",
+        "URL": "https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql",
+        "Short Intro": "This course is an introduction to how to use relational databases in business analysis.  You will learn how relational databases work, and how to use entity-relationship diagrams to display the structure of the data held within them.  This knowledge will help you understand how data needs to be collected in business contexts, and help you identify features you want to consider if you are involved in implementing new data collection efforts.  You will also learn how to execute the most useful query and table aggregation statements for business analysts, and practice using them with real databases. No more waiting 48 hours for someone else in the company to provide data to you \u2013 you will be able to get the data by yourself!",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Analysis,MySQL,Teradata,SQL,",
+        "Instructors": "Daniel Egger",
+        "Rating": "4.7",
+        "Number of viewers": "3,999 ",
+        "Duration": "Approx. 32 hours to complete",
+        "Site": "Coursera"
+    }
+}

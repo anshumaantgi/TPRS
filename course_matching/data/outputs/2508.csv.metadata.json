@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2508",
+        "Title": "Data Structures and Performance",
+        "URL": "https://www.coursera.org/learn/data-structures-optimizing-performance?specialization=java-object-oriented",
+        "Short Intro": "How do Java programs deal with vast quantities of data? Many of the data structures and algorithms that work with introductory toy examples break when applications process real, large data sets.  Efficiency is critical, but how do we achieve it, and how do we even measure it?",
+        "Category": "Computer Science",
+        "Sub-Category": "Algorithms",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Trees (Data Structures),Data Structure,Linked List,Binary Tree,",
+        "Instructors": "Christine Alvarado",
+        "Rating": "4.8",
+        "Number of viewers": "2,189 ",
+        "Duration": "Approx. 41 hours to complete",
+        "Site": "Coursera"
+    }
+}

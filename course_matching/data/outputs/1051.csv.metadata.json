@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1051",
+        "Title": "Evaluating User Interfaces",
+        "URL": "https://www.coursera.org/learn/ui-testing?specialization=user-interface-design",
+        "Short Intro": "In this course you will learn and practice several techniques for user interface evaluation.  First we start with techniques that can be applied alone or in a design team, including action analysis, walkthroughs, and heuristic evaluation.  Then we move on to user testing, including learning from a series of usability tests carried out in a real usability lab, and techniques to carry out your own tests even without a lab.  Finally, we wrap up the discussion of evaluation--and of UI Design in the specialization as a whole--by looking at the question of how to set and measure usability goals, and in turn, when a design is usable enough to release it.",
+        "Category": "Computer Science",
+        "Sub-Category": "Design and Product",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "User Research,Heuristic Evaluation,User Interface Design (UI Design),User Interface,",
+        "Instructors": "Loren Terveen",
+        "Rating": "4.7",
+        "Number of viewers": "255 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

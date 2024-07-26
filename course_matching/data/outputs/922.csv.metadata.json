@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "922",
+        "Title": "Introduction to Probability and Data with R",
+        "URL": "https://www.coursera.org/learn/probability-intro",
+        "Short Intro": "This course introduces you to sampling and exploring data, as well as basic probability theory and Bayes' rule. You will examine various types of sampling methods, and discuss how such methods can impact the scope of inference. A variety of exploratory data analysis techniques will be covered, including numeric summary statistics and basic data visualization. You will be guided through installing and using R and RStudio (free statistical software), and will use this software for lab exercises and a final project. The concepts and techniques in this course will serve as building blocks for the inference and modeling courses in the Specialization.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Statistics,R Programming,Rstudio,Exploratory Data Analysis,",
+        "Instructors": "Mine \u00c7etinkaya-Rundel",
+        "Rating": "4.7",
+        "Number of viewers": "5,419 ",
+        "Duration": "Approx. 14 hours to complete",
+        "Site": "Coursera"
+    }
+}

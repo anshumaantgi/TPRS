@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "904",
+        "Title": "Using Python to Interact with the Operating System",
+        "URL": "https://www.coursera.org/learn/python-operating-system",
+        "Short Intro": "By the end of this course, you\u2019ll be able to manipulate files and processes on your computer\u2019s operating system. You\u2019ll also have learned about regular expressions -- a very powerful tool for processing text files -- and you\u2019ll get practice using the Linux command line on a virtual machine. And, this might feel like a stretch right now, but you\u2019ll also write a program that processes a bunch of errors in an actual log file and then generates a summary file. That\u2019s a super useful skill for IT Specialists to know.",
+        "Category": "Information Technology",
+        "Sub-Category": "Support and Operations",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Setting up your Development Environment,Regular Expression (REGEX),Testing in Python,Automating System Administration Tasks with Python,Bash Scripting,",
+        "Instructors": "Google Career Certificates",
+        "Rating": "4.7",
+        "Number of viewers": "5,444 ",
+        "Duration": "Approx. 25 hours to complete",
+        "Site": "Coursera"
+    }
+}

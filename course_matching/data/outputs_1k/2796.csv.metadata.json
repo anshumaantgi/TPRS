@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2796",
+        "Title": "Linear Regression and Modeling ",
+        "URL": "https://www.coursera.org/learn/linear-regression-model?specialization=statistics",
+        "Short Intro": "This course introduces simple and multiple linear regression models. These models allow you to assess the relationship between variables in a data set and a continuous response variable. Is there a relationship between the physical attractiveness of a professor and their student evaluation scores? Can we predict the test score for a child based on certain characteristics of his or her mother? In this course, you will learn the fundamental theory behind linear regression and, through data examples, learn to fit, examine, and utilize regression models to examine relationships between multiple variables, using the free statistical software R and RStudio.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Statistics,Linear Regression,R Programming,Regression Analysis,",
+        "Instructors": "Mine \u00c7etinkaya-Rundel",
+        "Rating": "4.8",
+        "Number of viewers": "1,643 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

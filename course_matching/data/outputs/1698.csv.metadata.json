@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1698",
+        "Title": "Robotics: Mobility",
+        "URL": "https://www.coursera.org/learn/robotics-mobility?specialization=robotics",
+        "Short Intro": "How can robots use their motors and sensors to move around in an unstructured environment?  You will understand how to design robot bodies and behaviors that recruit limbs and more general appendages to apply physical forces that confer reliable mobility in a complex and dynamic world.  We develop an approach to composing simple dynamical abstractions that partially automate the generation of complicated sensorimotor programs.  Specific topics that will be covered include: mobility in animals and robots, kinematics and dynamics of legged machines, and design of dynamical behavior via energy landscapes.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Mechanical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Serial Line Internet Protocol (SLIP),Robotics,Robot,Matlab,",
+        "Instructors": "Daniel E. Koditschek",
+        "Rating": "3.9",
+        "Number of viewers": "587 ",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

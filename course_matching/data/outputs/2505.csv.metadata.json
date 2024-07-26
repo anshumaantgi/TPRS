@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2505",
+        "Title": "Computer Simulations",
+        "URL": "https://www.coursera.org/learn/computer-simulations?specialization=computational-social-science-ucdavis",
+        "Short Intro": "Big data and artificial intelligence get most of the press about computational social science, but maybe the most complex aspect of it refers to using computational tools to explore and develop social science theory. This course shows how computer simulations are being used to explore the realm of what is theoretically possible. Computer simulations allow us to study why societies are the way they are, and to dream about the world we would like to live in. This can be as intuitive as playing a video game. Much like the well-known video game SimCity is used to build and manage an artificial city, we use agent-based models to grow and study artificial societies. Without hurting anyone in the real world, computer simulations allow us explore how to make the world a better place. We play hands-on with several practical computer simulation models and explore how we can combine hypothetical models with real world data. Finally, you will program a simple artificial society yourself, bottom-up. This will allow you to feel the complexity that arises when designing social systems, while at the same time experiencing the ease with which our new computational tools allow us to pursue such daunting endeavors.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Martin Hilbert",
+        "Rating": "4.5",
+        "Number of viewers": "74 ",
+        "Duration": "Approx. 12 hours to complete",
+        "Site": "Coursera"
+    }
+}

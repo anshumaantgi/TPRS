@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "701",
+        "Title": "Get Started with Python",
+        "URL": "https://www.coursera.org/learn/get-started-with-python",
+        "Short Intro": "This is the second of seven courses in the Google Advanced Data Analytics Certificate. The Python programming language is a powerful tool for data analysis. In this course, you\u2019ll learn the basic concepts of Python programming and how data professionals use Python on the job. You'll explore concepts such as object-oriented programming, variables, data types, functions, conditional statements, loops, and data structures. ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Using Comments to Enhance Code Readability,Python Programming,Jupyter Notebook,Data Visualization (DataViz),Coding,",
+        "Instructors": "Google Career Certificates",
+        "Rating": "4.8",
+        "Number of viewers": "43 ",
+        "Duration": "Approx. 25 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2018",
+        "Title": "Using Machine Learning in Trading and Finance",
+        "URL": "https://www.coursera.org/learn/machine-learning-trading-finance?specialization=machine-learning-trading",
+        "Short Intro": "This course provides the foundation for developing advanced trading strategies using machine learning techniques. In this course, you\u2019ll review the key components that are common to every trading strategy, no matter how complex. You\u2019ll be introduced to multiple trading strategies including quantitative trading, pairs trading, and momentum trading. By the end of the course, you will be able to design basic quantitative trading strategies, build machine learning models using Keras and TensorFlow, build a pair trading strategy prediction model and back test it, and build a momentum-based trading model and back test it.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Algorithmic Trading,Python Programming,Machine Learning,",
+        "Instructors": "Jack Farmer",
+        "Rating": "4.0",
+        "Number of viewers": "325 ",
+        "Duration": "Approx. 18 hours to complete",
+        "Site": "Coursera"
+    }
+}

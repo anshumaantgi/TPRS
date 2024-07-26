@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1838",
+        "Title": "Principles of fMRI 1",
+        "URL": "https://www.coursera.org/learn/functional-mri?specialization=computational-neuroscience",
+        "Short Intro": "Functional Magnetic Resonance Imaging (fMRI) is the most widely used technique for investigating the living, functioning human brain as people perform tasks and experience mental states. It is a convergence point for multidisciplinary work from many disciplines. Psychologists, statisticians, physicists, computer scientists, neuroscientists, medical researchers, behavioral scientists, engineers, public health researchers, biologists, and others are coming together to advance our understanding of the human mind and brain.  This course covers the design, acquisition, and analysis of Functional Magnetic Resonance Imaging (fMRI) data, including psychological inference, MR Physics, K Space, experimental design, pre-processing of fMRI data, as well as Generalized Linear Models (GLM\u2019s).  A book related to the class can be found here: https://leanpub.com/principlesoffmri.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Statistics,Statistical Analysis,Statistical Model,Preprocessor,",
+        "Instructors": "Martin Lindquist, PhD, MSc",
+        "Rating": "4.6",
+        "Number of viewers": "782 ",
+        "Duration": "Approx. 8 hours to complete",
+        "Site": "Coursera"
+    }
+}

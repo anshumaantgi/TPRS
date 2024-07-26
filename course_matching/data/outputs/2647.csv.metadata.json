@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2647",
+        "Title": "Python and Pandas for Data Engineering",
+        "URL": "https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke",
+        "Short Intro": "In this first course of the Python, Bash and SQL Essentials for Data Engineering Specialization, you will learn how to set up a version-controlled Python working environment which can utilize third party libraries. You will learn to use Python and the powerful Pandas library for data analysis and manipulation. Additionally, you will also be introduced to Vim and Visual Studio Code, two popular tools for writing software. This course is valuable for beginning and intermediate students in order to begin transforming and manipulating data as a data engineer.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Vim,Python Programming,Pandas,Visual Studio Code,Data Structure,",
+        "Instructors": "Kennedy Behrman",
+        "Rating": "4.5",
+        "Number of viewers": "116 ",
+        "Duration": "Approx. 38 hours to complete",
+        "Site": "Coursera"
+    }
+}

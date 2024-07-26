@@ -1,0 +1,2 @@
+Title,Short Intro,Category,Sub-Category,Course Type,Skills
+Data Wrangling,"Learn the most efficient methods for gathering raw “dirty” data and cleaning it up for analysis. After finishing this course, you’ll be able to gather messy data from a variety of sources and “tidy” it up in no time using the powerful Python library, pandas.",,,," Data Preparation, Data Ingestion, Data Cleaning, Data Wrangling, Pandas"

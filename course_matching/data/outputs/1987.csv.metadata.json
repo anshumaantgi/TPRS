@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1987",
+        "Title": "Data Visualization with R",
+        "URL": "https://www.coursera.org/learn/data-visualization-r?specialization=applied-data-science-r",
+        "Short Intro": "In this course, you will learn the Grammar of Graphics, a system for describing and building graphs, and how the ggplot2 data visualization package for R applies this concept to basic bar charts, histograms, pie charts, scatter plots, line plots, and box plots. You will also learn how to further customize your charts and plots using themes and other techniques. You will then learn how to use another data visualization package for R called Leaflet to create map plots, a unique way to plot data based on geolocation data. Finally, you will be introduced to creating interactive dashboards using the R Shiny package. You will learn how to create and customize Shiny apps, alter the appearance of the apps by adding HTML and image components, and deploy your interactive data apps on the web.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Science,Data Analysis,Data Visualization (DataViz),R Programming,",
+        "Instructors": "Yiwen Li",
+        "Rating": "4.6",
+        "Number of viewers": "146 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

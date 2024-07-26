@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2653",
+        "Title": "Bayesian Statistics: Techniques and Models",
+        "URL": "https://www.coursera.org/learn/mcmc-bayesian-statistics?specialization=bayesian-statistics",
+        "Short Intro": "This is the second of a two-course sequence introducing the fundamentals of Bayesian statistics. It builds on the course Bayesian Statistics: From Concept to Data Analysis, which introduces Bayesian methods through use of simple conjugate models. Real-world data often require more sophisticated models to reach realistic conclusions. This course aims to expand our \u201cBayesian toolbox\u201d with more general models, and computational techniques to fit them. In particular, we will introduce Markov chain Monte Carlo (MCMC) methods, which allow sampling from posterior distributions that have no analytical solution. We will use the open-source, freely available software R (some experience is assumed, e.g., completing the previous course in R) and JAGS (no experience required). We will learn how to construct, fit, assess, and compare Bayesian statistical models to answer scientific questions involving continuous, binary, and count data. This course combines lecture videos, computer demonstrations, readings, exercises, and discussion boards to create an active learning experience. The lectures provide some of the basic mathematical development, explanations of the statistical modeling process, and a few basic modeling techniques commonly used by statisticians. Computer demonstrations provide concrete, practical walkthroughs. Completion of this course will give you access to a wide range of Bayesian analytical tools, customizable to your data.",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Gibbs Sampling,Bayesian Statistics,Bayesian Inference,R Programming,",
+        "Instructors": "Matthew Heiner",
+        "Rating": "4.8",
+        "Number of viewers": "456 ",
+        "Duration": "Approx. 29 hours to complete",
+        "Site": "Coursera"
+    }
+}

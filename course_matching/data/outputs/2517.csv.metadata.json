@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2517",
+        "Title": "Spring Data Repositories",
+        "URL": "https://www.coursera.org/learn/spring-repositories?specialization=spring-framework",
+        "Short Intro": "This course is aimed at students wishing to learn how Java interacts with databases in a modern framework. The course uses the very popular Spring Boot Framework, with Micro services, as a setting for our database interactions using Java Persistence Framework (JPA) and Spring Data Repositories to abstract away JPA. Students will then learn how to expose Repositories as Rest Web services in their own right using Hypermedia as the Engine of Application State or HATEAOS concepts. Spring Aspect Oriented Programming (AOP) will be covered to illustrate how cross cutting concerns like logging can be applied in a centralized non evasive manner to domain classes. finally the course covers the use of Spring Transaction Managers and Springs declarative configuration Transaction model.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Spring Support for JPA,JPA,Restful services,Spring Data Repositories,Spring Data,",
+        "Instructors": "Derek Parsons",
+        "Rating": "3.8",
+        "Number of viewers": "26 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}

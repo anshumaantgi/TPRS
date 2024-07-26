@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3051",
+        "Title": "Data Streaming ",
+        "URL": "https://www.udacity.com/course/data-streaming-nanodegree--nd029",
+        "Short Intro": " Learn the skills to take you into the next era of data engineering. Build real-time applications to process big data at scale.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Kafka Rest Proxy, Kafka Connect, Kafka Basics, Confluent Kafka Python Client, Faus, Apache Spark, Apache Avro, Stream Processing, Stream Processing Use Cases, Streaming Data Stores, Data Streaming Schemas, JSON, Data Serialization, Data Deserialization, Base64, KSQL, SQL Window Functions, SQL Queries, SQL Aggregations",
+        "Instructors": "",
+        "Rating": "4.3",
+        "Number of viewers": "",
+        "Duration": "Estimated 2 Months to complete",
+        "Site": "Udacity"
+    }
+}

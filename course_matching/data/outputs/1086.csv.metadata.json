@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1086",
+        "Title": "Robotics: Aerial Robotics",
+        "URL": "https://www.coursera.org/learn/robotics-flight?specialization=robotics",
+        "Short Intro": "How can we create agile micro aerial vehicles that are able to operate autonomously in cluttered indoor and outdoor environments?  You will gain an introduction to the mechanics of flight and the design of quadrotor flying robots and will be able to develop dynamic models, derive controllers, and synthesize planners for operating in three dimensional environments.  You will be exposed to the challenges of using noisy sensors for localization and maneuvering in complex, three-dimensional environments.  Finally, you will gain insights through seeing real world examples of the possible applications and challenges for the rapidly-growing drone industry.",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Mechanical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Motion Planning,Robotics,Quadcoper,Matlab,",
+        "Instructors": "Vijay Kumar",
+        "Rating": "4.5",
+        "Number of viewers": "2,946 ",
+        "Duration": "Approx. 17 hours to complete",
+        "Site": "Coursera"
+    }
+}

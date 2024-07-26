@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3057",
+        "Title": "Intro to Machine Learning with PyTorch",
+        "URL": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229",
+        "Short Intro": "Learn foundational machine learning techniques -- from data manipulation to unsupervised and supervised algorithms.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Independent Component Analysis, Gaussian Mixture Models, Principal Component Analysis, Dimensionality Reduction, Naive Bayes Classifiers, Support Vector Machines, Perceptron, Model Evaluation, Hyperparameter Tuning, Decision trees, Training Neural Networks, Deep Learning Fluency, Backpropagation, scikit-learn, Pytorch, Convolutional Kernels, Spam Detection",
+        "Instructors": "",
+        "Rating": "4.7",
+        "Number of viewers": "",
+        "Duration": "3 months to complete",
+        "Site": "Udacity"
+    }
+}

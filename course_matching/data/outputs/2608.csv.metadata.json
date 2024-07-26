@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2608",
+        "Title": "Functional Program Design in Scala",
+        "URL": "https://www.coursera.org/learn/scala-functional-program-design?specialization=scala",
+        "Short Intro": "In this course you will learn how to apply the functional programming style in the design of larger Scala applications. You'll get to know important new functional programming concepts, from lazy evaluation to structuring your libraries using monads. We'll work on larger and more involved examples, from state space exploration to random testing to discrete circuit simulators. You\u2019ll also learn some best practices on how to write good Scala code in the real world. Finally, you will learn how to leverage the ability of the compiler to infer values from types.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Laziness,Type Class,Functional Programming,Referential Transparency,Reactive Programming,",
+        "Instructors": "Martin Odersky",
+        "Rating": "4.5",
+        "Number of viewers": "3,121 ",
+        "Duration": "Approx. 35 hours to complete",
+        "Site": "Coursera"
+    }
+}

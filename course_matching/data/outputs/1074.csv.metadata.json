@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1074",
+        "Title": "Advanced Application Management with Red Hat OpenShift",
+        "URL": "https://www.coursera.org/learn/advanced-application-management-with-red-hat-openshift?specialization=cloud-native-development-openshift-kubernetes",
+        "Short Intro": "This course explores Red Hat OpenShift Container Platform (RHOCP) as a container orchestration platform. In this course, students will deploy applications to OpenShift. Students will learn how to let RHOCP containerize their source code, how to scale the deployments, and how to troubleshoot issues with the deployments.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cloud Platforms,Cloud Applications,Kubernetes,Cloud Computing,",
+        "Instructors": "Marek Czernek",
+        "Rating": "4.5",
+        "Number of viewers": "13 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

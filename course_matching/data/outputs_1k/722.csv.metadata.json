@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "722",
+        "Title": "SQL: A Practical Introduction for Querying Databases",
+        "URL": "https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases",
+        "Short Intro": "Much of the world's data lives in databases. SQL (or Structured Query Language) is a powerful programming language that is used for communicating with and manipulating data in databases. A working knowledge of databases and SQL is a must for anyone who wants to start a career in Data Engineering, Data Warehousing, Data Analytics, Data Science or Business Intelligence. The purpose of this course is to help you learn and apply foundational and intermediate knowledge of the SQL language, and become familiar with many relational database (RDBMS) concepts along the way.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Create, Read, Update And Delete,Data Analysis,MySQL,Relational Database Management System (RDBMS),SQL,",
+        "Instructors": "Rav Ahuja",
+        "Rating": "4.7",
+        "Number of viewers": "38 ",
+        "Duration": "Approx. 21 hours to complete",
+        "Site": "Coursera"
+    }
+}

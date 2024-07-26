@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1747",
+        "Title": "Introduction to the Internet of Things and Embedded Systems",
+        "URL": "https://www.coursera.org/learn/iot?specialization=iot",
+        "Short Intro": "The explosive growth of the \u201cInternet of Things\u201d is changing our world and the rapid drop in price for typical IoT components is allowing people to innovate new designs and products at home. In this first class in the specialization you will learn the importance of IoT in society, the current components of typical IoT devices and trends for the future. IoT design considerations, constraints and interfacing between the physical world and your device will also be covered. You will also learn how to make design trade-offs between hardware and software. We'll also cover key components of networking to ensure that students understand how to connect their device to the Internet. Please note that this course does not include discussion forums.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Internet Of Things (IOT),Microcontroller,Embedded System Design,Wireshark,",
+        "Instructors": "Ian Harris",
+        "Rating": "4.7",
+        "Number of viewers": "12,783 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

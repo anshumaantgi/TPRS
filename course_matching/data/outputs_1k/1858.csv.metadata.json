@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1858",
+        "Title": "Sequence Models",
+        "URL": "https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning",
+        "Short Intro": "In the fifth course of the Deep Learning Specialization, you will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. ",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Natural Language Processing,Long Short Term Memory (LSTM),Gated Recurrent Unit (GRU),Recurrent Neural Network,Attention Models,",
+        "Instructors": "Andrew Ng",
+        "Rating": "4.8",
+        "Number of viewers": "29,226 ",
+        "Duration": "Approx. 37 hours to complete",
+        "Site": "Coursera"
+    }
+}

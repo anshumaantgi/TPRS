@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2767",
+        "Title": "The Raspberry Pi Platform and Python Programming for the Raspberry Pi",
+        "URL": "https://www.coursera.org/learn/raspberry-pi-platform?specialization=iot",
+        "Short Intro": "The Raspberry Pi is a small, affordable single-board computer that you will use to design and develop fun and practical IoT devices while learning programming and computer hardware. In addition, you will learn how to set up up the Raspberry Pi environment, get a Linux operating system running, and write and execute some basic Python code on the Raspberry Pi. You will also learn how to use Python-based IDE (integrated development environments) for the Raspberry Pi and how to trace and debug Python code on the device. Please note that this course does not include discussion forums.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Computer Programming,Python Programming,Internet Of Things (IOT),Raspberry Pi,",
+        "Instructors": "Ian Harris",
+        "Rating": "4.7",
+        "Number of viewers": "2,689 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

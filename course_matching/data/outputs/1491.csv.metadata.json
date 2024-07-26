@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1491",
+        "Title": "Getting Started with Data Visualization in R",
+        "URL": "https://www.coursera.org/learn/jhu-getting-started-data-viz-r?specialization=jhu-data-visualization-dashboarding-with-r",
+        "Short Intro": "Data visualization is a critical skill for anyone that routinely using quantitative data in his or her work - which is to say that data visualization is a tool that almost every worker needs today. One of the critical tools for data visualization today is the R statistical programming language. Especially in conjunction with the tidyverse software packages, R has become an extremely powerful and flexible platform for making figures, tables, and reproducible reports. However, R can be intimidating for first time users, and there are so many resources online that it can be difficult to sort through without guidance.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Collin Paschall",
+        "Rating": "4.8",
+        "Number of viewers": "218 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "762",
+        "Title": "The Path to Insights: Data Models and Pipelines",
+        "URL": "https://www.coursera.org/learn/the-path-to-insights-data-models-and-pipelines",
+        "Short Intro": "This is the second of three courses in the Google Business Intelligence Certificate. In this course, you'll explore data modeling and how databases are designed. Then you\u2019ll learn about extract, transform, load (ETL) processes that extract data from source systems, transform it into formats that enable analysis, and drive business processes and goals.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Data Management,Google Dataflow/Google BigQuery,Extraction, Transformation And Loading (ETL),Database Optimization,Data transformation,",
+        "Instructors": "Google Career Certificates",
+        "Rating": "4.8",
+        "Number of viewers": "52 ",
+        "Duration": "Approx. 23 hours to complete",
+        "Site": "Coursera"
+    }
+}

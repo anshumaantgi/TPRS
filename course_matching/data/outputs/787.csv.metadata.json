@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "787",
+        "Title": "Introduction to Python Programming",
+        "URL": "https://www.coursera.org/learn/python-programming-intro",
+        "Short Intro": "This course provides an introduction to programming and the Python language.  Students are introduced to core programming concepts like data structures, conditionals, loops, variables, and functions.  This course includes an overview of the various tools available for writing and running Python, and gets students coding quickly.  It also provides hands-on coding exercises using commonly used data structures, writing custom functions, and reading and writing to files. This course may be more robust than some other introductory python courses, as it delves deeper into certain essential programming topics.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Python Tools,Python Syntax And Semantics,Programming Principles,Python Programming,Computer Programming,",
+        "Instructors": "Brandon Krakowsky",
+        "Rating": "4.4",
+        "Number of viewers": "846 ",
+        "Duration": "Approx. 27 hours to complete",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2808",
+        "Title": "Introduction to Image Processing",
+        "URL": "https://www.coursera.org/learn/introduction-image-processing?specialization=image-processing",
+        "Short Intro": "In this introduction to image processing, you'll take your first steps in accessing and adjusting digital images for analysis and processing. You will load, save, and adjust image size and orientation while also understanding how digital images are recognized. You will then perform basic segmentation and quantitative analysis. Lastly, you will enhance the contrast of images to make objects of interest easier to identify. ",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Electrical Engineering",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Image Processing,Image Segmentation,Matlab,",
+        "Instructors": "Amanda  Wang",
+        "Rating": "4.8",
+        "Number of viewers": "68 ",
+        "Duration": "Approx. 10 hours to complete",
+        "Site": "Coursera"
+    }
+}

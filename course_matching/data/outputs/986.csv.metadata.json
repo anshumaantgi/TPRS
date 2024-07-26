@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "986",
+        "Title": "Containerized Applications on AWS",
+        "URL": "https://www.coursera.org/learn/containerized-applications-on-aws",
+        "Short Intro": "This course introduces you to container technologies and how they can be used to modernize your applications, as well as exploring how different AWS services can be used to manage and orchestrate those containers.",
+        "Category": "Information Technology",
+        "Sub-Category": "Cloud Computing",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "App Runner,Kubernetes,Containers,Amazon Elastic Container Registry,Microservices,",
+        "Instructors": "Morgan Willis",
+        "Rating": "4.7",
+        "Number of viewers": "92 ",
+        "Duration": "Approx. 12 hours to complete",
+        "Site": "Coursera"
+    }
+}

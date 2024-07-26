@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1301",
+        "Title": " Advanced Topics in Derivative Pricing",
+        "URL": "https://www.coursera.org/learn/financial-engineering-advancedtopics?specialization=financialengineering",
+        "Short Intro": "This course discusses topics in derivative pricing. The first module is designed to understand the Black-Scholes model and utilize it to derive Greeks, which measures the sensitivity of option value to variables such as underlying asset price, volatility, and time to maturity. Greeks are important in risk management and hedging and often used to measure portfolio value change. Then we will analyze risk management of derivatives portfolios from two perspectives\u2014Greeks approach and scenario analysis. The second module reveals how option\u2019s theoretical price links to real market price\u2014by implied volatility. We will discuss pricing by volatility surface as well as explanations of volatility smile and skew, which are common in real markets. The third module involves topics in credit derivatives and structured products and focuses on Credit Debit Obligation (CDO), which played an important part in the past financial crisis starting from 2007. We will cover CDO\u2019s definition, simple and synthetic versions of CDO, and CDO portfolios. The final module is the application of option pricing methodologies and takes natural gas and electricity related options as an example to introduce valuation methods such as dynamic programming in real options.",
+        "Category": "Business",
+        "Sub-Category": "Finance",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Implied Volatility,Synthetic Collateralised Debt Obligation (CDO),Replicating Strategy,Volatility Smile,Computer Programming,",
+        "Instructors": "Garud Iyengar",
+        "Rating": "4.5",
+        "Number of viewers": "11 ",
+        "Duration": "Approx. 16 hours to complete",
+        "Site": "Coursera"
+    }
+}

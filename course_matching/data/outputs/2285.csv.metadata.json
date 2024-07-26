@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2285",
+        "Title": "Survival Analysis in R for Public Health",
+        "URL": "https://www.coursera.org/learn/survival-analysis-r-public-health?specialization=statistical-analysis-r-public-health",
+        "Short Intro": "Welcome to Survival Analysis in R for Public Health!",
+        "Category": "Health",
+        "Sub-Category": "Public Health",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Understand common ways to choose what predictors go into a regression model,Run and interpret Kaplan-Meier curves in R,Construct a Cox regression model in R,",
+        "Instructors": "Alex Bottle",
+        "Rating": "4.5",
+        "Number of viewers": "289 ",
+        "Duration": "Approx. 11 hours to complete",
+        "Site": "Coursera"
+    }
+}

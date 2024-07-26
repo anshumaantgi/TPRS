@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "725",
+        "Title": " IT Security: Defense against the digital dark arts ",
+        "URL": "https://www.coursera.org/learn/it-security",
+        "Short Intro": "This course covers a wide variety of IT security concepts, tools, and best practices. It introduces threats and attacks and the many ways they can show up. We\u2019ll give you some background of encryption algorithms and how they\u2019re used to safeguard data. Then, we\u2019ll dive into the three As of information security: authentication, authorization, and accounting. We\u2019ll also cover network security solutions, ranging from firewalls to Wifi encryption options. The course is rounded out by putting all these elements together into a multi-layered, in-depth security architecture, followed by recommendations on how to integrate a culture of security into your organization or team.",
+        "Category": "Information Technology",
+        "Sub-Category": "Security",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Cybersecurity,Wireless Security,Cryptography,Network Security,",
+        "Instructors": "Google Career Certificates",
+        "Rating": "4.8",
+        "Number of viewers": "19,135 ",
+        "Duration": "Approx. 31 hours to complete",
+        "Site": "Coursera"
+    }
+}

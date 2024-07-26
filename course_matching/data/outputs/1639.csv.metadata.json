@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1639",
+        "Title": "DevOps on AWS: Operate and Monitor",
+        "URL": "https://www.coursera.org/learn/devops-aws-operate-monitor?specialization=aws-devops",
+        "Short Intro": "The third and the final course in the DevOps series will teach how to use AWS Services to control the architecture in order to reach a better operational state. Monitoring and Operation are key aspects for both the release pipeline and production environments, because they provide instruments that help discover what's happening, as well as do modifications and enhancements on infrastructure that is currently running. ",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "CI/CD,aws,Devops,",
+        "Instructors": "Rafael Lopes",
+        "Rating": "4.6",
+        "Number of viewers": "77 ",
+        "Duration": "Approx. 3 hours to complete",
+        "Site": "Coursera"
+    }
+}

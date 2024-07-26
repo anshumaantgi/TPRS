@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1087",
+        "Title": "Introduction to Java and Object-Oriented Programming",
+        "URL": "https://www.coursera.org/learn/java-object-oriented-programming?specialization=programming-python-java",
+        "Short Intro": "This course provides an introduction to the Java language and object-oriented programming, including an overview of Java syntax and how it differs from a language like Python.  Students will learn how to write custom Java classes and methods, and how to test their code using unit testing and test-driven development.  Topics include basic data structures like Arrays and ArrayLists and overloading methods.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Java Tools,Unit Testing,Java Programming,Object-Oriented Programming (OOP),Java Syntax,",
+        "Instructors": "Brandon Krakowsky",
+        "Rating": "4.3",
+        "Number of viewers": "171 ",
+        "Duration": "Approx. 19 hours to complete",
+        "Site": "Coursera"
+    }
+}

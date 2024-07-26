@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1440",
+        "Title": "ETL and Data Pipelines with Shell, Airflow and Kafka",
+        "URL": "https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka?specialization=bi-foundations-sql-etl-data-warehouse",
+        "Short Intro": "After taking this course, you will be able to describe two different approaches to converting raw data into analytics-ready data. One approach is the Extract, Transform, Load (ETL) process. The other contrasting approach is the Extract, Load, and Transform (ELT) process. ETL processes apply to data warehouses and data marts. ELT processes apply to data lakes, where the data is transformed on demand by the requesting/calling application.  ",
+        "Category": "Information Technology",
+        "Sub-Category": "Data Management",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Extraction, Transformation And Loading (ETL),Apache Kafka,Apache Airflow,Data Pipelines,",
+        "Instructors": "Yan Luo",
+        "Rating": "4.5",
+        "Number of viewers": "187 ",
+        "Duration": "Approx. 15 hours to complete",
+        "Site": "Coursera"
+    }
+}

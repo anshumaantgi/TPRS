@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2017",
+        "Title": "Text Retrieval and Search Engines",
+        "URL": "https://www.coursera.org/learn/text-retrieval?specialization=data-mining",
+        "Short Intro": "Recent years have seen a dramatic growth of natural language text data, including web pages, news articles, scientific literature, emails, enterprise documents, and social media such as blog articles, forum posts, product reviews, and tweets. Text data are unique in that they are usually generated directly by humans rather than a computer system or sensors, and are thus especially valuable for discovering knowledge about people\u2019s opinions and preferences, in addition to many other kinds of knowledge that we encode in text. ",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Information Retrieval (IR),Document Retrieval,Machine Learning,Recommender Systems,",
+        "Instructors": "ChengXiang Zhai",
+        "Rating": "4.5",
+        "Number of viewers": "930 ",
+        "Duration": "Approx. 30 hours to complete",
+        "Site": "Coursera"
+    }
+}

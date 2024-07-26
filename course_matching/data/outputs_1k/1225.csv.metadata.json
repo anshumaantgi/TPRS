@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1225",
+        "Title": "Building Web Applications in Django",
+        "URL": "https://www.coursera.org/learn/django-build-web-apps?specialization=django",
+        "Short Intro": "In this course, you will learn how Django communicates with a database through model objects. You will explore Object-Relational Mapping (ORM) for database access and how Django models implement this pattern.  We will review the Object-Oriented (OO) pattern in Python.  You will learn basic Structured Query Language (SQL) and database modeling, including one-to-many and many-to-many relationships and how they work in both the SQL and Django models. You will learn how to use the Django console and scripts to work with your application objects interactively.",
+        "Category": "Computer Science",
+        "Sub-Category": "Mobile and Web Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Django Template Language,GET & POST,Object-Oriented Programming (OOP),Cross-Site Scripting Forgery (CSRF),Django (Web Framework),",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.7",
+        "Number of viewers": "704 ",
+        "Duration": "Approx. 12 hours to complete",
+        "Site": "Coursera"
+    }
+}

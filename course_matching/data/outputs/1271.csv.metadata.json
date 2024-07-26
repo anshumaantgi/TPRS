@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1271",
+        "Title": "Hardware Security",
+        "URL": "https://www.coursera.org/learn/hardware-security?specialization=cyber-security",
+        "Short Intro": "In this course, we will study security and trust from the hardware perspective. Upon completing the course, students will understand the vulnerabilities in current digital system design flow and the physical attacks to these systems. They will learn that security starts from hardware design and be familiar with the tools and skills to build secure and trusted hardware.",
+        "Category": "Computer Science",
+        "Sub-Category": "Computer Security and Networks",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Montgomery Modular Multiplication,Side-Channel Attack,Hardware Design,Cryptographic Hardware,",
+        "Instructors": "Gang Qu",
+        "Rating": "4.3",
+        "Number of viewers": "636 ",
+        "Duration": "Approx. 12 hours to complete",
+        "Site": "Coursera"
+    }
+}

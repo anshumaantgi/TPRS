@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3039",
+        "Title": "Data Engineering with Microsoft Azure",
+        "URL": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277",
+        "Short Intro": "Master the job-ready skills you need to succeed as a Microsoft Azure data engineer like designing data models and utilizing other in-demand components of the cloud computing service. ",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Azure Pipelines, Azure Portal, Azure Data Factory, SQL Databases in Azure, Azure Synapse Analytics, Azure Blob Storage, Apache Spark, Data Pipeline Creation, Databricks, Data Extraction, Data Lakes, OLAP Cubes, Database Fundamentals, Cloud Computing Fluency, Big Data Fluency",
+        "Instructors": "",
+        "Rating": "0.0",
+        "Number of viewers": "",
+        "Duration": "Estimated 4 months to complete",
+        "Site": "Udacity"
+    }
+}

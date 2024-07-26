@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "421",
+        "Title": "IBM DevOps and Software Engineering Professional Certificate",
+        "URL": "https://www.coursera.org/professional-certificates/devops-and-software-engineering",
+        "Short Intro": "Launch your DevOps and Software Engineering Career. Master DevOps, Agile, Scrum, CI/CD and Cloud Native with hands-on job-ready skills.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Professional Certificate",
+        "Language": "English",
+        "Skills": "Test-Driven Development,CI/CD,Behavior-Driven Development,Devops,Cloud Native,Iaas PaaS Saas,Hybrid Multicloud,Cloud Computing,Agile Software Development,Scrum Methodology,Zenhub,Kanban,Sprint Planning,Basic programming concepts,Careers in software engineering,Programming languages and frameworks,The Software Development Lifecycle (SDLC),Software Architecture,Shell Script,Bash (Unix Shell),Linux,Distributed Version Control (DRCS),open source,Version Control Systems,Github,Git (Software),Data Science,Python Programming,Data Analysis,Pandas,Numpy,Artificial Intelligence (AI),Web Application,Application development,Flask,Kubernetes,Docker,Containers,Openshift,Swagger,serverless,Microservices,Representational State Transfer (REST),IBM Code Engine,Test Case,Software Testing,Automated Testing,Continuous Integration,Continuous Development,Automation,Infrastructure As Code,Open Web Application Security Project (OWASP),Observability,security,Monitoring,logging,agile,",
+        "Instructors": "John Rofrano",
+        "Rating": "4.7",
+        "Number of viewers": "1,769 reviews",
+        "Duration": "3 months at 10 hours a week",
+        "Site": "Coursera"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1410",
+        "Title": "Fitting Statistical Models to Data with Python",
+        "URL": "https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python",
+        "Short Intro": "In this course, we will expand our exploration of statistical inference techniques by focusing on the science and art of fitting statistical models to data. We will build on the concepts presented in the Statistical Inference course (Course 2) to emphasize the importance of connecting research questions to our data analysis methods. We will also focus on various modeling objectives, including making inference about relationships between variables and generating predictions for future observations.",
+        "Category": "Data Science",
+        "Sub-Category": "Probability and Statistics",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Bayesian Statistics,Python Programming,Statistical Model,statistical regression,",
+        "Instructors": "Brenda Gunderson",
+        "Rating": "4.4",
+        "Number of viewers": "647 ",
+        "Duration": "Approx. 15 hours to complete",
+        "Site": "Coursera"
+    }
+}

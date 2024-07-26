@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2721",
+        "Title": "Networking in Google Cloud: Defining and Implementing Networks",
+        "URL": "https://www.coursera.org/learn/networking-gcp-defining-implementing-networks?specialization=networking-google-cloud-platform",
+        "Short Intro": "This self-paced training course gives participants broad study of networking options on Google Cloud. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy Google Cloud networking technologies, such as Google Cloud Virtual Private Cloud (VPC) networks, subnets and firewalls. The course also covers access control to networks, sharing networks and load balancing.",
+        "Category": "Information Technology",
+        "Sub-Category": "Networking",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Google Cloud Training",
+        "Rating": "4.8",
+        "Number of viewers": "1,520 ",
+        "Duration": "Approx. 7 hours to complete",
+        "Site": "Coursera"
+    }
+}

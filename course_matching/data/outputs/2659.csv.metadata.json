@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2659",
+        "Title": "Intermediate PostgreSQL",
+        "URL": "https://www.coursera.org/learn/intermediate-postgresql?specialization=postgresql-for-everybody",
+        "Short Intro": "This course covers a wide range of SQL techniques, beyond basic CRUD (Create, Read, Update, and Delete) operations in PostgreSQL. You will learn the specifics of aggregation, transactions, reading and parsing CSV files and inserting data into a database. You\u2019ll also take a look at how PostgreSQL handles and indexes text data.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Charles Russell Severance",
+        "Rating": "4.8",
+        "Number of viewers": "229 ",
+        "Duration": "Approx. 16 hours to complete",
+        "Site": "Coursera"
+    }
+}

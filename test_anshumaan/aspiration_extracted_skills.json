@@ -1,0 +1,58 @@
+{
+    "skills": [
+        {
+            "skill_justification": "Data engineers are responsible for building and maintaining data pipelines, which requires a strong understanding of data movement and management.",
+            "skill": "Data movement and management",
+            "skill_level_justification": "This is a core responsibility of a data engineer, requiring extensive experience and knowledge.",
+            "skill_level": "Expert"
+        },
+        {
+            "skill_justification": "Data engineers need to work with a variety of tools from the modern data stack, including but not limited to Snowflake, Spark, Dagster, dbt, and Azure Cloud offerings.",
+            "skill": "Proficiency in modern data stack tools",
+            "skill_level_justification": "These tools are commonly used in the industry and a data engineer is expected to have a deep understanding of them.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "Data engineers need to discover opportunities for data acquisition and implementation solutions.",
+            "skill": "Data acquisition and implementation",
+            "skill_level_justification": "This is a key responsibility of a data engineer, requiring significant experience and knowledge.",
+            "skill_level": "Expert"
+        },
+        {
+            "skill_justification": "Data engineers need to develop production processes and solutions to model, mine and surface data.",
+            "skill": "Data modeling and mining",
+            "skill_level_justification": "This is a core responsibility of a data engineer, requiring extensive experience and knowledge.",
+            "skill_level": "Expert"
+        },
+        {
+            "skill_justification": "Data engineers need to improve and ensure data reliability, quality and efficiency.",
+            "skill": "Data quality and efficiency",
+            "skill_level_justification": "This is a key responsibility of a data engineer, requiring significant experience and knowledge.",
+            "skill_level": "Expert"
+        },
+        {
+            "skill_justification": "Data engineers need to have strong Python and SQL skills, as well as at least general competency with web languages (HTML/Javascript).",
+            "skill": "Python, SQL, HTML/Javascript",
+            "skill_level_justification": "These are essential tools for a data engineer, requiring proficient use.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "Data engineers need to have experience and competency with at least one cloud services provider (Azure preferred; AWS or GCP also worthwhile).",
+            "skill": "Cloud services (Azure, AWS, GCP)",
+            "skill_level_justification": "These platforms are commonly used in the industry and a data engineer is expected to have a deep understanding of at least one of them.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "Data engineers need to have experience and competency with at least one general data orchestration tool, eg Airflow, Dagster, Prefect, or similar other experience.",
+            "skill": "Data orchestration tools (Airflow, Dagster, Prefect)",
+            "skill_level_justification": "These tools are commonly used in the industry and a data engineer is expected to have a deep understanding of at least one of them.",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_justification": "Communication ability is paramount for data engineers as they need to understand the value of open communication and have a track record of interacting effectively with stakeholders and team members.",
+            "skill": "Communication",
+            "skill_level_justification": "This is a crucial skill for a data engineer as they need to interact with various stakeholders and team members.",
+            "skill_level": "Expert"
+        }
+    ]
+}

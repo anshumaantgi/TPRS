@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "17",
+        "Title": "Natural Language Processing Specialization",
+        "URL": "https://www.coursera.org/specializations/natural-language-processing",
+        "Short Intro": "Break into NLP. Master cutting-edge NLP techniques through four hands-on courses! Updated with the latest techniques in October '21.",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Specialization",
+        "Language": "English",
+        "Skills": "Word2vec, Machine Translation, Sentiment Analysis, Transformers, Attention Models, Word Embeddings, Locality-Sensitive Hashing, Vector Space Models, Parts-of-Speech Tagging, N-gram Language Models, Autocorrect, Word Embedding, ",
+        "Instructors": "Younes Bensouda Mourri ,\u0141ukasz Kaiser ,Eddy Shyu ,",
+        "Rating": "4.6",
+        "Number of viewers": "4,787 ",
+        "Duration": "Approximately 4 months to complete",
+        "Site": "Coursera"
+    }
+}

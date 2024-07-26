@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "1409",
+        "Title": "Identifying Patient Populations",
+        "URL": "https://www.coursera.org/learn/computational-phenotyping?specialization=clinical-data-science",
+        "Short Intro": "This course teaches you the fundamentals of computational phenotyping, a biomedical informatics method for identifying patient populations. In this course you will learn how different clinical data types perform when trying to identify patients with a particular disease or trait. You will also learn how to program different data manipulations and combinations to increase the complexity and improve the performance of your algorithms. Finally, you will have a chance to put your skills to the test with a real-world practical application where you develop a computational phenotyping algorithm to identify patients who have hypertension. You will complete this work using a real clinical data set while using a free, online computational environment for data science hosted by our Industry Partner Google Cloud.",
+        "Category": "Data Science",
+        "Sub-Category": "Data Analysis",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Laura K. Wiley, PhD",
+        "Rating": "4.4",
+        "Number of viewers": "35 ",
+        "Duration": "Approx. 13 hours to complete",
+        "Site": "Coursera"
+    }
+}

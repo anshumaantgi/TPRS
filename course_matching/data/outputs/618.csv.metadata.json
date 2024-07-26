@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "618",
+        "Title": "Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python",
+        "URL": "https://www.coursera.org/learn/computers-waves-simulations",
+        "Short Intro": "Interested in learning how to solve partial differential equations with numerical methods and how to turn them into python codes? This course provides you with a basic introduction how to apply methods like the finite-difference method, the pseudospectral method, the linear and spectral element method to the 1D (or 2D) scalar wave equation. The mathematical derivation of the computational algorithm is accompanied by python codes embedded in Jupyter notebooks. In a unique setup you can see how the mathematical equations are transformed to a computer code and the results visualized. The emphasis is on illustrating the fundamental mathematical ingredients of the various numerical methods (e.g., Taylor series, Fourier series, differentiation, function interpolation, numerical integration) and how they compare. You will be provided with strategies how to ensure your solutions are correct, for example benchmarking with analytical solutions or convergence tests. The mathematical aspects are complemented by a basic introduction to wave physics, discretization, meshes, parallel programming, computing models. ",
+        "Category": "Physical Science and Engineering",
+        "Sub-Category": "Research Methods",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Heiner Igel",
+        "Rating": "4.7",
+        "Number of viewers": "320 ",
+        "Duration": "Approx. 35 hours to complete",
+        "Site": "Coursera"
+    }
+}

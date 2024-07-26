@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "3024",
+        "Title": "Deep Learning",
+        "URL": "https://www.udacity.com/course/deep-learning-nanodegree--nd101",
+        "Short Intro": "Learn to leverage the capabilities of deep learning tools to fix complex problems and unlock next-level results for enterprises.",
+        "Category": "",
+        "Sub-Category": "",
+        "Course Type": "",
+        "Language": "",
+        "Skills": " Recurrent Neural Networks, Generative Adversarial Networks, Convolutional Neural Networks, Long-Short Term Memory Networks, Deep Learning Fluency, CycleGAN, Backpropagation, Autoencoders, Model Training, Model Evaluation, Hyperparameter Tuning, Cloud-Based Machine Learning, PyTorch, Metric Learning, Sentiment Analysis, Image Classification, Image Generation, SageMaker Model Monitor, Logs, API Gateway, Model Deployment, NumPy",
+        "Instructors": "",
+        "Rating": "4.7",
+        "Number of viewers": "",
+        "Duration": "4 months to complete",
+        "Site": "Udacity"
+    }
+}

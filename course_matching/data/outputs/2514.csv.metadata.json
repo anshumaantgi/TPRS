@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2514",
+        "Title": "Mastering Programming with MATLAB",
+        "URL": "https://www.coursera.org/learn/advanced-matlab-programming?specialization=matlab-programming-engineers-scientists",
+        "Short Intro": "The course builds on the foundation laid by the first course of the Specialization called \u201cIntroduction to Programming with MATLAB.\u201d It covers more advanced programming concepts such as recursion, vectorization, function handles, algorithm efficiency and others. At the same time, it presents many features that make MATLAB a powerful programming environment for engineering and scientific computing, such as  its support for object oriented programming, the new user interface design environment and Live Scripts.",
+        "Category": "Computer Science",
+        "Sub-Category": "Software Development",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "",
+        "Instructors": "Akos Ledeczi",
+        "Rating": "4.8",
+        "Number of viewers": "337 ",
+        "Duration": "Approx. 55 hours to complete",
+        "Site": "Coursera"
+    }
+}

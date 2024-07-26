@@ -1,0 +1,18 @@
+{
+    "metadataAttributes": {
+        "Id": "2169",
+        "Title": "Introduction to Trading, Machine Learning & GCP",
+        "URL": "https://www.coursera.org/learn/introduction-trading-machine-learning-gcp?specialization=machine-learning-trading",
+        "Short Intro": "In this course, you\u2019ll learn about the fundamentals of trading, including the concept of trend, returns, stop-loss, and volatility. You will learn how to identify the profit source and structure of basic quantitative trading strategies. This course will help you gauge how well the model generalizes its learning, explain the differences between regression and forecasting, and identify the steps needed to create development and implementation backtesters. By the end of the course, you will be able to use Google Cloud Platform to build basic machine learning models in Jupyter Notebooks. ",
+        "Category": "Data Science",
+        "Sub-Category": "Machine Learning",
+        "Course Type": "Course",
+        "Language": "English",
+        "Skills": "Finance,Trading,Investment,Machine Learning applied to Finance,",
+        "Instructors": "Jack Farmer",
+        "Rating": "4.0",
+        "Number of viewers": "780 ",
+        "Duration": "Approx. 9 hours to complete",
+        "Site": "Coursera"
+    }
+}
