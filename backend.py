@@ -1,8 +1,8 @@
 # Initialize Flask app
 from flask import Flask, request, jsonify
-from resume_extraction import ask_skills_extraction_agent, get_skills
-from aspiration_extraction import ask_aspiration_extraction_agent, get_learning_goal, get_target_skills
-from training_plan_generation  import ask_training_plan_generation_agent, get_training_plan
+from app.resume_extraction import ask_skills_extraction_agent, get_skills
+from app.aspiration_extraction import ask_aspiration_extraction_agent, get_learning_goal, get_target_skills
+from app.training_plan_generation  import ask_training_plan_generation_agent, get_training_plan
 
 app = Flask(__name__)
 SKILLS = {}

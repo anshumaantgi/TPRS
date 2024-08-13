@@ -1,6 +1,6 @@
 # Import necessary libraries
 from langchain_community.callbacks.streamlit import StreamlitCallbackHandler
-import streamlit as st
+import frontend as st
 import requests
 
 # Global varibales
